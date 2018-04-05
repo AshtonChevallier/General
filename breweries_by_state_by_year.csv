@@ -1,0 +1,6743 @@
+Year,ID,State,Count_Breweries
+1633,36,New York,4
+1634,36,New York,1
+1635,36,New York,1
+1636,36,New York,1
+1637,26,Michigan,1
+1637,36,New York,1
+1638,09,Connecticut,1
+1638,36,New York,1
+1639,44,Rhode Island,1
+1640,33,New Hampshire,1
+1641,26,Michigan,1
+1642,36,New York,1
+1643,36,New York,1
+1644,36,New York,1
+1645,36,New York,14
+1646,36,New York,14
+1647,36,New York,16
+1648,34,New Jersey,1
+1648,36,New York,14
+1649,36,New York,15
+1650,36,New York,19
+1651,36,New York,15
+1652,36,New York,15
+1653,36,New York,16
+1654,36,New York,16
+1655,36,New York,17
+1656,36,New York,16
+1657,36,New York,16
+1658,36,New York,16
+1659,36,New York,16
+1660,36,New York,16
+1661,36,New York,15
+1662,36,New York,15
+1663,36,New York,15
+1664,36,New York,15
+1665,36,New York,16
+1666,36,New York,15
+1667,36,New York,15
+1668,36,New York,15
+1669,36,New York,15
+1670,33,New Hampshire,1
+1670,36,New York,15
+1671,36,New York,4
+1672,36,New York,4
+1673,36,New York,4
+1674,36,New York,4
+1675,36,New York,4
+1676,36,New York,3
+1677,36,New York,3
+1678,36,New York,3
+1679,36,New York,3
+1680,36,New York,3
+1681,36,New York,3
+1682,36,New York,3
+1683,36,New York,3
+1683,42,Pennsylvania,1
+1684,36,New York,3
+1685,36,New York,2
+1685,42,Pennsylvania,1
+1686,36,New York,2
+1686,42,Pennsylvania,1
+1687,36,New York,2
+1687,42,Pennsylvania,2
+1688,36,New York,2
+1688,42,Pennsylvania,2
+1689,36,New York,2
+1689,42,Pennsylvania,2
+1690,36,New York,2
+1690,42,Pennsylvania,2
+1691,36,New York,2
+1691,42,Pennsylvania,2
+1692,36,New York,2
+1692,42,Pennsylvania,2
+1693,36,New York,2
+1693,42,Pennsylvania,2
+1694,36,New York,2
+1694,42,Pennsylvania,2
+1695,36,New York,3
+1695,42,Pennsylvania,2
+1696,36,New York,1
+1696,42,Pennsylvania,2
+1697,36,New York,1
+1697,42,Pennsylvania,2
+1698,36,New York,2
+1698,42,Pennsylvania,2
+1699,36,New York,1
+1699,42,Pennsylvania,2
+1700,36,New York,2
+1700,42,Pennsylvania,2
+1701,36,New York,1
+1701,42,Pennsylvania,1
+1702,36,New York,3
+1702,42,Pennsylvania,1
+1703,25,Massachusetts,1
+1703,36,New York,1
+1703,42,Pennsylvania,1
+1704,25,Massachusetts,1
+1704,36,New York,1
+1704,42,Pennsylvania,1
+1705,25,Massachusetts,1
+1705,36,New York,1
+1705,42,Pennsylvania,1
+1706,25,Massachusetts,1
+1706,36,New York,1
+1706,42,Pennsylvania,1
+1707,25,Massachusetts,1
+1707,36,New York,1
+1707,42,Pennsylvania,1
+1708,25,Massachusetts,1
+1708,42,Pennsylvania,1
+1709,25,Massachusetts,1
+1709,42,Pennsylvania,1
+1710,25,Massachusetts,1
+1710,42,Pennsylvania,1
+1711,25,Massachusetts,1
+1711,42,Pennsylvania,1
+1712,25,Massachusetts,1
+1712,42,Pennsylvania,1
+1713,25,Massachusetts,1
+1713,42,Pennsylvania,1
+1714,25,Massachusetts,1
+1714,42,Pennsylvania,1
+1715,25,Massachusetts,1
+1715,42,Pennsylvania,1
+1716,25,Massachusetts,1
+1716,42,Pennsylvania,1
+1717,36,New York,1
+1717,42,Pennsylvania,1
+1718,36,New York,1
+1718,42,Pennsylvania,1
+1719,36,New York,1
+1719,42,Pennsylvania,1
+1720,36,New York,1
+1720,42,Pennsylvania,1
+1721,36,New York,2
+1721,42,Pennsylvania,1
+1722,36,New York,1
+1722,42,Pennsylvania,1
+1723,36,New York,1
+1723,42,Pennsylvania,1
+1724,36,New York,3
+1724,42,Pennsylvania,1
+1725,36,New York,1
+1725,42,Pennsylvania,1
+1726,36,New York,1
+1726,42,Pennsylvania,1
+1727,36,New York,2
+1727,42,Pennsylvania,1
+1728,36,New York,1
+1728,42,Pennsylvania,1
+1729,36,New York,1
+1729,42,Pennsylvania,1
+1730,36,New York,1
+1730,42,Pennsylvania,1
+1731,36,New York,1
+1731,42,Pennsylvania,1
+1732,36,New York,2
+1732,42,Pennsylvania,1
+1733,36,New York,1
+1733,42,Pennsylvania,1
+1734,42,Pennsylvania,1
+1735,42,Pennsylvania,1
+1736,42,Pennsylvania,1
+1737,42,Pennsylvania,1
+1738,42,Pennsylvania,1
+1739,42,Pennsylvania,1
+1740,36,New York,1
+1740,42,Pennsylvania,1
+1741,42,Pennsylvania,1
+1742,42,Pennsylvania,1
+1743,42,Pennsylvania,1
+1744,42,Pennsylvania,1
+1745,42,Pennsylvania,1
+1746,25,Massachusetts,2
+1746,42,Pennsylvania,1
+1747,25,Massachusetts,1
+1747,42,Pennsylvania,1
+1748,25,Massachusetts,2
+1748,42,Pennsylvania,1
+1749,25,Massachusetts,3
+1749,42,Pennsylvania,2
+1750,25,Massachusetts,3
+1750,42,Pennsylvania,1
+1751,25,Massachusetts,3
+1751,42,Pennsylvania,1
+1752,25,Massachusetts,3
+1752,42,Pennsylvania,1
+1753,25,Massachusetts,3
+1753,36,New York,1
+1753,42,Pennsylvania,1
+1754,25,Massachusetts,3
+1754,36,New York,1
+1754,42,Pennsylvania,1
+1755,25,Massachusetts,3
+1755,36,New York,1
+1755,42,Pennsylvania,1
+1756,25,Massachusetts,3
+1756,42,Pennsylvania,1
+1757,25,Massachusetts,3
+1757,42,Pennsylvania,1
+1758,25,Massachusetts,4
+1758,36,New York,1
+1758,42,Pennsylvania,1
+1759,25,Massachusetts,4
+1759,36,New York,1
+1759,42,Pennsylvania,1
+1760,25,Massachusetts,4
+1760,36,New York,1
+1760,42,Pennsylvania,1
+1761,25,Massachusetts,5
+1761,36,New York,3
+1761,42,Pennsylvania,1
+1762,25,Massachusetts,5
+1762,36,New York,1
+1762,42,Pennsylvania,1
+1763,25,Massachusetts,5
+1763,42,Pennsylvania,2
+1764,25,Massachusetts,6
+1764,42,Pennsylvania,2
+1765,18,Indiana,1
+1765,25,Massachusetts,6
+1765,42,Pennsylvania,2
+1766,25,Massachusetts,6
+1766,42,Pennsylvania,2
+1767,25,Massachusetts,4
+1767,42,Pennsylvania,2
+1768,25,Massachusetts,4
+1768,42,Pennsylvania,2
+1769,25,Massachusetts,4
+1769,36,New York,1
+1769,42,Pennsylvania,2
+1770,25,Massachusetts,4
+1770,42,Pennsylvania,2
+1771,25,Massachusetts,4
+1771,33,New Hampshire,1
+1771,42,Pennsylvania,2
+1772,25,Massachusetts,5
+1772,42,Pennsylvania,3
+1773,25,Massachusetts,4
+1773,42,Pennsylvania,3
+1774,25,Massachusetts,4
+1774,42,Pennsylvania,4
+1775,25,Massachusetts,4
+1775,42,Pennsylvania,4
+1776,25,Massachusetts,4
+1776,42,Pennsylvania,4
+1777,25,Massachusetts,4
+1777,42,Pennsylvania,4
+1778,25,Massachusetts,4
+1778,42,Pennsylvania,4
+1779,25,Massachusetts,6
+1779,42,Pennsylvania,4
+1780,25,Massachusetts,5
+1780,42,Pennsylvania,6
+1781,25,Massachusetts,5
+1781,42,Pennsylvania,6
+1782,25,Massachusetts,5
+1782,42,Pennsylvania,6
+1783,25,Massachusetts,6
+1783,36,New York,1
+1783,42,Pennsylvania,7
+1784,25,Massachusetts,5
+1784,42,Pennsylvania,11
+1785,25,Massachusetts,5
+1785,42,Pennsylvania,14
+1786,25,Massachusetts,5
+1786,36,New York,2
+1786,42,Pennsylvania,12
+1787,25,Massachusetts,5
+1787,36,New York,1
+1787,42,Pennsylvania,12
+1788,25,Massachusetts,5
+1788,36,New York,1
+1788,42,Pennsylvania,12
+1789,25,Massachusetts,5
+1789,36,New York,1
+1789,42,Pennsylvania,13
+1790,25,Massachusetts,4
+1790,36,New York,1
+1790,42,Pennsylvania,15
+1791,25,Massachusetts,4
+1791,36,New York,1
+1791,42,Pennsylvania,15
+1792,25,Massachusetts,5
+1792,36,New York,2
+1792,42,Pennsylvania,16
+1793,25,Massachusetts,3
+1793,36,New York,2
+1793,42,Pennsylvania,16
+1794,25,Massachusetts,3
+1794,36,New York,2
+1794,42,Pennsylvania,14
+1795,25,Massachusetts,3
+1795,36,New York,2
+1795,42,Pennsylvania,15
+1796,25,Massachusetts,4
+1796,36,New York,3
+1796,42,Pennsylvania,15
+1797,25,Massachusetts,2
+1797,36,New York,4
+1797,42,Pennsylvania,15
+1798,09,Connecticut,1
+1798,25,Massachusetts,2
+1798,36,New York,4
+1798,42,Pennsylvania,15
+1799,09,Connecticut,1
+1799,25,Massachusetts,2
+1799,36,New York,4
+1799,42,Pennsylvania,16
+1800,09,Connecticut,1
+1800,25,Massachusetts,6
+1800,26,Michigan,1
+1800,36,New York,4
+1800,42,Pennsylvania,16
+1801,09,Connecticut,1
+1801,25,Massachusetts,5
+1801,36,New York,4
+1801,42,Pennsylvania,16
+1802,09,Connecticut,1
+1802,25,Massachusetts,6
+1802,36,New York,4
+1802,42,Pennsylvania,17
+1803,09,Connecticut,1
+1803,25,Massachusetts,5
+1803,36,New York,4
+1803,42,Pennsylvania,17
+1804,09,Connecticut,1
+1804,25,Massachusetts,6
+1804,36,New York,6
+1804,42,Pennsylvania,23
+1805,25,Massachusetts,7
+1805,34,New Jersey,1
+1805,36,New York,5
+1805,42,Pennsylvania,26
+1806,25,Massachusetts,7
+1806,34,New Jersey,1
+1806,36,New York,6
+1806,42,Pennsylvania,26
+1807,25,Massachusetts,7
+1807,34,New Jersey,1
+1807,36,New York,6
+1807,42,Pennsylvania,24
+1808,25,Massachusetts,8
+1808,34,New Jersey,1
+1808,36,New York,6
+1808,42,Pennsylvania,23
+1809,25,Massachusetts,8
+1809,29,Missouri,1
+1809,34,New Jersey,1
+1809,36,New York,7
+1809,42,Pennsylvania,24
+1810,25,Massachusetts,9
+1810,29,Missouri,2
+1810,34,New Jersey,1
+1810,36,New York,8
+1810,42,Pennsylvania,24
+1811,25,Massachusetts,8
+1811,29,Missouri,2
+1811,34,New Jersey,1
+1811,36,New York,7
+1811,39,Ohio,1
+1811,42,Pennsylvania,20
+1812,25,Massachusetts,8
+1812,29,Missouri,1
+1812,34,New Jersey,1
+1812,36,New York,7
+1812,39,Ohio,1
+1812,42,Pennsylvania,20
+1813,25,Massachusetts,8
+1813,34,New Jersey,1
+1813,36,New York,7
+1813,39,Ohio,2
+1813,42,Pennsylvania,19
+1814,25,Massachusetts,8
+1814,34,New Jersey,1
+1814,36,New York,7
+1814,39,Ohio,2
+1814,42,Pennsylvania,20
+1815,25,Massachusetts,8
+1815,34,New Jersey,1
+1815,36,New York,7
+1815,39,Ohio,2
+1815,42,Pennsylvania,23
+1816,25,Massachusetts,6
+1816,34,New Jersey,1
+1816,36,New York,7
+1816,39,Ohio,2
+1816,42,Pennsylvania,21
+1817,25,Massachusetts,6
+1817,29,Missouri,1
+1817,34,New Jersey,1
+1817,36,New York,7
+1817,39,Ohio,2
+1817,42,Pennsylvania,17
+1818,25,Massachusetts,5
+1818,29,Missouri,1
+1818,34,New Jersey,1
+1818,36,New York,7
+1818,39,Ohio,1
+1818,42,Pennsylvania,18
+1819,25,Massachusetts,5
+1819,29,Missouri,1
+1819,34,New Jersey,1
+1819,36,New York,9
+1819,39,Ohio,4
+1819,42,Pennsylvania,18
+1820,25,Massachusetts,4
+1820,29,Missouri,1
+1820,33,New Hampshire,1
+1820,34,New Jersey,1
+1820,36,New York,10
+1820,39,Ohio,4
+1820,42,Pennsylvania,17
+1821,25,Massachusetts,4
+1821,26,Michigan,1
+1821,29,Missouri,1
+1821,34,New Jersey,1
+1821,36,New York,10
+1821,39,Ohio,4
+1821,42,Pennsylvania,17
+1822,25,Massachusetts,4
+1822,26,Michigan,1
+1822,29,Missouri,1
+1822,34,New Jersey,1
+1822,36,New York,11
+1822,39,Ohio,4
+1822,42,Pennsylvania,17
+1822,54,West Virginia,1
+1823,19,Iowa,1
+1823,25,Massachusetts,4
+1823,26,Michigan,1
+1823,29,Missouri,1
+1823,34,New Jersey,1
+1823,36,New York,12
+1823,39,Ohio,4
+1823,42,Pennsylvania,18
+1823,54,West Virginia,1
+1824,19,Iowa,1
+1824,25,Massachusetts,4
+1824,26,Michigan,1
+1824,29,Missouri,1
+1824,34,New Jersey,1
+1824,36,New York,13
+1824,39,Ohio,4
+1824,42,Pennsylvania,19
+1824,54,West Virginia,1
+1825,19,Iowa,1
+1825,25,Massachusetts,4
+1825,26,Michigan,1
+1825,29,Missouri,2
+1825,34,New Jersey,1
+1825,36,New York,15
+1825,39,Ohio,5
+1825,42,Pennsylvania,19
+1825,54,West Virginia,1
+1826,19,Iowa,1
+1826,25,Massachusetts,4
+1826,26,Michigan,1
+1826,29,Missouri,2
+1826,34,New Jersey,1
+1826,36,New York,15
+1826,39,Ohio,4
+1826,42,Pennsylvania,20
+1826,54,West Virginia,1
+1827,19,Iowa,1
+1827,25,Massachusetts,4
+1827,26,Michigan,1
+1827,29,Missouri,2
+1827,34,New Jersey,1
+1827,36,New York,14
+1827,39,Ohio,4
+1827,42,Pennsylvania,18
+1827,54,West Virginia,1
+1828,19,Iowa,1
+1828,25,Massachusetts,2
+1828,26,Michigan,2
+1828,29,Missouri,2
+1828,34,New Jersey,1
+1828,36,New York,14
+1828,39,Ohio,5
+1828,42,Pennsylvania,18
+1828,54,West Virginia,1
+1829,19,Iowa,1
+1829,25,Massachusetts,3
+1829,26,Michigan,2
+1829,29,Missouri,2
+1829,34,New Jersey,1
+1829,36,New York,14
+1829,39,Ohio,5
+1829,42,Pennsylvania,18
+1829,54,West Virginia,1
+1830,19,Iowa,1
+1830,25,Massachusetts,3
+1830,26,Michigan,2
+1830,29,Missouri,1
+1830,34,New Jersey,1
+1830,36,New York,19
+1830,39,Ohio,6
+1830,42,Pennsylvania,18
+1830,54,West Virginia,1
+1831,19,Iowa,1
+1831,25,Massachusetts,3
+1831,26,Michigan,2
+1831,29,Missouri,2
+1831,34,New Jersey,1
+1831,36,New York,18
+1831,39,Ohio,7
+1831,42,Pennsylvania,18
+1831,54,West Virginia,1
+1832,19,Iowa,1
+1832,25,Massachusetts,3
+1832,26,Michigan,2
+1832,29,Missouri,2
+1832,34,New Jersey,1
+1832,36,New York,20
+1832,39,Ohio,9
+1832,42,Pennsylvania,18
+1832,54,West Virginia,1
+1833,18,Indiana,1
+1833,19,Iowa,1
+1833,25,Massachusetts,5
+1833,26,Michigan,2
+1833,29,Missouri,2
+1833,34,New Jersey,1
+1833,36,New York,20
+1833,39,Ohio,9
+1833,42,Pennsylvania,17
+1833,54,West Virginia,1
+1834,18,Indiana,1
+1834,19,Iowa,2
+1834,25,Massachusetts,5
+1834,26,Michigan,2
+1834,29,Missouri,3
+1834,34,New Jersey,1
+1834,36,New York,22
+1834,39,Ohio,9
+1834,42,Pennsylvania,17
+1834,54,West Virginia,1
+1835,18,Indiana,1
+1835,19,Iowa,2
+1835,25,Massachusetts,5
+1835,26,Michigan,2
+1835,29,Missouri,4
+1835,34,New Jersey,1
+1835,36,New York,23
+1835,39,Ohio,9
+1835,42,Pennsylvania,18
+1835,44,Rhode Island,1
+1835,54,West Virginia,1
+1836,18,Indiana,1
+1836,19,Iowa,3
+1836,25,Massachusetts,4
+1836,26,Michigan,2
+1836,29,Missouri,4
+1836,34,New Jersey,1
+1836,36,New York,21
+1836,39,Ohio,13
+1836,42,Pennsylvania,21
+1836,44,Rhode Island,1
+1836,54,West Virginia,1
+1837,18,Indiana,1
+1837,19,Iowa,4
+1837,25,Massachusetts,4
+1837,26,Michigan,2
+1837,29,Missouri,4
+1837,34,New Jersey,1
+1837,36,New York,22
+1837,39,Ohio,13
+1837,42,Pennsylvania,22
+1837,44,Rhode Island,1
+1837,54,West Virginia,1
+1838,18,Indiana,1
+1838,19,Iowa,4
+1838,25,Massachusetts,5
+1838,26,Michigan,2
+1838,29,Missouri,6
+1838,34,New Jersey,1
+1838,36,New York,21
+1838,39,Ohio,13
+1838,42,Pennsylvania,20
+1838,44,Rhode Island,1
+1838,54,West Virginia,1
+1839,18,Indiana,1
+1839,19,Iowa,4
+1839,25,Massachusetts,5
+1839,26,Michigan,2
+1839,29,Missouri,6
+1839,34,New Jersey,1
+1839,36,New York,21
+1839,39,Ohio,13
+1839,42,Pennsylvania,20
+1839,44,Rhode Island,1
+1839,54,West Virginia,1
+1840,18,Indiana,4
+1840,19,Iowa,4
+1840,25,Massachusetts,8
+1840,26,Michigan,2
+1840,29,Missouri,5
+1840,34,New Jersey,1
+1840,36,New York,31
+1840,39,Ohio,13
+1840,42,Pennsylvania,23
+1840,44,Rhode Island,1
+1840,54,West Virginia,2
+1840,55,Wisconsin,3
+1841,18,Indiana,3
+1841,19,Iowa,4
+1841,25,Massachusetts,8
+1841,26,Michigan,2
+1841,29,Missouri,4
+1841,34,New Jersey,1
+1841,36,New York,28
+1841,39,Ohio,13
+1841,42,Pennsylvania,22
+1841,44,Rhode Island,1
+1841,54,West Virginia,2
+1841,55,Wisconsin,4
+1842,18,Indiana,5
+1842,19,Iowa,3
+1842,25,Massachusetts,9
+1842,26,Michigan,2
+1842,29,Missouri,5
+1842,34,New Jersey,1
+1842,36,New York,28
+1842,39,Ohio,13
+1842,42,Pennsylvania,25
+1842,44,Rhode Island,1
+1842,54,West Virginia,2
+1842,55,Wisconsin,5
+1843,18,Indiana,6
+1843,19,Iowa,4
+1843,25,Massachusetts,9
+1843,26,Michigan,2
+1843,29,Missouri,8
+1843,34,New Jersey,1
+1843,36,New York,27
+1843,39,Ohio,14
+1843,42,Pennsylvania,29
+1843,44,Rhode Island,1
+1843,54,West Virginia,2
+1843,55,Wisconsin,6
+1844,18,Indiana,5
+1844,19,Iowa,4
+1844,20,Kansas,1
+1844,25,Massachusetts,9
+1844,26,Michigan,2
+1844,29,Missouri,11
+1844,34,New Jersey,1
+1844,36,New York,28
+1844,39,Ohio,15
+1844,42,Pennsylvania,31
+1844,44,Rhode Island,1
+1844,54,West Virginia,2
+1844,55,Wisconsin,9
+1845,18,Indiana,8
+1845,19,Iowa,5
+1845,20,Kansas,4
+1845,25,Massachusetts,10
+1845,26,Michigan,2
+1845,27,Minnesota,1
+1845,29,Missouri,15
+1845,34,New Jersey,1
+1845,36,New York,36
+1845,39,Ohio,14
+1845,42,Pennsylvania,36
+1845,44,Rhode Island,1
+1845,54,West Virginia,2
+1845,55,Wisconsin,12
+1846,18,Indiana,7
+1846,19,Iowa,5
+1846,20,Kansas,5
+1846,25,Massachusetts,12
+1846,26,Michigan,3
+1846,27,Minnesota,1
+1846,29,Missouri,12
+1846,34,New Jersey,1
+1846,36,New York,39
+1846,39,Ohio,17
+1846,42,Pennsylvania,36
+1846,44,Rhode Island,1
+1846,54,West Virginia,2
+1846,55,Wisconsin,13
+1847,18,Indiana,10
+1847,19,Iowa,6
+1847,20,Kansas,5
+1847,25,Massachusetts,14
+1847,26,Michigan,3
+1847,27,Minnesota,1
+1847,29,Missouri,13
+1847,34,New Jersey,1
+1847,36,New York,39
+1847,39,Ohio,18
+1847,42,Pennsylvania,38
+1847,44,Rhode Island,1
+1847,54,West Virginia,3
+1847,55,Wisconsin,15
+1848,18,Indiana,11
+1848,19,Iowa,8
+1848,20,Kansas,6
+1848,25,Massachusetts,15
+1848,26,Michigan,3
+1848,27,Minnesota,1
+1848,28,Mississippi,1
+1848,29,Missouri,17
+1848,34,New Jersey,1
+1848,36,New York,40
+1848,39,Ohio,19
+1848,42,Pennsylvania,43
+1848,44,Rhode Island,1
+1848,54,West Virginia,3
+1848,55,Wisconsin,19
+1849,06,California,1
+1849,18,Indiana,18
+1849,19,Iowa,6
+1849,20,Kansas,7
+1849,25,Massachusetts,17
+1849,26,Michigan,3
+1849,27,Minnesota,1
+1849,28,Mississippi,1
+1849,29,Missouri,18
+1849,34,New Jersey,1
+1849,36,New York,44
+1849,39,Ohio,21
+1849,42,Pennsylvania,47
+1849,44,Rhode Island,1
+1849,54,West Virginia,3
+1849,55,Wisconsin,24
+1850,12,Florida,2
+1850,18,Indiana,24
+1850,19,Iowa,8
+1850,20,Kansas,10
+1850,23,Maine,1
+1850,25,Massachusetts,18
+1850,26,Michigan,5
+1850,27,Minnesota,4
+1850,28,Mississippi,4
+1850,29,Missouri,20
+1850,34,New Jersey,1
+1850,36,New York,60
+1850,39,Ohio,24
+1850,42,Pennsylvania,54
+1850,44,Rhode Island,1
+1850,54,West Virginia,3
+1850,55,Wisconsin,63
+1851,06,California,1
+1851,12,Florida,2
+1851,18,Indiana,25
+1851,19,Iowa,7
+1851,20,Kansas,12
+1851,23,Maine,1
+1851,25,Massachusetts,18
+1851,26,Michigan,5
+1851,27,Minnesota,2
+1851,28,Mississippi,3
+1851,29,Missouri,23
+1851,34,New Jersey,1
+1851,36,New York,54
+1851,39,Ohio,25
+1851,42,Pennsylvania,55
+1851,44,Rhode Island,1
+1851,54,West Virginia,3
+1851,55,Wisconsin,65
+1852,06,California,3
+1852,09,Connecticut,2
+1852,12,Florida,2
+1852,18,Indiana,26
+1852,19,Iowa,9
+1852,20,Kansas,16
+1852,21,Kentucky,1
+1852,23,Maine,1
+1852,25,Massachusetts,22
+1852,26,Michigan,5
+1852,27,Minnesota,3
+1852,28,Mississippi,3
+1852,29,Missouri,27
+1852,34,New Jersey,3
+1852,36,New York,65
+1852,39,Ohio,31
+1852,41,Oregon,1
+1852,42,Pennsylvania,60
+1852,44,Rhode Island,1
+1852,54,West Virginia,3
+1852,55,Wisconsin,76
+1853,06,California,3
+1853,09,Connecticut,2
+1853,12,Florida,2
+1853,18,Indiana,27
+1853,19,Iowa,11
+1853,20,Kansas,18
+1853,21,Kentucky,2
+1853,23,Maine,1
+1853,25,Massachusetts,28
+1853,26,Michigan,5
+1853,27,Minnesota,3
+1853,28,Mississippi,5
+1853,29,Missouri,29
+1853,34,New Jersey,4
+1853,36,New York,72
+1853,39,Ohio,35
+1853,41,Oregon,1
+1853,42,Pennsylvania,69
+1853,44,Rhode Island,1
+1853,54,West Virginia,3
+1853,55,Wisconsin,87
+1854,06,California,5
+1854,09,Connecticut,2
+1854,12,Florida,2
+1854,18,Indiana,30
+1854,19,Iowa,12
+1854,20,Kansas,18
+1854,21,Kentucky,2
+1854,23,Maine,1
+1854,25,Massachusetts,28
+1854,26,Michigan,5
+1854,27,Minnesota,3
+1854,28,Mississippi,6
+1854,29,Missouri,31
+1854,34,New Jersey,5
+1854,36,New York,78
+1854,39,Ohio,38
+1854,41,Oregon,1
+1854,42,Pennsylvania,76
+1854,44,Rhode Island,1
+1854,54,West Virginia,4
+1854,55,Wisconsin,92
+1855,06,California,8
+1855,09,Connecticut,2
+1855,12,Florida,2
+1855,18,Indiana,37
+1855,19,Iowa,14
+1855,20,Kansas,25
+1855,21,Kentucky,2
+1855,23,Maine,1
+1855,25,Massachusetts,28
+1855,26,Michigan,5
+1855,27,Minnesota,4
+1855,28,Mississippi,10
+1855,29,Missouri,31
+1855,34,New Jersey,8
+1855,36,New York,85
+1855,39,Ohio,42
+1855,41,Oregon,1
+1855,42,Pennsylvania,83
+1855,44,Rhode Island,1
+1855,48,Texas,1
+1855,53,Washington,1
+1855,54,West Virginia,5
+1855,55,Wisconsin,100
+1856,06,California,12
+1856,09,Connecticut,3
+1856,12,Florida,2
+1856,18,Indiana,39
+1856,19,Iowa,14
+1856,20,Kansas,29
+1856,21,Kentucky,2
+1856,23,Maine,1
+1856,25,Massachusetts,31
+1856,26,Michigan,5
+1856,27,Minnesota,6
+1856,28,Mississippi,14
+1856,29,Missouri,32
+1856,33,New Hampshire,1
+1856,34,New Jersey,8
+1856,36,New York,89
+1856,39,Ohio,52
+1856,41,Oregon,1
+1856,42,Pennsylvania,87
+1856,44,Rhode Island,1
+1856,48,Texas,1
+1856,53,Washington,2
+1856,54,West Virginia,5
+1856,55,Wisconsin,100
+1857,06,California,12
+1857,09,Connecticut,3
+1857,12,Florida,2
+1857,18,Indiana,40
+1857,19,Iowa,15
+1857,20,Kansas,37
+1857,21,Kentucky,3
+1857,23,Maine,1
+1857,25,Massachusetts,32
+1857,26,Michigan,6
+1857,27,Minnesota,8
+1857,28,Mississippi,17
+1857,29,Missouri,42
+1857,33,New Hampshire,1
+1857,34,New Jersey,10
+1857,36,New York,102
+1857,39,Ohio,59
+1857,41,Oregon,1
+1857,42,Pennsylvania,95
+1857,44,Rhode Island,1
+1857,48,Texas,1
+1857,53,Washington,2
+1857,54,West Virginia,5
+1857,55,Wisconsin,109
+1858,06,California,15
+1858,09,Connecticut,3
+1858,12,Florida,2
+1858,18,Indiana,54
+1858,19,Iowa,15
+1858,20,Kansas,42
+1858,21,Kentucky,5
+1858,22,Louisiana,1
+1858,23,Maine,1
+1858,25,Massachusetts,34
+1858,26,Michigan,6
+1858,27,Minnesota,8
+1858,28,Mississippi,17
+1858,29,Missouri,44
+1858,33,New Hampshire,3
+1858,34,New Jersey,11
+1858,36,New York,105
+1858,39,Ohio,61
+1858,41,Oregon,1
+1858,42,Pennsylvania,97
+1858,44,Rhode Island,1
+1858,48,Texas,1
+1858,53,Washington,2
+1858,54,West Virginia,5
+1858,55,Wisconsin,122
+1859,06,California,17
+1859,08,Colorado,1
+1859,09,Connecticut,4
+1859,10,Delaware,1
+1859,12,Florida,2
+1859,18,Indiana,60
+1859,19,Iowa,18
+1859,20,Kansas,48
+1859,21,Kentucky,5
+1859,22,Louisiana,1
+1859,23,Maine,1
+1859,25,Massachusetts,39
+1859,26,Michigan,6
+1859,27,Minnesota,10
+1859,28,Mississippi,17
+1859,29,Missouri,45
+1859,31,Nebraska,2
+1859,33,New Hampshire,3
+1859,34,New Jersey,14
+1859,36,New York,111
+1859,39,Ohio,65
+1859,41,Oregon,1
+1859,42,Pennsylvania,115
+1859,44,Rhode Island,1
+1859,47,Tennessee,3
+1859,48,Texas,1
+1859,53,Washington,2
+1859,54,West Virginia,5
+1859,55,Wisconsin,126
+1860,06,California,18
+1860,08,Colorado,1
+1860,09,Connecticut,5
+1860,10,Delaware,1
+1860,12,Florida,2
+1860,18,Indiana,68
+1860,19,Iowa,21
+1860,20,Kansas,51
+1860,21,Kentucky,5
+1860,22,Louisiana,2
+1860,23,Maine,1
+1860,25,Massachusetts,41
+1860,26,Michigan,7
+1860,27,Minnesota,17
+1860,28,Mississippi,19
+1860,29,Missouri,47
+1860,31,Nebraska,2
+1860,32,Nevada,1
+1860,33,New Hampshire,3
+1860,34,New Jersey,16
+1860,36,New York,121
+1860,39,Ohio,75
+1860,41,Oregon,1
+1860,42,Pennsylvania,128
+1860,44,Rhode Island,1
+1860,46,South Dakota,1
+1860,47,Tennessee,3
+1860,48,Texas,2
+1860,53,Washington,2
+1860,54,West Virginia,6
+1860,55,Wisconsin,135
+1861,06,California,19
+1861,08,Colorado,1
+1861,09,Connecticut,5
+1861,10,Delaware,1
+1861,12,Florida,2
+1861,18,Indiana,67
+1861,19,Iowa,21
+1861,20,Kansas,47
+1861,21,Kentucky,5
+1861,22,Louisiana,4
+1861,23,Maine,1
+1861,25,Massachusetts,36
+1861,26,Michigan,8
+1861,27,Minnesota,18
+1861,28,Mississippi,20
+1861,29,Missouri,39
+1861,31,Nebraska,3
+1861,32,Nevada,1
+1861,33,New Hampshire,3
+1861,34,New Jersey,16
+1861,36,New York,126
+1861,39,Ohio,80
+1861,41,Oregon,1
+1861,42,Pennsylvania,118
+1861,44,Rhode Island,1
+1861,46,South Dakota,1
+1861,47,Tennessee,2
+1861,48,Texas,2
+1861,53,Washington,3
+1861,54,West Virginia,6
+1861,55,Wisconsin,127
+1862,06,California,21
+1862,08,Colorado,4
+1862,09,Connecticut,7
+1862,10,Delaware,1
+1862,12,Florida,2
+1862,17,Illinois,2
+1862,18,Indiana,71
+1862,19,Iowa,22
+1862,20,Kansas,49
+1862,21,Kentucky,6
+1862,22,Louisiana,4
+1862,23,Maine,1
+1862,25,Massachusetts,40
+1862,26,Michigan,8
+1862,27,Minnesota,18
+1862,28,Mississippi,21
+1862,29,Missouri,38
+1862,31,Nebraska,5
+1862,32,Nevada,1
+1862,33,New Hampshire,3
+1862,34,New Jersey,17
+1862,36,New York,126
+1862,39,Ohio,80
+1862,41,Oregon,2
+1862,42,Pennsylvania,116
+1862,44,Rhode Island,1
+1862,46,South Dakota,1
+1862,47,Tennessee,1
+1862,48,Texas,2
+1862,51,Virginia,3
+1862,53,Washington,3
+1862,54,West Virginia,6
+1862,55,Wisconsin,133
+1863,06,California,20
+1863,08,Colorado,4
+1863,09,Connecticut,7
+1863,10,Delaware,1
+1863,12,Florida,2
+1863,17,Illinois,3
+1863,18,Indiana,69
+1863,19,Iowa,24
+1863,20,Kansas,50
+1863,21,Kentucky,6
+1863,22,Louisiana,4
+1863,23,Maine,1
+1863,25,Massachusetts,42
+1863,26,Michigan,8
+1863,27,Minnesota,18
+1863,28,Mississippi,23
+1863,29,Missouri,41
+1863,30,Montana,1
+1863,31,Nebraska,7
+1863,32,Nevada,2
+1863,33,New Hampshire,3
+1863,34,New Jersey,17
+1863,36,New York,127
+1863,39,Ohio,80
+1863,41,Oregon,3
+1863,42,Pennsylvania,125
+1863,46,South Dakota,1
+1863,47,Tennessee,1
+1863,48,Texas,2
+1863,51,Virginia,3
+1863,53,Washington,3
+1863,54,West Virginia,6
+1863,55,Wisconsin,139
+1864,06,California,20
+1864,08,Colorado,6
+1864,09,Connecticut,7
+1864,10,Delaware,1
+1864,12,Florida,3
+1864,17,Illinois,3
+1864,18,Indiana,74
+1864,19,Iowa,24
+1864,20,Kansas,50
+1864,21,Kentucky,6
+1864,22,Louisiana,4
+1864,23,Maine,1
+1864,25,Massachusetts,45
+1864,26,Michigan,8
+1864,27,Minnesota,20
+1864,28,Mississippi,25
+1864,29,Missouri,51
+1864,30,Montana,2
+1864,31,Nebraska,7
+1864,32,Nevada,1
+1864,33,New Hampshire,3
+1864,34,New Jersey,17
+1864,36,New York,133
+1864,39,Ohio,77
+1864,41,Oregon,3
+1864,42,Pennsylvania,124
+1864,46,South Dakota,1
+1864,47,Tennessee,2
+1864,48,Texas,2
+1864,49,Utah,1
+1864,51,Virginia,3
+1864,53,Washington,3
+1864,54,West Virginia,6
+1864,55,Wisconsin,136
+1865,06,California,20
+1865,08,Colorado,6
+1865,09,Connecticut,10
+1865,10,Delaware,2
+1865,12,Florida,3
+1865,17,Illinois,14
+1865,18,Indiana,77
+1865,19,Iowa,25
+1865,20,Kansas,106
+1865,21,Kentucky,6
+1865,22,Louisiana,5
+1865,23,Maine,1
+1865,25,Massachusetts,50
+1865,26,Michigan,8
+1865,27,Minnesota,22
+1865,28,Mississippi,28
+1865,29,Missouri,51
+1865,30,Montana,3
+1865,31,Nebraska,7
+1865,32,Nevada,1
+1865,33,New Hampshire,3
+1865,34,New Jersey,19
+1865,36,New York,143
+1865,39,Ohio,79
+1865,41,Oregon,3
+1865,42,Pennsylvania,127
+1865,46,South Dakota,1
+1865,47,Tennessee,3
+1865,48,Texas,2
+1865,49,Utah,1
+1865,51,Virginia,3
+1865,53,Washington,3
+1865,54,West Virginia,6
+1865,55,Wisconsin,137
+1866,04,Arizona,1
+1866,06,California,21
+1866,08,Colorado,6
+1866,09,Connecticut,9
+1866,10,Delaware,2
+1866,12,Florida,3
+1866,17,Illinois,10
+1866,18,Indiana,79
+1866,19,Iowa,29
+1866,20,Kansas,74
+1866,21,Kentucky,6
+1866,22,Louisiana,7
+1866,23,Maine,1
+1866,25,Massachusetts,53
+1866,26,Michigan,9
+1866,27,Minnesota,26
+1866,28,Mississippi,29
+1866,29,Missouri,54
+1866,30,Montana,3
+1866,31,Nebraska,7
+1866,32,Nevada,1
+1866,33,New Hampshire,3
+1866,34,New Jersey,21
+1866,36,New York,146
+1866,39,Ohio,81
+1866,41,Oregon,3
+1866,42,Pennsylvania,129
+1866,46,South Dakota,1
+1866,47,Tennessee,9
+1866,48,Texas,2
+1866,49,Utah,1
+1866,51,Virginia,2
+1866,53,Washington,3
+1866,54,West Virginia,6
+1866,55,Wisconsin,144
+1867,04,Arizona,2
+1867,06,California,22
+1867,08,Colorado,7
+1867,09,Connecticut,10
+1867,10,Delaware,2
+1867,12,Florida,3
+1867,17,Illinois,4
+1867,18,Indiana,83
+1867,19,Iowa,26
+1867,20,Kansas,76
+1867,21,Kentucky,6
+1867,22,Louisiana,7
+1867,23,Maine,1
+1867,25,Massachusetts,63
+1867,26,Michigan,11
+1867,27,Minnesota,28
+1867,28,Mississippi,28
+1867,29,Missouri,54
+1867,30,Montana,3
+1867,31,Nebraska,7
+1867,32,Nevada,1
+1867,33,New Hampshire,3
+1867,34,New Jersey,21
+1867,36,New York,146
+1867,39,Ohio,82
+1867,41,Oregon,3
+1867,42,Pennsylvania,128
+1867,44,Rhode Island,1
+1867,46,South Dakota,1
+1867,47,Tennessee,6
+1867,48,Texas,2
+1867,49,Utah,1
+1867,51,Virginia,2
+1867,53,Washington,3
+1867,54,West Virginia,6
+1867,55,Wisconsin,147
+1868,04,Arizona,4
+1868,06,California,24
+1868,08,Colorado,10
+1868,09,Connecticut,10
+1868,10,Delaware,2
+1868,12,Florida,3
+1868,15,Hawaii,1
+1868,17,Illinois,4
+1868,18,Indiana,80
+1868,19,Iowa,28
+1868,20,Kansas,78
+1868,21,Kentucky,7
+1868,22,Louisiana,7
+1868,23,Maine,1
+1868,25,Massachusetts,63
+1868,26,Michigan,11
+1868,27,Minnesota,32
+1868,28,Mississippi,28
+1868,29,Missouri,54
+1868,30,Montana,3
+1868,31,Nebraska,8
+1868,32,Nevada,2
+1868,33,New Hampshire,3
+1868,34,New Jersey,22
+1868,36,New York,153
+1868,39,Ohio,82
+1868,41,Oregon,4
+1868,42,Pennsylvania,129
+1868,44,Rhode Island,2
+1868,46,South Dakota,1
+1868,47,Tennessee,8
+1868,48,Texas,2
+1868,49,Utah,1
+1868,51,Virginia,2
+1868,53,Washington,3
+1868,54,West Virginia,6
+1868,55,Wisconsin,156
+1869,04,Arizona,4
+1869,06,California,24
+1869,08,Colorado,16
+1869,09,Connecticut,11
+1869,10,Delaware,2
+1869,12,Florida,3
+1869,15,Hawaii,1
+1869,17,Illinois,4
+1869,18,Indiana,73
+1869,19,Iowa,28
+1869,20,Kansas,82
+1869,21,Kentucky,7
+1869,22,Louisiana,7
+1869,23,Maine,2
+1869,25,Massachusetts,62
+1869,26,Michigan,12
+1869,27,Minnesota,30
+1869,28,Mississippi,30
+1869,29,Missouri,47
+1869,30,Montana,4
+1869,31,Nebraska,8
+1869,32,Nevada,5
+1869,33,New Hampshire,3
+1869,34,New Jersey,23
+1869,36,New York,158
+1869,39,Ohio,82
+1869,41,Oregon,4
+1869,42,Pennsylvania,134
+1869,44,Rhode Island,2
+1869,46,South Dakota,1
+1869,47,Tennessee,8
+1869,48,Texas,2
+1869,49,Utah,1
+1869,51,Virginia,2
+1869,53,Washington,3
+1869,54,West Virginia,6
+1869,55,Wisconsin,157
+1870,04,Arizona,7
+1870,06,California,28
+1870,08,Colorado,21
+1870,09,Connecticut,13
+1870,10,Delaware,3
+1870,12,Florida,4
+1870,15,Hawaii,1
+1870,17,Illinois,4
+1870,18,Indiana,70
+1870,19,Iowa,28
+1870,20,Kansas,81
+1870,21,Kentucky,7
+1870,22,Louisiana,8
+1870,23,Maine,2
+1870,25,Massachusetts,62
+1870,26,Michigan,15
+1870,27,Minnesota,35
+1870,28,Mississippi,32
+1870,29,Missouri,44
+1870,30,Montana,4
+1870,31,Nebraska,10
+1870,32,Nevada,4
+1870,33,New Hampshire,4
+1870,34,New Jersey,23
+1870,36,New York,177
+1870,39,Ohio,87
+1870,41,Oregon,4
+1870,42,Pennsylvania,136
+1870,44,Rhode Island,2
+1870,46,South Dakota,1
+1870,47,Tennessee,9
+1870,48,Texas,2
+1870,49,Utah,1
+1870,51,Virginia,2
+1870,53,Washington,3
+1870,54,West Virginia,6
+1870,55,Wisconsin,198
+1871,04,Arizona,5
+1871,06,California,29
+1871,08,Colorado,22
+1871,09,Connecticut,13
+1871,10,Delaware,2
+1871,12,Florida,4
+1871,15,Hawaii,1
+1871,17,Illinois,4
+1871,18,Indiana,69
+1871,19,Iowa,29
+1871,20,Kansas,81
+1871,21,Kentucky,7
+1871,22,Louisiana,7
+1871,23,Maine,2
+1871,25,Massachusetts,64
+1871,26,Michigan,15
+1871,27,Minnesota,36
+1871,28,Mississippi,31
+1871,29,Missouri,43
+1871,30,Montana,4
+1871,31,Nebraska,11
+1871,32,Nevada,4
+1871,33,New Hampshire,4
+1871,34,New Jersey,23
+1871,36,New York,168
+1871,39,Ohio,88
+1871,41,Oregon,4
+1871,42,Pennsylvania,134
+1871,44,Rhode Island,2
+1871,46,South Dakota,1
+1871,47,Tennessee,9
+1871,48,Texas,1
+1871,49,Utah,2
+1871,51,Virginia,2
+1871,53,Washington,3
+1871,54,West Virginia,6
+1871,55,Wisconsin,184
+1872,04,Arizona,4
+1872,06,California,31
+1872,08,Colorado,21
+1872,09,Connecticut,13
+1872,10,Delaware,2
+1872,12,Florida,4
+1872,15,Hawaii,1
+1872,17,Illinois,4
+1872,18,Indiana,63
+1872,19,Iowa,30
+1872,20,Kansas,78
+1872,21,Kentucky,7
+1872,22,Louisiana,8
+1872,23,Maine,2
+1872,25,Massachusetts,63
+1872,26,Michigan,15
+1872,27,Minnesota,38
+1872,28,Mississippi,34
+1872,29,Missouri,42
+1872,30,Montana,4
+1872,31,Nebraska,12
+1872,32,Nevada,4
+1872,33,New Hampshire,4
+1872,34,New Jersey,23
+1872,36,New York,169
+1872,39,Ohio,88
+1872,41,Oregon,4
+1872,42,Pennsylvania,143
+1872,44,Rhode Island,2
+1872,46,South Dakota,1
+1872,47,Tennessee,7
+1872,48,Texas,2
+1872,49,Utah,2
+1872,51,Virginia,2
+1872,53,Washington,3
+1872,54,West Virginia,6
+1872,55,Wisconsin,193
+1872,56,Wyoming,1
+1873,04,Arizona,4
+1873,06,California,33
+1873,08,Colorado,24
+1873,09,Connecticut,12
+1873,10,Delaware,2
+1873,12,Florida,4
+1873,15,Hawaii,1
+1873,17,Illinois,4
+1873,18,Indiana,64
+1873,19,Iowa,30
+1873,20,Kansas,76
+1873,21,Kentucky,7
+1873,22,Louisiana,8
+1873,23,Maine,2
+1873,25,Massachusetts,67
+1873,26,Michigan,15
+1873,27,Minnesota,41
+1873,28,Mississippi,34
+1873,29,Missouri,38
+1873,30,Montana,4
+1873,31,Nebraska,13
+1873,32,Nevada,4
+1873,33,New Hampshire,4
+1873,34,New Jersey,23
+1873,36,New York,168
+1873,39,Ohio,89
+1873,41,Oregon,4
+1873,42,Pennsylvania,159
+1873,44,Rhode Island,3
+1873,46,South Dakota,1
+1873,47,Tennessee,7
+1873,48,Texas,2
+1873,49,Utah,2
+1873,51,Virginia,2
+1873,53,Washington,3
+1873,54,West Virginia,6
+1873,55,Wisconsin,199
+1873,56,Wyoming,1
+1874,01,Alabama,4
+1874,02,Alaska,1
+1874,04,Arizona,7
+1874,06,California,170
+1874,08,Colorado,40
+1874,09,Connecticut,25
+1874,10,Delaware,2
+1874,12,Florida,15
+1874,15,Hawaii,2
+1874,17,Illinois,11
+1874,18,Indiana,152
+1874,19,Iowa,87
+1874,20,Kansas,134
+1874,21,Kentucky,31
+1874,22,Louisiana,30
+1874,23,Maine,10
+1874,24,Maryland,3
+1874,25,Massachusetts,72
+1874,26,Michigan,30
+1874,27,Minnesota,135
+1874,28,Mississippi,99
+1874,29,Missouri,72
+1874,30,Montana,17
+1874,31,Nebraska,17
+1874,32,Nevada,19
+1874,33,New Hampshire,4
+1874,34,New Jersey,52
+1874,35,New Mexico,7
+1874,36,New York,346
+1874,38,North Dakota,2
+1874,39,Ohio,200
+1874,41,Oregon,27
+1874,42,Pennsylvania,340
+1874,44,Rhode Island,4
+1874,45,South Carolina,3
+1874,46,South Dakota,1
+1874,47,Tennessee,10
+1874,48,Texas,35
+1874,49,Utah,19
+1874,51,Virginia,3
+1874,53,Washington,13
+1874,54,West Virginia,15
+1874,55,Wisconsin,242
+1874,56,Wyoming,4
+1875,01,Alabama,4
+1875,02,Alaska,1
+1875,04,Arizona,7
+1875,06,California,205
+1875,08,Colorado,44
+1875,09,Connecticut,29
+1875,10,Delaware,2
+1875,12,Florida,16
+1875,15,Hawaii,2
+1875,17,Illinois,11
+1875,18,Indiana,165
+1875,19,Iowa,102
+1875,20,Kansas,141
+1875,21,Kentucky,35
+1875,22,Louisiana,31
+1875,23,Maine,10
+1875,24,Maryland,4
+1875,25,Massachusetts,82
+1875,26,Michigan,30
+1875,27,Minnesota,150
+1875,28,Mississippi,111
+1875,29,Missouri,86
+1875,30,Montana,22
+1875,31,Nebraska,17
+1875,32,Nevada,29
+1875,33,New Hampshire,6
+1875,34,New Jersey,66
+1875,35,New Mexico,7
+1875,36,New York,384
+1875,38,North Dakota,4
+1875,39,Ohio,217
+1875,41,Oregon,28
+1875,42,Pennsylvania,364
+1875,44,Rhode Island,6
+1875,45,South Carolina,2
+1875,46,South Dakota,3
+1875,47,Tennessee,8
+1875,48,Texas,44
+1875,49,Utah,23
+1875,50,Vermont,1
+1875,51,Virginia,5
+1875,53,Washington,13
+1875,54,West Virginia,17
+1875,55,Wisconsin,258
+1875,56,Wyoming,6
+1876,01,Alabama,1
+1876,02,Alaska,1
+1876,04,Arizona,6
+1876,06,California,171
+1876,08,Colorado,28
+1876,09,Connecticut,20
+1876,10,Delaware,2
+1876,12,Florida,10
+1876,15,Hawaii,1
+1876,17,Illinois,8
+1876,18,Indiana,118
+1876,19,Iowa,68
+1876,20,Kansas,115
+1876,21,Kentucky,23
+1876,22,Louisiana,30
+1876,23,Maine,10
+1876,25,Massachusetts,73
+1876,26,Michigan,27
+1876,27,Minnesota,116
+1876,28,Mississippi,95
+1876,29,Missouri,69
+1876,30,Montana,19
+1876,31,Nebraska,15
+1876,32,Nevada,23
+1876,33,New Hampshire,5
+1876,34,New Jersey,55
+1876,35,New Mexico,2
+1876,36,New York,333
+1876,38,North Dakota,3
+1876,39,Ohio,174
+1876,41,Oregon,23
+1876,42,Pennsylvania,293
+1876,44,Rhode Island,5
+1876,45,South Carolina,1
+1876,46,South Dakota,3
+1876,47,Tennessee,2
+1876,48,Texas,25
+1876,49,Utah,12
+1876,50,Vermont,1
+1876,51,Virginia,1
+1876,53,Washington,11
+1876,54,West Virginia,11
+1876,55,Wisconsin,236
+1876,56,Wyoming,7
+1877,01,Alabama,1
+1877,02,Alaska,1
+1877,04,Arizona,5
+1877,06,California,172
+1877,08,Colorado,27
+1877,09,Connecticut,20
+1877,10,Delaware,2
+1877,12,Florida,10
+1877,15,Hawaii,1
+1877,17,Illinois,8
+1877,18,Indiana,114
+1877,19,Iowa,69
+1877,20,Kansas,114
+1877,21,Kentucky,23
+1877,22,Louisiana,30
+1877,23,Maine,10
+1877,25,Massachusetts,72
+1877,26,Michigan,29
+1877,27,Minnesota,115
+1877,28,Mississippi,95
+1877,29,Missouri,67
+1877,30,Montana,19
+1877,31,Nebraska,14
+1877,32,Nevada,23
+1877,33,New Hampshire,5
+1877,34,New Jersey,57
+1877,35,New Mexico,2
+1877,36,New York,334
+1877,38,North Dakota,3
+1877,39,Ohio,175
+1877,41,Oregon,24
+1877,42,Pennsylvania,288
+1877,44,Rhode Island,5
+1877,45,South Carolina,1
+1877,46,South Dakota,4
+1877,47,Tennessee,3
+1877,48,Texas,25
+1877,49,Utah,12
+1877,50,Vermont,1
+1877,51,Virginia,1
+1877,53,Washington,11
+1877,54,West Virginia,11
+1877,55,Wisconsin,232
+1877,56,Wyoming,7
+1878,01,Alabama,1
+1878,02,Alaska,1
+1878,04,Arizona,11
+1878,05,Arkansas,1
+1878,06,California,206
+1878,08,Colorado,32
+1878,09,Connecticut,22
+1878,10,Delaware,3
+1878,12,Florida,10
+1878,15,Hawaii,1
+1878,17,Illinois,11
+1878,18,Indiana,120
+1878,19,Iowa,77
+1878,20,Kansas,140
+1878,21,Kentucky,33
+1878,22,Louisiana,34
+1878,23,Maine,11
+1878,25,Massachusetts,71
+1878,26,Michigan,39
+1878,27,Minnesota,137
+1878,28,Mississippi,109
+1878,29,Missouri,72
+1878,30,Montana,20
+1878,31,Nebraska,24
+1878,32,Nevada,31
+1878,33,New Hampshire,4
+1878,34,New Jersey,65
+1878,35,New Mexico,2
+1878,36,New York,362
+1878,38,North Dakota,4
+1878,39,Ohio,190
+1878,41,Oregon,34
+1878,42,Pennsylvania,322
+1878,44,Rhode Island,7
+1878,45,South Carolina,2
+1878,46,South Dakota,11
+1878,47,Tennessee,4
+1878,48,Texas,35
+1878,49,Utah,17
+1878,50,Vermont,1
+1878,51,Virginia,3
+1878,53,Washington,16
+1878,54,West Virginia,11
+1878,55,Wisconsin,255
+1878,56,Wyoming,7
+1879,01,Alabama,1
+1879,02,Alaska,1
+1879,04,Arizona,13
+1879,05,Arkansas,1
+1879,06,California,206
+1879,08,Colorado,38
+1879,09,Connecticut,22
+1879,10,Delaware,3
+1879,12,Florida,10
+1879,15,Hawaii,1
+1879,17,Illinois,12
+1879,18,Indiana,120
+1879,19,Iowa,74
+1879,20,Kansas,134
+1879,21,Kentucky,33
+1879,22,Louisiana,35
+1879,23,Maine,11
+1879,25,Massachusetts,67
+1879,26,Michigan,39
+1879,27,Minnesota,133
+1879,28,Mississippi,111
+1879,29,Missouri,69
+1879,30,Montana,22
+1879,31,Nebraska,24
+1879,32,Nevada,32
+1879,33,New Hampshire,5
+1879,34,New Jersey,63
+1879,35,New Mexico,2
+1879,36,New York,358
+1879,37,North Carolina,1
+1879,38,North Dakota,5
+1879,39,Ohio,187
+1879,41,Oregon,37
+1879,42,Pennsylvania,330
+1879,44,Rhode Island,7
+1879,45,South Carolina,2
+1879,46,South Dakota,10
+1879,47,Tennessee,4
+1879,48,Texas,32
+1879,49,Utah,17
+1879,50,Vermont,1
+1879,51,Virginia,3
+1879,53,Washington,21
+1879,54,West Virginia,10
+1879,55,Wisconsin,244
+1879,56,Wyoming,8
+1880,01,Alabama,1
+1880,02,Alaska,1
+1880,04,Arizona,16
+1880,06,California,203
+1880,08,Colorado,41
+1880,09,Connecticut,22
+1880,10,Delaware,4
+1880,12,Florida,10
+1880,15,Hawaii,1
+1880,17,Illinois,13
+1880,18,Indiana,119
+1880,19,Iowa,68
+1880,20,Kansas,132
+1880,21,Kentucky,29
+1880,22,Louisiana,33
+1880,23,Maine,10
+1880,25,Massachusetts,66
+1880,26,Michigan,36
+1880,27,Minnesota,124
+1880,28,Mississippi,114
+1880,29,Missouri,66
+1880,30,Montana,20
+1880,31,Nebraska,25
+1880,32,Nevada,32
+1880,33,New Hampshire,5
+1880,34,New Jersey,56
+1880,35,New Mexico,3
+1880,36,New York,344
+1880,37,North Carolina,1
+1880,38,North Dakota,5
+1880,39,Ohio,181
+1880,41,Oregon,37
+1880,42,Pennsylvania,324
+1880,44,Rhode Island,5
+1880,45,South Carolina,3
+1880,46,South Dakota,8
+1880,47,Tennessee,3
+1880,48,Texas,24
+1880,49,Utah,15
+1880,51,Virginia,3
+1880,53,Washington,23
+1880,54,West Virginia,10
+1880,55,Wisconsin,246
+1880,56,Wyoming,7
+1881,01,Alabama,1
+1881,02,Alaska,1
+1881,04,Arizona,15
+1881,06,California,194
+1881,08,Colorado,36
+1881,09,Connecticut,20
+1881,10,Delaware,4
+1881,12,Florida,9
+1881,15,Hawaii,1
+1881,17,Illinois,12
+1881,18,Indiana,118
+1881,19,Iowa,64
+1881,20,Kansas,124
+1881,21,Kentucky,24
+1881,22,Louisiana,32
+1881,23,Maine,10
+1881,25,Massachusetts,64
+1881,26,Michigan,32
+1881,27,Minnesota,121
+1881,28,Mississippi,103
+1881,29,Missouri,62
+1881,30,Montana,19
+1881,31,Nebraska,22
+1881,32,Nevada,30
+1881,33,New Hampshire,5
+1881,34,New Jersey,52
+1881,35,New Mexico,3
+1881,36,New York,324
+1881,37,North Carolina,1
+1881,38,North Dakota,5
+1881,39,Ohio,172
+1881,41,Oregon,34
+1881,42,Pennsylvania,303
+1881,44,Rhode Island,4
+1881,45,South Carolina,3
+1881,46,South Dakota,7
+1881,47,Tennessee,3
+1881,48,Texas,22
+1881,49,Utah,15
+1881,51,Virginia,3
+1881,53,Washington,22
+1881,54,West Virginia,9
+1881,55,Wisconsin,230
+1881,56,Wyoming,7
+1882,01,Alabama,1
+1882,02,Alaska,1
+1882,04,Arizona,32
+1882,06,California,222
+1882,08,Colorado,37
+1882,09,Connecticut,25
+1882,10,Delaware,5
+1882,12,Florida,10
+1882,15,Hawaii,1
+1882,17,Illinois,20
+1882,18,Indiana,125
+1882,19,Iowa,67
+1882,20,Kansas,127
+1882,21,Kentucky,26
+1882,22,Louisiana,33
+1882,23,Maine,10
+1882,25,Massachusetts,63
+1882,26,Michigan,34
+1882,27,Minnesota,131
+1882,28,Mississippi,117
+1882,29,Missouri,65
+1882,30,Montana,21
+1882,31,Nebraska,28
+1882,32,Nevada,35
+1882,33,New Hampshire,5
+1882,34,New Jersey,53
+1882,35,New Mexico,5
+1882,36,New York,339
+1882,37,North Carolina,1
+1882,38,North Dakota,10
+1882,39,Ohio,177
+1882,41,Oregon,39
+1882,42,Pennsylvania,334
+1882,44,Rhode Island,4
+1882,45,South Carolina,3
+1882,46,South Dakota,14
+1882,47,Tennessee,3
+1882,48,Texas,24
+1882,49,Utah,16
+1882,51,Virginia,2
+1882,53,Washington,29
+1882,54,West Virginia,9
+1882,55,Wisconsin,230
+1882,56,Wyoming,9
+1883,01,Alabama,1
+1883,02,Alaska,1
+1883,04,Arizona,19
+1883,06,California,202
+1883,08,Colorado,31
+1883,09,Connecticut,23
+1883,10,Delaware,5
+1883,12,Florida,8
+1883,15,Hawaii,1
+1883,17,Illinois,18
+1883,18,Indiana,121
+1883,19,Iowa,62
+1883,20,Kansas,112
+1883,21,Kentucky,24
+1883,22,Louisiana,33
+1883,23,Maine,10
+1883,25,Massachusetts,56
+1883,26,Michigan,30
+1883,27,Minnesota,119
+1883,28,Mississippi,113
+1883,29,Missouri,63
+1883,30,Montana,21
+1883,31,Nebraska,28
+1883,32,Nevada,31
+1883,33,New Hampshire,5
+1883,34,New Jersey,48
+1883,35,New Mexico,6
+1883,36,New York,312
+1883,38,North Dakota,10
+1883,39,Ohio,161
+1883,41,Oregon,39
+1883,42,Pennsylvania,311
+1883,44,Rhode Island,3
+1883,45,South Carolina,3
+1883,46,South Dakota,12
+1883,47,Tennessee,3
+1883,48,Texas,22
+1883,49,Utah,16
+1883,51,Virginia,2
+1883,53,Washington,25
+1883,54,West Virginia,8
+1883,55,Wisconsin,218
+1883,56,Wyoming,7
+1884,01,Alabama,2
+1884,02,Alaska,1
+1884,04,Arizona,26
+1884,06,California,215
+1884,08,Colorado,28
+1884,09,Connecticut,24
+1884,10,Delaware,5
+1884,12,Florida,8
+1884,15,Hawaii,1
+1884,17,Illinois,22
+1884,18,Indiana,125
+1884,19,Iowa,62
+1884,20,Kansas,111
+1884,21,Kentucky,24
+1884,22,Louisiana,35
+1884,23,Maine,11
+1884,25,Massachusetts,56
+1884,26,Michigan,31
+1884,27,Minnesota,125
+1884,28,Mississippi,120
+1884,29,Missouri,62
+1884,30,Montana,27
+1884,31,Nebraska,30
+1884,32,Nevada,31
+1884,33,New Hampshire,5
+1884,34,New Jersey,52
+1884,35,New Mexico,8
+1884,36,New York,320
+1884,37,North Carolina,2
+1884,38,North Dakota,10
+1884,39,Ohio,161
+1884,41,Oregon,47
+1884,42,Pennsylvania,340
+1884,44,Rhode Island,3
+1884,45,South Carolina,3
+1884,46,South Dakota,14
+1884,47,Tennessee,3
+1884,48,Texas,24
+1884,49,Utah,17
+1884,51,Virginia,2
+1884,53,Washington,38
+1884,54,West Virginia,8
+1884,55,Wisconsin,219
+1884,56,Wyoming,7
+1885,01,Alabama,2
+1885,02,Alaska,1
+1885,04,Arizona,13
+1885,06,California,158
+1885,08,Colorado,23
+1885,09,Connecticut,18
+1885,10,Delaware,5
+1885,12,Florida,6
+1885,15,Hawaii,1
+1885,17,Illinois,21
+1885,18,Indiana,100
+1885,19,Iowa,44
+1885,20,Kansas,55
+1885,21,Kentucky,3
+1885,22,Louisiana,31
+1885,23,Maine,5
+1885,25,Massachusetts,51
+1885,26,Michigan,30
+1885,27,Minnesota,97
+1885,28,Mississippi,100
+1885,29,Missouri,52
+1885,30,Montana,17
+1885,31,Nebraska,22
+1885,32,Nevada,19
+1885,33,New Hampshire,5
+1885,34,New Jersey,44
+1885,35,New Mexico,6
+1885,36,New York,275
+1885,38,North Dakota,7
+1885,39,Ohio,130
+1885,41,Oregon,32
+1885,42,Pennsylvania,262
+1885,44,Rhode Island,3
+1885,45,South Carolina,1
+1885,46,South Dakota,8
+1885,47,Tennessee,3
+1885,48,Texas,9
+1885,49,Utah,10
+1885,51,Virginia,2
+1885,53,Washington,32
+1885,54,West Virginia,6
+1885,55,Wisconsin,186
+1885,56,Wyoming,4
+1886,01,Alabama,1
+1886,02,Alaska,1
+1886,04,Arizona,11
+1886,06,California,158
+1886,08,Colorado,21
+1886,09,Connecticut,18
+1886,10,Delaware,5
+1886,12,Florida,6
+1886,15,Hawaii,1
+1886,17,Illinois,32
+1886,18,Indiana,107
+1886,19,Iowa,44
+1886,20,Kansas,52
+1886,21,Kentucky,2
+1886,22,Louisiana,30
+1886,23,Maine,5
+1886,25,Massachusetts,51
+1886,26,Michigan,31
+1886,27,Minnesota,99
+1886,28,Mississippi,100
+1886,29,Missouri,52
+1886,30,Montana,17
+1886,31,Nebraska,22
+1886,32,Nevada,19
+1886,33,New Hampshire,5
+1886,34,New Jersey,45
+1886,35,New Mexico,6
+1886,36,New York,275
+1886,38,North Dakota,7
+1886,39,Ohio,131
+1886,41,Oregon,39
+1886,42,Pennsylvania,264
+1886,44,Rhode Island,3
+1886,45,South Carolina,1
+1886,46,South Dakota,8
+1886,47,Tennessee,3
+1886,48,Texas,9
+1886,49,Utah,11
+1886,51,Virginia,2
+1886,53,Washington,41
+1886,54,West Virginia,6
+1886,55,Wisconsin,184
+1886,56,Wyoming,4
+1887,01,Alabama,1
+1887,02,Alaska,1
+1887,04,Arizona,10
+1887,06,California,158
+1887,08,Colorado,22
+1887,09,Connecticut,19
+1887,10,Delaware,5
+1887,12,Florida,6
+1887,15,Hawaii,1
+1887,17,Illinois,32
+1887,18,Indiana,109
+1887,19,Iowa,45
+1887,20,Kansas,50
+1887,21,Kentucky,2
+1887,22,Louisiana,30
+1887,23,Maine,5
+1887,25,Massachusetts,51
+1887,26,Michigan,30
+1887,27,Minnesota,99
+1887,28,Mississippi,99
+1887,29,Missouri,53
+1887,30,Montana,17
+1887,31,Nebraska,22
+1887,32,Nevada,18
+1887,33,New Hampshire,5
+1887,34,New Jersey,46
+1887,35,New Mexico,6
+1887,36,New York,277
+1887,38,North Dakota,7
+1887,39,Ohio,131
+1887,41,Oregon,38
+1887,42,Pennsylvania,269
+1887,44,Rhode Island,3
+1887,45,South Carolina,1
+1887,46,South Dakota,8
+1887,47,Tennessee,3
+1887,48,Texas,9
+1887,49,Utah,11
+1887,51,Virginia,2
+1887,53,Washington,41
+1887,54,West Virginia,6
+1887,55,Wisconsin,180
+1887,56,Wyoming,5
+1888,01,Alabama,2
+1888,02,Alaska,3
+1888,04,Arizona,11
+1888,06,California,164
+1888,08,Colorado,24
+1888,09,Connecticut,20
+1888,10,Delaware,5
+1888,12,Florida,6
+1888,15,Hawaii,2
+1888,17,Illinois,35
+1888,18,Indiana,120
+1888,19,Iowa,48
+1888,20,Kansas,50
+1888,21,Kentucky,2
+1888,22,Louisiana,31
+1888,23,Maine,7
+1888,25,Massachusetts,51
+1888,26,Michigan,31
+1888,27,Minnesota,106
+1888,28,Mississippi,109
+1888,29,Missouri,62
+1888,30,Montana,19
+1888,31,Nebraska,25
+1888,32,Nevada,20
+1888,33,New Hampshire,5
+1888,34,New Jersey,51
+1888,35,New Mexico,8
+1888,36,New York,290
+1888,38,North Dakota,9
+1888,39,Ohio,140
+1888,41,Oregon,37
+1888,42,Pennsylvania,297
+1888,44,Rhode Island,3
+1888,45,South Carolina,1
+1888,46,South Dakota,10
+1888,47,Tennessee,4
+1888,48,Texas,9
+1888,49,Utah,12
+1888,51,Virginia,2
+1888,53,Washington,32
+1888,54,West Virginia,7
+1888,55,Wisconsin,189
+1888,56,Wyoming,5
+1889,01,Alabama,3
+1889,02,Alaska,3
+1889,04,Arizona,6
+1889,06,California,146
+1889,08,Colorado,23
+1889,09,Connecticut,20
+1889,10,Delaware,5
+1889,12,Florida,5
+1889,15,Hawaii,3
+1889,17,Illinois,36
+1889,18,Indiana,111
+1889,19,Iowa,46
+1889,20,Kansas,28
+1889,21,Kentucky,1
+1889,22,Louisiana,29
+1889,23,Maine,8
+1889,25,Massachusetts,45
+1889,26,Michigan,30
+1889,27,Minnesota,101
+1889,28,Mississippi,103
+1889,29,Missouri,56
+1889,30,Montana,15
+1889,31,Nebraska,23
+1889,32,Nevada,16
+1889,33,New Hampshire,5
+1889,34,New Jersey,42
+1889,35,New Mexico,7
+1889,36,New York,282
+1889,38,North Dakota,12
+1889,39,Ohio,134
+1889,41,Oregon,43
+1889,42,Pennsylvania,261
+1889,44,Rhode Island,3
+1889,45,South Carolina,1
+1889,46,South Dakota,9
+1889,47,Tennessee,4
+1889,48,Texas,9
+1889,49,Utah,9
+1889,51,Virginia,2
+1889,53,Washington,31
+1889,54,West Virginia,8
+1889,55,Wisconsin,178
+1889,56,Wyoming,5
+1890,01,Alabama,5
+1890,02,Alaska,3
+1890,04,Arizona,5
+1890,06,California,156
+1890,08,Colorado,28
+1890,09,Connecticut,21
+1890,10,Delaware,5
+1890,12,Florida,7
+1890,15,Hawaii,3
+1890,17,Illinois,37
+1890,18,Indiana,117
+1890,19,Iowa,48
+1890,20,Kansas,28
+1890,21,Kentucky,1
+1890,22,Louisiana,29
+1890,23,Maine,9
+1890,25,Massachusetts,45
+1890,26,Michigan,32
+1890,27,Minnesota,105
+1890,28,Mississippi,104
+1890,29,Missouri,60
+1890,30,Montana,19
+1890,31,Nebraska,25
+1890,32,Nevada,16
+1890,33,New Hampshire,5
+1890,34,New Jersey,50
+1890,35,New Mexico,7
+1890,36,New York,292
+1890,38,North Dakota,1
+1890,39,Ohio,137
+1890,41,Oregon,42
+1890,42,Pennsylvania,276
+1890,44,Rhode Island,4
+1890,45,South Carolina,1
+1890,46,South Dakota,5
+1890,47,Tennessee,4
+1890,48,Texas,12
+1890,49,Utah,10
+1890,51,Virginia,4
+1890,53,Washington,38
+1890,54,West Virginia,8
+1890,55,Wisconsin,181
+1890,56,Wyoming,7
+1891,01,Alabama,5
+1891,02,Alaska,4
+1891,04,Arizona,3
+1891,06,California,148
+1891,08,Colorado,28
+1891,09,Connecticut,20
+1891,10,Delaware,5
+1891,12,Florida,7
+1891,15,Hawaii,5
+1891,17,Illinois,31
+1891,18,Indiana,122
+1891,19,Iowa,47
+1891,20,Kansas,27
+1891,21,Kentucky,1
+1891,22,Louisiana,30
+1891,23,Maine,7
+1891,25,Massachusetts,41
+1891,26,Michigan,33
+1891,27,Minnesota,109
+1891,28,Mississippi,98
+1891,29,Missouri,59
+1891,30,Montana,21
+1891,31,Nebraska,26
+1891,32,Nevada,15
+1891,33,New Hampshire,5
+1891,34,New Jersey,47
+1891,35,New Mexico,4
+1891,36,New York,292
+1891,38,North Dakota,1
+1891,39,Ohio,128
+1891,41,Oregon,33
+1891,42,Pennsylvania,251
+1891,44,Rhode Island,4
+1891,45,South Carolina,1
+1891,46,South Dakota,4
+1891,47,Tennessee,4
+1891,48,Texas,12
+1891,49,Utah,10
+1891,51,Virginia,5
+1891,53,Washington,35
+1891,54,West Virginia,6
+1891,55,Wisconsin,179
+1891,56,Wyoming,6
+1892,01,Alabama,5
+1892,02,Alaska,4
+1892,04,Arizona,4
+1892,06,California,126
+1892,08,Colorado,22
+1892,09,Connecticut,18
+1892,10,Delaware,5
+1892,12,Florida,6
+1892,15,Hawaii,5
+1892,17,Illinois,26
+1892,18,Indiana,115
+1892,19,Iowa,44
+1892,20,Kansas,25
+1892,21,Kentucky,1
+1892,22,Louisiana,29
+1892,23,Maine,7
+1892,25,Massachusetts,39
+1892,26,Michigan,32
+1892,27,Minnesota,103
+1892,28,Mississippi,96
+1892,29,Missouri,49
+1892,30,Montana,17
+1892,31,Nebraska,23
+1892,32,Nevada,8
+1892,33,New Hampshire,5
+1892,34,New Jersey,43
+1892,35,New Mexico,4
+1892,36,New York,277
+1892,38,North Dakota,1
+1892,39,Ohio,123
+1892,41,Oregon,27
+1892,42,Pennsylvania,218
+1892,44,Rhode Island,5
+1892,45,South Carolina,1
+1892,46,South Dakota,4
+1892,47,Tennessee,4
+1892,48,Texas,11
+1892,49,Utah,9
+1892,51,Virginia,5
+1892,53,Washington,32
+1892,54,West Virginia,6
+1892,55,Wisconsin,171
+1892,56,Wyoming,4
+1893,01,Alabama,5
+1893,02,Alaska,4
+1893,04,Arizona,3
+1893,06,California,130
+1893,08,Colorado,25
+1893,09,Connecticut,20
+1893,10,Delaware,5
+1893,12,Florida,6
+1893,15,Hawaii,6
+1893,17,Illinois,24
+1893,18,Indiana,127
+1893,19,Iowa,45
+1893,20,Kansas,26
+1893,21,Kentucky,2
+1893,22,Louisiana,29
+1893,23,Maine,8
+1893,25,Massachusetts,35
+1893,26,Michigan,34
+1893,27,Minnesota,106
+1893,28,Mississippi,97
+1893,29,Missouri,48
+1893,30,Montana,19
+1893,31,Nebraska,26
+1893,32,Nevada,8
+1893,33,New Hampshire,6
+1893,34,New Jersey,44
+1893,35,New Mexico,4
+1893,36,New York,289
+1893,38,North Dakota,1
+1893,39,Ohio,126
+1893,41,Oregon,32
+1893,42,Pennsylvania,227
+1893,44,Rhode Island,5
+1893,45,South Carolina,1
+1893,46,South Dakota,4
+1893,47,Tennessee,4
+1893,48,Texas,13
+1893,49,Utah,9
+1893,50,Vermont,3
+1893,51,Virginia,5
+1893,53,Washington,35
+1893,54,West Virginia,7
+1893,55,Wisconsin,175
+1893,56,Wyoming,4
+1894,01,Alabama,5
+1894,02,Alaska,4
+1894,04,Arizona,2
+1894,06,California,121
+1894,08,Colorado,19
+1894,09,Connecticut,20
+1894,10,Delaware,5
+1894,12,Florida,5
+1894,15,Hawaii,5
+1894,17,Illinois,21
+1894,18,Indiana,122
+1894,19,Iowa,43
+1894,20,Kansas,26
+1894,21,Kentucky,2
+1894,22,Louisiana,27
+1894,23,Maine,7
+1894,25,Massachusetts,33
+1894,26,Michigan,34
+1894,27,Minnesota,91
+1894,28,Mississippi,92
+1894,29,Missouri,42
+1894,30,Montana,17
+1894,31,Nebraska,22
+1894,32,Nevada,8
+1894,33,New Hampshire,6
+1894,34,New Jersey,43
+1894,35,New Mexico,4
+1894,36,New York,269
+1894,38,North Dakota,1
+1894,39,Ohio,124
+1894,41,Oregon,28
+1894,42,Pennsylvania,216
+1894,44,Rhode Island,5
+1894,45,South Carolina,1
+1894,46,South Dakota,5
+1894,47,Tennessee,4
+1894,48,Texas,12
+1894,49,Utah,8
+1894,51,Virginia,5
+1894,53,Washington,27
+1894,54,West Virginia,7
+1894,55,Wisconsin,169
+1894,56,Wyoming,3
+1895,01,Alabama,5
+1895,02,Alaska,4
+1895,04,Arizona,2
+1895,06,California,127
+1895,08,Colorado,20
+1895,09,Connecticut,20
+1895,10,Delaware,5
+1895,12,Florida,5
+1895,15,Hawaii,5
+1895,17,Illinois,22
+1895,18,Indiana,125
+1895,19,Iowa,46
+1895,20,Kansas,27
+1895,21,Kentucky,2
+1895,22,Louisiana,27
+1895,23,Maine,7
+1895,25,Massachusetts,32
+1895,26,Michigan,35
+1895,27,Minnesota,96
+1895,28,Mississippi,96
+1895,29,Missouri,45
+1895,30,Montana,18
+1895,31,Nebraska,23
+1895,32,Nevada,8
+1895,33,New Hampshire,6
+1895,34,New Jersey,47
+1895,35,New Mexico,4
+1895,36,New York,277
+1895,38,North Dakota,1
+1895,39,Ohio,125
+1895,40,Oklahoma,1
+1895,41,Oregon,28
+1895,42,Pennsylvania,225
+1895,44,Rhode Island,5
+1895,45,South Carolina,2
+1895,46,South Dakota,5
+1895,47,Tennessee,4
+1895,48,Texas,14
+1895,49,Utah,8
+1895,51,Virginia,5
+1895,53,Washington,30
+1895,54,West Virginia,8
+1895,55,Wisconsin,170
+1895,56,Wyoming,3
+1896,01,Alabama,5
+1896,02,Alaska,5
+1896,04,Arizona,2
+1896,06,California,130
+1896,08,Colorado,19
+1896,09,Connecticut,20
+1896,10,Delaware,5
+1896,12,Florida,5
+1896,15,Hawaii,5
+1896,17,Illinois,23
+1896,18,Indiana,127
+1896,19,Iowa,45
+1896,20,Kansas,25
+1896,21,Kentucky,2
+1896,22,Louisiana,27
+1896,23,Maine,7
+1896,25,Massachusetts,32
+1896,26,Michigan,39
+1896,27,Minnesota,97
+1896,28,Mississippi,93
+1896,29,Missouri,44
+1896,30,Montana,19
+1896,31,Nebraska,22
+1896,32,Nevada,7
+1896,33,New Hampshire,5
+1896,34,New Jersey,48
+1896,35,New Mexico,4
+1896,36,New York,273
+1896,38,North Dakota,1
+1896,39,Ohio,125
+1896,41,Oregon,26
+1896,42,Pennsylvania,226
+1896,44,Rhode Island,5
+1896,45,South Carolina,2
+1896,46,South Dakota,6
+1896,47,Tennessee,4
+1896,48,Texas,14
+1896,49,Utah,8
+1896,51,Virginia,7
+1896,53,Washington,30
+1896,54,West Virginia,8
+1896,55,Wisconsin,175
+1896,56,Wyoming,4
+1897,01,Alabama,5
+1897,02,Alaska,5
+1897,04,Arizona,2
+1897,06,California,135
+1897,08,Colorado,20
+1897,09,Connecticut,21
+1897,10,Delaware,5
+1897,12,Florida,5
+1897,13,Georgia,1
+1897,15,Hawaii,5
+1897,17,Illinois,22
+1897,18,Indiana,126
+1897,19,Iowa,47
+1897,20,Kansas,25
+1897,21,Kentucky,2
+1897,22,Louisiana,28
+1897,23,Maine,7
+1897,25,Massachusetts,32
+1897,26,Michigan,39
+1897,27,Minnesota,97
+1897,28,Mississippi,90
+1897,29,Missouri,44
+1897,30,Montana,18
+1897,31,Nebraska,22
+1897,32,Nevada,7
+1897,33,New Hampshire,5
+1897,34,New Jersey,47
+1897,35,New Mexico,3
+1897,36,New York,273
+1897,38,North Dakota,1
+1897,39,Ohio,126
+1897,41,Oregon,23
+1897,42,Pennsylvania,232
+1897,44,Rhode Island,5
+1897,45,South Carolina,2
+1897,46,South Dakota,6
+1897,47,Tennessee,4
+1897,48,Texas,14
+1897,49,Utah,8
+1897,51,Virginia,6
+1897,53,Washington,31
+1897,54,West Virginia,8
+1897,55,Wisconsin,176
+1897,56,Wyoming,4
+1898,01,Alabama,5
+1898,02,Alaska,12
+1898,04,Arizona,3
+1898,05,Arkansas,1
+1898,06,California,125
+1898,08,Colorado,17
+1898,09,Connecticut,21
+1898,10,Delaware,5
+1898,12,Florida,5
+1898,13,Georgia,1
+1898,15,Hawaii,5
+1898,16,Idaho,1
+1898,17,Illinois,21
+1898,18,Indiana,124
+1898,19,Iowa,48
+1898,20,Kansas,27
+1898,21,Kentucky,2
+1898,22,Louisiana,30
+1898,23,Maine,8
+1898,25,Massachusetts,31
+1898,26,Michigan,46
+1898,27,Minnesota,87
+1898,28,Mississippi,85
+1898,29,Missouri,50
+1898,30,Montana,18
+1898,31,Nebraska,20
+1898,32,Nevada,6
+1898,33,New Hampshire,5
+1898,34,New Jersey,50
+1898,35,New Mexico,2
+1898,36,New York,274
+1898,38,North Dakota,1
+1898,39,Ohio,127
+1898,41,Oregon,22
+1898,42,Pennsylvania,222
+1898,44,Rhode Island,6
+1898,45,South Carolina,2
+1898,46,South Dakota,5
+1898,47,Tennessee,4
+1898,48,Texas,12
+1898,49,Utah,7
+1898,51,Virginia,6
+1898,53,Washington,29
+1898,54,West Virginia,10
+1898,55,Wisconsin,170
+1898,56,Wyoming,5
+1899,01,Alabama,5
+1899,02,Alaska,20
+1899,04,Arizona,2
+1899,05,Arkansas,1
+1899,06,California,120
+1899,08,Colorado,16
+1899,09,Connecticut,22
+1899,10,Delaware,5
+1899,12,Florida,5
+1899,13,Georgia,1
+1899,15,Hawaii,5
+1899,16,Idaho,1
+1899,17,Illinois,22
+1899,18,Indiana,122
+1899,19,Iowa,48
+1899,20,Kansas,29
+1899,21,Kentucky,2
+1899,22,Louisiana,30
+1899,23,Maine,9
+1899,25,Massachusetts,33
+1899,26,Michigan,48
+1899,27,Minnesota,88
+1899,28,Mississippi,81
+1899,29,Missouri,51
+1899,30,Montana,21
+1899,31,Nebraska,20
+1899,32,Nevada,6
+1899,33,New Hampshire,5
+1899,34,New Jersey,52
+1899,35,New Mexico,3
+1899,36,New York,276
+1899,38,North Dakota,1
+1899,39,Ohio,130
+1899,41,Oregon,24
+1899,42,Pennsylvania,231
+1899,44,Rhode Island,7
+1899,45,South Carolina,2
+1899,46,South Dakota,6
+1899,47,Tennessee,4
+1899,48,Texas,12
+1899,49,Utah,7
+1899,51,Virginia,6
+1899,53,Washington,32
+1899,54,West Virginia,9
+1899,55,Wisconsin,168
+1899,56,Wyoming,5
+1900,01,Alabama,5
+1900,02,Alaska,15
+1900,04,Arizona,4
+1900,05,Arkansas,1
+1900,06,California,118
+1900,08,Colorado,17
+1900,09,Connecticut,22
+1900,10,Delaware,5
+1900,12,Florida,5
+1900,13,Georgia,1
+1900,15,Hawaii,5
+1900,16,Idaho,1
+1900,17,Illinois,22
+1900,18,Indiana,120
+1900,19,Iowa,46
+1900,20,Kansas,28
+1900,21,Kentucky,2
+1900,22,Louisiana,30
+1900,23,Maine,9
+1900,25,Massachusetts,31
+1900,26,Michigan,49
+1900,27,Minnesota,86
+1900,28,Mississippi,83
+1900,29,Missouri,49
+1900,30,Montana,25
+1900,31,Nebraska,20
+1900,32,Nevada,5
+1900,33,New Hampshire,5
+1900,34,New Jersey,51
+1900,35,New Mexico,4
+1900,36,New York,266
+1900,39,Ohio,128
+1900,40,Oklahoma,1
+1900,41,Oregon,26
+1900,42,Pennsylvania,221
+1900,44,Rhode Island,7
+1900,45,South Carolina,1
+1900,46,South Dakota,5
+1900,47,Tennessee,4
+1900,48,Texas,12
+1900,49,Utah,7
+1900,51,Virginia,8
+1900,53,Washington,33
+1900,54,West Virginia,9
+1900,55,Wisconsin,162
+1900,56,Wyoming,5
+1901,01,Alabama,6
+1901,02,Alaska,9
+1901,04,Arizona,3
+1901,05,Arkansas,1
+1901,06,California,116
+1901,08,Colorado,15
+1901,09,Connecticut,22
+1901,10,Delaware,6
+1901,12,Florida,4
+1901,13,Georgia,1
+1901,15,Hawaii,6
+1901,16,Idaho,1
+1901,17,Illinois,24
+1901,18,Indiana,124
+1901,19,Iowa,47
+1901,20,Kansas,22
+1901,21,Kentucky,3
+1901,22,Louisiana,28
+1901,23,Maine,8
+1901,25,Massachusetts,32
+1901,26,Michigan,45
+1901,27,Minnesota,92
+1901,28,Mississippi,83
+1901,29,Missouri,53
+1901,30,Montana,23
+1901,31,Nebraska,19
+1901,32,Nevada,5
+1901,33,New Hampshire,5
+1901,34,New Jersey,51
+1901,35,New Mexico,3
+1901,36,New York,262
+1901,39,Ohio,124
+1901,40,Oklahoma,2
+1901,41,Oregon,24
+1901,42,Pennsylvania,226
+1901,44,Rhode Island,7
+1901,45,South Carolina,1
+1901,46,South Dakota,5
+1901,47,Tennessee,4
+1901,48,Texas,13
+1901,49,Utah,7
+1901,51,Virginia,7
+1901,53,Washington,32
+1901,54,West Virginia,9
+1901,55,Wisconsin,160
+1901,56,Wyoming,4
+1902,01,Alabama,6
+1902,02,Alaska,10
+1902,04,Arizona,2
+1902,05,Arkansas,1
+1902,06,California,119
+1902,08,Colorado,15
+1902,09,Connecticut,22
+1902,10,Delaware,6
+1902,12,Florida,4
+1902,13,Georgia,1
+1902,15,Hawaii,6
+1902,16,Idaho,1
+1902,17,Illinois,25
+1902,18,Indiana,124
+1902,19,Iowa,46
+1902,20,Kansas,24
+1902,21,Kentucky,3
+1902,22,Louisiana,27
+1902,23,Maine,8
+1902,25,Massachusetts,31
+1902,26,Michigan,46
+1902,27,Minnesota,94
+1902,28,Mississippi,80
+1902,29,Missouri,54
+1902,30,Montana,22
+1902,31,Nebraska,18
+1902,32,Nevada,6
+1902,33,New Hampshire,5
+1902,34,New Jersey,52
+1902,35,New Mexico,3
+1902,36,New York,253
+1902,39,Ohio,123
+1902,40,Oklahoma,2
+1902,41,Oregon,26
+1902,42,Pennsylvania,227
+1902,44,Rhode Island,7
+1902,45,South Carolina,1
+1902,46,South Dakota,5
+1902,47,Tennessee,4
+1902,48,Texas,12
+1902,49,Utah,6
+1902,51,Virginia,7
+1902,53,Washington,36
+1902,54,West Virginia,9
+1902,55,Wisconsin,156
+1902,56,Wyoming,4
+1903,01,Alabama,6
+1903,02,Alaska,8
+1903,04,Arizona,2
+1903,05,Arkansas,1
+1903,06,California,116
+1903,08,Colorado,15
+1903,09,Connecticut,22
+1903,10,Delaware,6
+1903,12,Florida,4
+1903,13,Georgia,1
+1903,15,Hawaii,5
+1903,16,Idaho,1
+1903,17,Illinois,22
+1903,18,Indiana,118
+1903,19,Iowa,46
+1903,20,Kansas,23
+1903,21,Kentucky,3
+1903,22,Louisiana,27
+1903,23,Maine,8
+1903,25,Massachusetts,28
+1903,26,Michigan,41
+1903,27,Minnesota,94
+1903,28,Mississippi,79
+1903,29,Missouri,49
+1903,30,Montana,22
+1903,31,Nebraska,19
+1903,32,Nevada,7
+1903,33,New Hampshire,5
+1903,34,New Jersey,47
+1903,35,New Mexico,3
+1903,36,New York,244
+1903,39,Ohio,119
+1903,40,Oklahoma,2
+1903,41,Oregon,24
+1903,42,Pennsylvania,224
+1903,44,Rhode Island,7
+1903,45,South Carolina,1
+1903,46,South Dakota,5
+1903,47,Tennessee,4
+1903,48,Texas,12
+1903,49,Utah,7
+1903,51,Virginia,7
+1903,53,Washington,31
+1903,54,West Virginia,9
+1903,55,Wisconsin,154
+1903,56,Wyoming,5
+1904,01,Alabama,6
+1904,02,Alaska,8
+1904,04,Arizona,2
+1904,05,Arkansas,1
+1904,06,California,111
+1904,08,Colorado,15
+1904,09,Connecticut,22
+1904,10,Delaware,6
+1904,12,Florida,5
+1904,13,Georgia,1
+1904,15,Hawaii,5
+1904,16,Idaho,1
+1904,17,Illinois,21
+1904,18,Indiana,117
+1904,19,Iowa,46
+1904,20,Kansas,22
+1904,21,Kentucky,2
+1904,22,Louisiana,23
+1904,23,Maine,8
+1904,25,Massachusetts,26
+1904,26,Michigan,37
+1904,27,Minnesota,95
+1904,28,Mississippi,79
+1904,29,Missouri,49
+1904,30,Montana,22
+1904,31,Nebraska,19
+1904,32,Nevada,7
+1904,33,New Hampshire,5
+1904,34,New Jersey,45
+1904,35,New Mexico,2
+1904,36,New York,237
+1904,39,Ohio,122
+1904,40,Oklahoma,2
+1904,41,Oregon,28
+1904,42,Pennsylvania,225
+1904,44,Rhode Island,7
+1904,45,South Carolina,1
+1904,46,South Dakota,5
+1904,47,Tennessee,4
+1904,48,Texas,11
+1904,49,Utah,8
+1904,51,Virginia,6
+1904,53,Washington,34
+1904,54,West Virginia,9
+1904,55,Wisconsin,154
+1904,56,Wyoming,4
+1905,01,Alabama,6
+1905,02,Alaska,6
+1905,04,Arizona,3
+1905,05,Arkansas,1
+1905,06,California,103
+1905,08,Colorado,14
+1905,09,Connecticut,22
+1905,10,Delaware,6
+1905,12,Florida,5
+1905,13,Georgia,1
+1905,15,Hawaii,5
+1905,16,Idaho,1
+1905,17,Illinois,18
+1905,18,Indiana,122
+1905,19,Iowa,47
+1905,20,Kansas,22
+1905,21,Kentucky,2
+1905,22,Louisiana,24
+1905,23,Maine,10
+1905,25,Massachusetts,25
+1905,26,Michigan,37
+1905,27,Minnesota,88
+1905,28,Mississippi,81
+1905,29,Missouri,48
+1905,30,Montana,26
+1905,31,Nebraska,17
+1905,32,Nevada,7
+1905,33,New Hampshire,5
+1905,34,New Jersey,44
+1905,35,New Mexico,2
+1905,36,New York,221
+1905,39,Ohio,130
+1905,40,Oklahoma,2
+1905,41,Oregon,30
+1905,42,Pennsylvania,232
+1905,44,Rhode Island,9
+1905,45,South Carolina,1
+1905,46,South Dakota,4
+1905,47,Tennessee,4
+1905,48,Texas,14
+1905,49,Utah,6
+1905,51,Virginia,7
+1905,53,Washington,36
+1905,54,West Virginia,12
+1905,55,Wisconsin,154
+1905,56,Wyoming,3
+1906,01,Alabama,6
+1906,02,Alaska,7
+1906,04,Arizona,2
+1906,05,Arkansas,1
+1906,06,California,103
+1906,08,Colorado,13
+1906,09,Connecticut,22
+1906,10,Delaware,6
+1906,12,Florida,5
+1906,13,Georgia,1
+1906,15,Hawaii,5
+1906,16,Idaho,1
+1906,17,Illinois,18
+1906,18,Indiana,121
+1906,19,Iowa,47
+1906,20,Kansas,20
+1906,21,Kentucky,2
+1906,22,Louisiana,23
+1906,23,Maine,10
+1906,25,Massachusetts,26
+1906,26,Michigan,37
+1906,27,Minnesota,88
+1906,28,Mississippi,80
+1906,29,Missouri,48
+1906,30,Montana,25
+1906,31,Nebraska,16
+1906,32,Nevada,6
+1906,33,New Hampshire,5
+1906,34,New Jersey,45
+1906,35,New Mexico,2
+1906,36,New York,213
+1906,39,Ohio,132
+1906,40,Oklahoma,2
+1906,41,Oregon,26
+1906,42,Pennsylvania,238
+1906,44,Rhode Island,9
+1906,45,South Carolina,1
+1906,46,South Dakota,4
+1906,47,Tennessee,5
+1906,48,Texas,17
+1906,49,Utah,6
+1906,51,Virginia,7
+1906,53,Washington,35
+1906,54,West Virginia,15
+1906,55,Wisconsin,153
+1906,56,Wyoming,3
+1907,01,Alabama,5
+1907,02,Alaska,6
+1907,04,Arizona,2
+1907,05,Arkansas,1
+1907,06,California,98
+1907,08,Colorado,12
+1907,09,Connecticut,22
+1907,10,Delaware,6
+1907,12,Florida,5
+1907,13,Georgia,1
+1907,15,Hawaii,5
+1907,16,Idaho,1
+1907,17,Illinois,17
+1907,18,Indiana,118
+1907,19,Iowa,47
+1907,20,Kansas,20
+1907,21,Kentucky,2
+1907,22,Louisiana,23
+1907,23,Maine,11
+1907,25,Massachusetts,26
+1907,26,Michigan,38
+1907,27,Minnesota,89
+1907,28,Mississippi,77
+1907,29,Missouri,48
+1907,30,Montana,22
+1907,31,Nebraska,14
+1907,32,Nevada,5
+1907,33,New Hampshire,5
+1907,34,New Jersey,44
+1907,35,New Mexico,2
+1907,36,New York,203
+1907,39,Ohio,133
+1907,40,Oklahoma,2
+1907,41,Oregon,23
+1907,42,Pennsylvania,243
+1907,44,Rhode Island,8
+1907,45,South Carolina,1
+1907,46,South Dakota,4
+1907,47,Tennessee,5
+1907,48,Texas,19
+1907,49,Utah,6
+1907,51,Virginia,7
+1907,53,Washington,34
+1907,54,West Virginia,15
+1907,55,Wisconsin,152
+1907,56,Wyoming,3
+1908,01,Alabama,4
+1908,02,Alaska,6
+1908,04,Arizona,2
+1908,05,Arkansas,1
+1908,06,California,96
+1908,08,Colorado,12
+1908,09,Connecticut,22
+1908,10,Delaware,6
+1908,12,Florida,5
+1908,13,Georgia,1
+1908,15,Hawaii,5
+1908,16,Idaho,1
+1908,17,Illinois,17
+1908,18,Indiana,116
+1908,19,Iowa,45
+1908,20,Kansas,20
+1908,21,Kentucky,2
+1908,22,Louisiana,22
+1908,23,Maine,11
+1908,25,Massachusetts,27
+1908,26,Michigan,38
+1908,27,Minnesota,87
+1908,28,Mississippi,74
+1908,29,Missouri,47
+1908,30,Montana,23
+1908,31,Nebraska,14
+1908,32,Nevada,5
+1908,33,New Hampshire,4
+1908,34,New Jersey,42
+1908,35,New Mexico,3
+1908,36,New York,196
+1908,39,Ohio,129
+1908,41,Oregon,21
+1908,42,Pennsylvania,246
+1908,44,Rhode Island,9
+1908,45,South Carolina,1
+1908,46,South Dakota,4
+1908,47,Tennessee,5
+1908,48,Texas,19
+1908,49,Utah,6
+1908,51,Virginia,7
+1908,53,Washington,35
+1908,54,West Virginia,15
+1908,55,Wisconsin,151
+1908,56,Wyoming,3
+1909,01,Alabama,2
+1909,02,Alaska,6
+1909,04,Arizona,2
+1909,05,Arkansas,1
+1909,06,California,88
+1909,08,Colorado,12
+1909,09,Connecticut,22
+1909,10,Delaware,6
+1909,12,Florida,5
+1909,13,Georgia,1
+1909,15,Hawaii,4
+1909,16,Idaho,1
+1909,17,Illinois,14
+1909,18,Indiana,109
+1909,19,Iowa,41
+1909,20,Kansas,20
+1909,21,Kentucky,2
+1909,22,Louisiana,22
+1909,23,Maine,11
+1909,25,Massachusetts,27
+1909,26,Michigan,39
+1909,27,Minnesota,86
+1909,28,Mississippi,72
+1909,29,Missouri,46
+1909,30,Montana,22
+1909,31,Nebraska,14
+1909,32,Nevada,6
+1909,33,New Hampshire,4
+1909,34,New Jersey,41
+1909,35,New Mexico,3
+1909,36,New York,194
+1909,39,Ohio,124
+1909,41,Oregon,21
+1909,42,Pennsylvania,242
+1909,44,Rhode Island,8
+1909,45,South Carolina,1
+1909,46,South Dakota,4
+1909,47,Tennessee,5
+1909,48,Texas,17
+1909,49,Utah,6
+1909,51,Virginia,7
+1909,53,Washington,34
+1909,54,West Virginia,14
+1909,55,Wisconsin,146
+1909,56,Wyoming,3
+1910,01,Alabama,2
+1910,02,Alaska,6
+1910,04,Arizona,2
+1910,05,Arkansas,1
+1910,06,California,88
+1910,08,Colorado,13
+1910,09,Connecticut,22
+1910,10,Delaware,6
+1910,12,Florida,5
+1910,13,Georgia,1
+1910,15,Hawaii,4
+1910,16,Idaho,1
+1910,17,Illinois,13
+1910,18,Indiana,107
+1910,19,Iowa,41
+1910,20,Kansas,20
+1910,22,Louisiana,22
+1910,23,Maine,11
+1910,25,Massachusetts,25
+1910,26,Michigan,38
+1910,27,Minnesota,78
+1910,28,Mississippi,71
+1910,29,Missouri,46
+1910,30,Montana,22
+1910,31,Nebraska,15
+1910,32,Nevada,4
+1910,33,New Hampshire,4
+1910,34,New Jersey,41
+1910,35,New Mexico,3
+1910,36,New York,198
+1910,38,North Dakota,1
+1910,39,Ohio,122
+1910,41,Oregon,23
+1910,42,Pennsylvania,244
+1910,44,Rhode Island,10
+1910,45,South Carolina,1
+1910,46,South Dakota,4
+1910,47,Tennessee,5
+1910,48,Texas,15
+1910,49,Utah,6
+1910,51,Virginia,8
+1910,53,Washington,34
+1910,54,West Virginia,14
+1910,55,Wisconsin,148
+1910,56,Wyoming,3
+1911,01,Alabama,2
+1911,02,Alaska,4
+1911,04,Arizona,2
+1911,05,Arkansas,1
+1911,06,California,80
+1911,08,Colorado,13
+1911,09,Connecticut,21
+1911,10,Delaware,6
+1911,12,Florida,4
+1911,13,Georgia,1
+1911,15,Hawaii,4
+1911,16,Idaho,1
+1911,17,Illinois,9
+1911,18,Indiana,104
+1911,19,Iowa,40
+1911,20,Kansas,19
+1911,22,Louisiana,21
+1911,23,Maine,12
+1911,25,Massachusetts,25
+1911,26,Michigan,36
+1911,27,Minnesota,73
+1911,28,Mississippi,70
+1911,29,Missouri,44
+1911,30,Montana,23
+1911,31,Nebraska,13
+1911,32,Nevada,4
+1911,33,New Hampshire,4
+1911,34,New Jersey,38
+1911,35,New Mexico,2
+1911,36,New York,187
+1911,39,Ohio,118
+1911,41,Oregon,19
+1911,42,Pennsylvania,238
+1911,44,Rhode Island,8
+1911,45,South Carolina,1
+1911,46,South Dakota,4
+1911,47,Tennessee,4
+1911,48,Texas,14
+1911,49,Utah,6
+1911,51,Virginia,6
+1911,53,Washington,31
+1911,54,West Virginia,14
+1911,55,Wisconsin,145
+1911,56,Wyoming,3
+1912,01,Alabama,2
+1912,02,Alaska,4
+1912,04,Arizona,2
+1912,05,Arkansas,1
+1912,06,California,77
+1912,08,Colorado,12
+1912,09,Connecticut,21
+1912,10,Delaware,5
+1912,12,Florida,4
+1912,13,Georgia,1
+1912,15,Hawaii,4
+1912,16,Idaho,1
+1912,17,Illinois,9
+1912,18,Indiana,99
+1912,19,Iowa,40
+1912,20,Kansas,18
+1912,22,Louisiana,19
+1912,23,Maine,12
+1912,25,Massachusetts,23
+1912,26,Michigan,35
+1912,27,Minnesota,71
+1912,28,Mississippi,67
+1912,29,Missouri,45
+1912,30,Montana,20
+1912,31,Nebraska,14
+1912,32,Nevada,3
+1912,33,New Hampshire,4
+1912,34,New Jersey,39
+1912,35,New Mexico,2
+1912,36,New York,176
+1912,39,Ohio,117
+1912,41,Oregon,17
+1912,42,Pennsylvania,229
+1912,44,Rhode Island,8
+1912,45,South Carolina,1
+1912,46,South Dakota,4
+1912,47,Tennessee,4
+1912,48,Texas,14
+1912,49,Utah,6
+1912,51,Virginia,6
+1912,53,Washington,31
+1912,54,West Virginia,12
+1912,55,Wisconsin,145
+1912,56,Wyoming,2
+1913,01,Alabama,2
+1913,02,Alaska,4
+1913,04,Arizona,2
+1913,05,Arkansas,1
+1913,06,California,73
+1913,08,Colorado,13
+1913,09,Connecticut,20
+1913,10,Delaware,5
+1913,12,Florida,4
+1913,13,Georgia,2
+1913,15,Hawaii,5
+1913,16,Idaho,1
+1913,17,Illinois,8
+1913,18,Indiana,96
+1913,19,Iowa,37
+1913,20,Kansas,17
+1913,22,Louisiana,19
+1913,23,Maine,11
+1913,25,Massachusetts,20
+1913,26,Michigan,33
+1913,27,Minnesota,70
+1913,28,Mississippi,66
+1913,29,Missouri,44
+1913,30,Montana,20
+1913,31,Nebraska,15
+1913,32,Nevada,3
+1913,33,New Hampshire,4
+1913,34,New Jersey,38
+1913,35,New Mexico,2
+1913,36,New York,168
+1913,39,Ohio,115
+1913,41,Oregon,13
+1913,42,Pennsylvania,223
+1913,44,Rhode Island,7
+1913,45,South Carolina,1
+1913,46,South Dakota,4
+1913,47,Tennessee,4
+1913,48,Texas,14
+1913,49,Utah,5
+1913,51,Virginia,6
+1913,53,Washington,26
+1913,54,West Virginia,10
+1913,55,Wisconsin,144
+1913,56,Wyoming,2
+1914,01,Alabama,2
+1914,02,Alaska,4
+1914,04,Arizona,2
+1914,05,Arkansas,1
+1914,06,California,73
+1914,08,Colorado,12
+1914,09,Connecticut,20
+1914,10,Delaware,5
+1914,12,Florida,4
+1914,13,Georgia,2
+1914,15,Hawaii,4
+1914,16,Idaho,1
+1914,17,Illinois,7
+1914,18,Indiana,93
+1914,19,Iowa,36
+1914,20,Kansas,17
+1914,22,Louisiana,18
+1914,23,Maine,11
+1914,25,Massachusetts,18
+1914,26,Michigan,33
+1914,27,Minnesota,68
+1914,28,Mississippi,66
+1914,29,Missouri,43
+1914,30,Montana,21
+1914,31,Nebraska,14
+1914,32,Nevada,2
+1914,33,New Hampshire,4
+1914,34,New Jersey,38
+1914,35,New Mexico,2
+1914,36,New York,164
+1914,39,Ohio,113
+1914,41,Oregon,12
+1914,42,Pennsylvania,221
+1914,44,Rhode Island,7
+1914,45,South Carolina,1
+1914,46,South Dakota,4
+1914,47,Tennessee,4
+1914,48,Texas,15
+1914,49,Utah,5
+1914,51,Virginia,6
+1914,53,Washington,27
+1914,54,West Virginia,10
+1914,55,Wisconsin,144
+1914,56,Wyoming,2
+1915,01,Alabama,2
+1915,02,Alaska,4
+1915,05,Arkansas,1
+1915,06,California,74
+1915,08,Colorado,12
+1915,09,Connecticut,20
+1915,10,Delaware,5
+1915,12,Florida,4
+1915,13,Georgia,2
+1915,15,Hawaii,4
+1915,16,Idaho,1
+1915,17,Illinois,7
+1915,18,Indiana,93
+1915,19,Iowa,35
+1915,20,Kansas,17
+1915,22,Louisiana,17
+1915,23,Maine,11
+1915,24,Maryland,1
+1915,25,Massachusetts,18
+1915,26,Michigan,33
+1915,27,Minnesota,67
+1915,28,Mississippi,65
+1915,29,Missouri,45
+1915,30,Montana,21
+1915,31,Nebraska,14
+1915,32,Nevada,2
+1915,33,New Hampshire,4
+1915,34,New Jersey,38
+1915,35,New Mexico,2
+1915,36,New York,163
+1915,39,Ohio,110
+1915,41,Oregon,12
+1915,42,Pennsylvania,221
+1915,44,Rhode Island,7
+1915,45,South Carolina,1
+1915,46,South Dakota,4
+1915,47,Tennessee,4
+1915,48,Texas,15
+1915,49,Utah,5
+1915,51,Virginia,6
+1915,53,Washington,26
+1915,55,Wisconsin,139
+1915,56,Wyoming,3
+1916,02,Alaska,5
+1916,06,California,69
+1916,08,Colorado,4
+1916,09,Connecticut,18
+1916,10,Delaware,3
+1916,12,Florida,4
+1916,13,Georgia,2
+1916,15,Hawaii,4
+1916,16,Idaho,1
+1916,17,Illinois,2
+1916,18,Indiana,91
+1916,19,Iowa,33
+1916,20,Kansas,1
+1916,22,Louisiana,17
+1916,23,Maine,10
+1916,25,Massachusetts,17
+1916,26,Michigan,32
+1916,27,Minnesota,60
+1916,28,Mississippi,59
+1916,29,Missouri,43
+1916,30,Montana,21
+1916,31,Nebraska,14
+1916,32,Nevada,2
+1916,33,New Hampshire,4
+1916,34,New Jersey,37
+1916,35,New Mexico,2
+1916,36,New York,154
+1916,39,Ohio,107
+1916,41,Oregon,12
+1916,42,Pennsylvania,214
+1916,44,Rhode Island,6
+1916,45,South Carolina,1
+1916,46,South Dakota,4
+1916,47,Tennessee,2
+1916,48,Texas,13
+1916,49,Utah,4
+1916,51,Virginia,6
+1916,53,Washington,1
+1916,55,Wisconsin,135
+1916,56,Wyoming,3
+1917,02,Alaska,4
+1917,06,California,64
+1917,08,Colorado,1
+1917,09,Connecticut,18
+1917,10,Delaware,3
+1917,12,Florida,4
+1917,13,Georgia,2
+1917,15,Hawaii,4
+1917,16,Idaho,1
+1917,18,Indiana,88
+1917,19,Iowa,28
+1917,22,Louisiana,13
+1917,23,Maine,10
+1917,25,Massachusetts,17
+1917,26,Michigan,30
+1917,27,Minnesota,55
+1917,28,Mississippi,50
+1917,29,Missouri,38
+1917,30,Montana,20
+1917,31,Nebraska,14
+1917,32,Nevada,2
+1917,33,New Hampshire,3
+1917,34,New Jersey,33
+1917,35,New Mexico,2
+1917,36,New York,137
+1917,39,Ohio,100
+1917,41,Oregon,3
+1917,42,Pennsylvania,195
+1917,44,Rhode Island,6
+1917,45,South Carolina,1
+1917,46,South Dakota,4
+1917,47,Tennessee,1
+1917,48,Texas,13
+1917,49,Utah,4
+1917,51,Virginia,6
+1917,53,Washington,1
+1917,55,Wisconsin,122
+1917,56,Wyoming,3
+1918,02,Alaska,4
+1918,06,California,64
+1918,08,Colorado,1
+1918,09,Connecticut,18
+1918,10,Delaware,3
+1918,13,Georgia,2
+1918,15,Hawaii,4
+1918,16,Idaho,1
+1918,18,Indiana,87
+1918,19,Iowa,28
+1918,22,Louisiana,13
+1918,23,Maine,10
+1918,25,Massachusetts,16
+1918,26,Michigan,30
+1918,27,Minnesota,54
+1918,28,Mississippi,50
+1918,29,Missouri,37
+1918,30,Montana,20
+1918,32,Nevada,2
+1918,33,New Hampshire,3
+1918,34,New Jersey,33
+1918,35,New Mexico,2
+1918,36,New York,134
+1918,39,Ohio,100
+1918,41,Oregon,3
+1918,42,Pennsylvania,196
+1918,44,Rhode Island,6
+1918,45,South Carolina,1
+1918,46,South Dakota,1
+1918,47,Tennessee,1
+1918,48,Texas,13
+1918,49,Utah,4
+1918,51,Virginia,6
+1918,53,Washington,1
+1918,55,Wisconsin,122
+1918,56,Wyoming,4
+1919,02,Alaska,4
+1919,06,California,63
+1919,08,Colorado,1
+1919,09,Connecticut,18
+1919,10,Delaware,3
+1919,13,Georgia,2
+1919,16,Idaho,1
+1919,18,Indiana,85
+1919,19,Iowa,3
+1919,25,Massachusetts,14
+1919,26,Michigan,1
+1919,27,Minnesota,52
+1919,28,Mississippi,50
+1919,29,Missouri,37
+1919,32,Nevada,1
+1919,34,New Jersey,33
+1919,36,New York,134
+1919,39,Ohio,100
+1919,41,Oregon,3
+1919,42,Pennsylvania,195
+1919,44,Rhode Island,6
+1919,46,South Dakota,1
+1919,47,Tennessee,1
+1919,53,Washington,1
+1919,55,Wisconsin,119
+1919,56,Wyoming,4
+1920,06,California,63
+1920,08,Colorado,1
+1920,09,Connecticut,18
+1920,10,Delaware,3
+1920,16,Idaho,1
+1920,18,Indiana,83
+1920,19,Iowa,3
+1920,25,Massachusetts,13
+1920,26,Michigan,1
+1920,27,Minnesota,7
+1920,28,Mississippi,50
+1920,29,Missouri,1
+1920,32,Nevada,1
+1920,34,New Jersey,33
+1920,36,New York,134
+1920,39,Ohio,14
+1920,41,Oregon,3
+1920,42,Pennsylvania,194
+1920,44,Rhode Island,6
+1920,46,South Dakota,1
+1920,47,Tennessee,1
+1920,53,Washington,1
+1920,55,Wisconsin,118
+1920,56,Wyoming,4
+1921,06,California,2
+1921,08,Colorado,1
+1921,09,Connecticut,1
+1921,18,Indiana,31
+1921,19,Iowa,3
+1921,25,Massachusetts,5
+1921,26,Michigan,1
+1921,27,Minnesota,6
+1921,28,Mississippi,2
+1921,29,Missouri,1
+1921,32,Nevada,1
+1921,34,New Jersey,3
+1921,36,New York,25
+1921,39,Ohio,14
+1921,41,Oregon,3
+1921,42,Pennsylvania,13
+1921,46,South Dakota,1
+1921,47,Tennessee,1
+1921,53,Washington,1
+1921,55,Wisconsin,24
+1922,06,California,2
+1922,08,Colorado,1
+1922,09,Connecticut,1
+1922,18,Indiana,30
+1922,19,Iowa,3
+1922,25,Massachusetts,5
+1922,26,Michigan,1
+1922,27,Minnesota,6
+1922,28,Mississippi,2
+1922,29,Missouri,1
+1922,32,Nevada,1
+1922,34,New Jersey,3
+1922,36,New York,25
+1922,39,Ohio,14
+1922,41,Oregon,3
+1922,42,Pennsylvania,13
+1922,46,South Dakota,1
+1922,47,Tennessee,1
+1922,53,Washington,1
+1922,55,Wisconsin,24
+1923,06,California,3
+1923,08,Colorado,1
+1923,09,Connecticut,1
+1923,18,Indiana,26
+1923,19,Iowa,3
+1923,25,Massachusetts,4
+1923,26,Michigan,1
+1923,27,Minnesota,6
+1923,28,Mississippi,2
+1923,29,Missouri,1
+1923,32,Nevada,1
+1923,34,New Jersey,3
+1923,36,New York,24
+1923,39,Ohio,14
+1923,41,Oregon,3
+1923,42,Pennsylvania,12
+1923,46,South Dakota,1
+1923,47,Tennessee,1
+1923,53,Washington,1
+1923,55,Wisconsin,24
+1924,06,California,3
+1924,08,Colorado,1
+1924,09,Connecticut,1
+1924,18,Indiana,21
+1924,19,Iowa,3
+1924,25,Massachusetts,3
+1924,26,Michigan,1
+1924,27,Minnesota,6
+1924,28,Mississippi,2
+1924,29,Missouri,1
+1924,32,Nevada,1
+1924,34,New Jersey,3
+1924,36,New York,24
+1924,39,Ohio,14
+1924,41,Oregon,3
+1924,42,Pennsylvania,12
+1924,46,South Dakota,1
+1924,47,Tennessee,1
+1924,53,Washington,1
+1924,55,Wisconsin,24
+1925,06,California,3
+1925,08,Colorado,1
+1925,09,Connecticut,1
+1925,18,Indiana,19
+1925,19,Iowa,3
+1925,25,Massachusetts,3
+1925,26,Michigan,1
+1925,27,Minnesota,6
+1925,28,Mississippi,2
+1925,29,Missouri,1
+1925,32,Nevada,1
+1925,34,New Jersey,3
+1925,36,New York,23
+1925,39,Ohio,14
+1925,41,Oregon,3
+1925,42,Pennsylvania,12
+1925,46,South Dakota,1
+1925,47,Tennessee,1
+1925,53,Washington,1
+1925,55,Wisconsin,24
+1926,06,California,3
+1926,08,Colorado,1
+1926,09,Connecticut,1
+1926,18,Indiana,15
+1926,19,Iowa,3
+1926,25,Massachusetts,3
+1926,26,Michigan,1
+1926,27,Minnesota,6
+1926,28,Mississippi,2
+1926,29,Missouri,1
+1926,32,Nevada,1
+1926,34,New Jersey,3
+1926,36,New York,23
+1926,39,Ohio,13
+1926,41,Oregon,3
+1926,42,Pennsylvania,12
+1926,46,South Dakota,1
+1926,47,Tennessee,1
+1926,53,Washington,1
+1926,55,Wisconsin,24
+1927,06,California,3
+1927,08,Colorado,1
+1927,09,Connecticut,1
+1927,18,Indiana,14
+1927,19,Iowa,3
+1927,23,Maine,1
+1927,25,Massachusetts,4
+1927,26,Michigan,1
+1927,27,Minnesota,6
+1927,28,Mississippi,2
+1927,29,Missouri,1
+1927,32,Nevada,1
+1927,34,New Jersey,4
+1927,36,New York,22
+1927,39,Ohio,13
+1927,41,Oregon,3
+1927,42,Pennsylvania,12
+1927,46,South Dakota,1
+1927,47,Tennessee,1
+1927,55,Wisconsin,21
+1928,06,California,3
+1928,08,Colorado,1
+1928,09,Connecticut,1
+1928,18,Indiana,11
+1928,19,Iowa,3
+1928,23,Maine,1
+1928,25,Massachusetts,4
+1928,26,Michigan,1
+1928,27,Minnesota,6
+1928,28,Mississippi,2
+1928,29,Missouri,1
+1928,32,Nevada,1
+1928,34,New Jersey,4
+1928,36,New York,20
+1928,39,Ohio,12
+1928,41,Oregon,3
+1928,42,Pennsylvania,13
+1928,46,South Dakota,1
+1928,47,Tennessee,1
+1928,55,Wisconsin,21
+1929,06,California,3
+1929,08,Colorado,1
+1929,09,Connecticut,1
+1929,18,Indiana,10
+1929,19,Iowa,3
+1929,23,Maine,1
+1929,25,Massachusetts,4
+1929,26,Michigan,1
+1929,27,Minnesota,6
+1929,28,Mississippi,2
+1929,29,Missouri,1
+1929,32,Nevada,1
+1929,34,New Jersey,4
+1929,36,New York,19
+1929,39,Ohio,12
+1929,41,Oregon,2
+1929,42,Pennsylvania,13
+1929,46,South Dakota,1
+1929,47,Tennessee,1
+1929,55,Wisconsin,22
+1930,06,California,3
+1930,08,Colorado,1
+1930,09,Connecticut,1
+1930,18,Indiana,10
+1930,19,Iowa,3
+1930,23,Maine,1
+1930,25,Massachusetts,4
+1930,26,Michigan,1
+1930,27,Minnesota,6
+1930,28,Mississippi,2
+1930,29,Missouri,1
+1930,32,Nevada,1
+1930,34,New Jersey,4
+1930,36,New York,19
+1930,39,Ohio,12
+1930,41,Oregon,2
+1930,42,Pennsylvania,13
+1930,46,South Dakota,1
+1930,47,Tennessee,1
+1930,55,Wisconsin,21
+1931,06,California,3
+1931,08,Colorado,1
+1931,09,Connecticut,1
+1931,18,Indiana,10
+1931,19,Iowa,3
+1931,23,Maine,1
+1931,25,Massachusetts,4
+1931,26,Michigan,1
+1931,27,Minnesota,6
+1931,28,Mississippi,2
+1931,29,Missouri,1
+1931,32,Nevada,1
+1931,34,New Jersey,4
+1931,36,New York,19
+1931,39,Ohio,12
+1931,41,Oregon,2
+1931,42,Pennsylvania,13
+1931,46,South Dakota,1
+1931,47,Tennessee,1
+1931,55,Wisconsin,21
+1932,06,California,4
+1932,08,Colorado,2
+1932,09,Connecticut,1
+1932,18,Indiana,13
+1932,19,Iowa,3
+1932,22,Louisiana,1
+1932,23,Maine,1
+1932,25,Massachusetts,3
+1932,26,Michigan,1
+1932,27,Minnesota,6
+1932,28,Mississippi,2
+1932,29,Missouri,1
+1932,32,Nevada,1
+1932,34,New Jersey,4
+1932,36,New York,19
+1932,39,Ohio,12
+1932,41,Oregon,2
+1932,42,Pennsylvania,12
+1932,46,South Dakota,1
+1932,47,Tennessee,1
+1932,55,Wisconsin,21
+1933,04,Arizona,1
+1933,06,California,24
+1933,08,Colorado,4
+1933,09,Connecticut,10
+1933,12,Florida,2
+1933,13,Georgia,3
+1933,15,Hawaii,1
+1933,16,Idaho,1
+1933,17,Illinois,1
+1933,18,Indiana,50
+1933,19,Iowa,13
+1933,20,Kansas,2
+1933,22,Louisiana,4
+1933,23,Maine,5
+1933,25,Massachusetts,8
+1933,26,Michigan,13
+1933,27,Minnesota,36
+1933,28,Mississippi,19
+1933,29,Missouri,12
+1933,30,Montana,7
+1933,31,Nebraska,5
+1933,32,Nevada,2
+1933,33,New Hampshire,1
+1933,34,New Jersey,21
+1933,36,New York,76
+1933,39,Ohio,43
+1933,41,Oregon,4
+1933,42,Pennsylvania,113
+1933,44,Rhode Island,5
+1933,47,Tennessee,3
+1933,48,Texas,6
+1933,55,Wisconsin,87
+1933,56,Wyoming,1
+1934,01,Alabama,1
+1934,02,Alaska,2
+1934,04,Arizona,2
+1934,05,Arkansas,1
+1934,06,California,63
+1934,08,Colorado,6
+1934,09,Connecticut,16
+1934,10,Delaware,1
+1934,12,Florida,3
+1934,13,Georgia,10
+1934,15,Hawaii,3
+1934,16,Idaho,2
+1934,17,Illinois,3
+1934,18,Indiana,70
+1934,19,Iowa,21
+1934,20,Kansas,7
+1934,21,Kentucky,1
+1934,22,Louisiana,10
+1934,23,Maine,9
+1934,25,Massachusetts,13
+1934,26,Michigan,17
+1934,27,Minnesota,65
+1934,28,Mississippi,33
+1934,29,Missouri,25
+1934,30,Montana,9
+1934,31,Nebraska,7
+1934,32,Nevada,2
+1934,33,New Hampshire,1
+1934,34,New Jersey,32
+1934,35,New Mexico,1
+1934,36,New York,103
+1934,37,North Carolina,2
+1934,39,Ohio,68
+1934,40,Oklahoma,4
+1934,41,Oregon,10
+1934,42,Pennsylvania,134
+1934,44,Rhode Island,10
+1934,45,South Carolina,1
+1934,46,South Dakota,5
+1934,47,Tennessee,3
+1934,48,Texas,14
+1934,49,Utah,2
+1934,51,Virginia,7
+1934,53,Washington,23
+1934,54,West Virginia,5
+1934,55,Wisconsin,104
+1934,56,Wyoming,2
+1935,02,Alaska,3
+1935,04,Arizona,1
+1935,06,California,34
+1935,08,Colorado,5
+1935,09,Connecticut,12
+1935,10,Delaware,1
+1935,12,Florida,2
+1935,13,Georgia,9
+1935,15,Hawaii,1
+1935,16,Idaho,2
+1935,17,Illinois,4
+1935,18,Indiana,62
+1935,19,Iowa,16
+1935,20,Kansas,4
+1935,22,Louisiana,7
+1935,23,Maine,7
+1935,25,Massachusetts,11
+1935,26,Michigan,14
+1935,27,Minnesota,53
+1935,28,Mississippi,25
+1935,29,Missouri,22
+1935,30,Montana,10
+1935,31,Nebraska,5
+1935,32,Nevada,2
+1935,33,New Hampshire,1
+1935,34,New Jersey,17
+1935,36,New York,75
+1935,39,Ohio,51
+1935,40,Oklahoma,3
+1935,41,Oregon,5
+1935,42,Pennsylvania,108
+1935,44,Rhode Island,6
+1935,46,South Dakota,1
+1935,47,Tennessee,3
+1935,48,Texas,10
+1935,49,Utah,2
+1935,51,Virginia,3
+1935,53,Washington,17
+1935,54,West Virginia,4
+1935,55,Wisconsin,90
+1935,56,Wyoming,2
+1936,02,Alaska,2
+1936,04,Arizona,1
+1936,06,California,32
+1936,08,Colorado,5
+1936,09,Connecticut,12
+1936,10,Delaware,1
+1936,12,Florida,2
+1936,13,Georgia,7
+1936,15,Hawaii,1
+1936,16,Idaho,2
+1936,17,Illinois,4
+1936,18,Indiana,62
+1936,19,Iowa,15
+1936,20,Kansas,4
+1936,22,Louisiana,7
+1936,23,Maine,7
+1936,25,Massachusetts,11
+1936,26,Michigan,15
+1936,27,Minnesota,53
+1936,28,Mississippi,25
+1936,29,Missouri,21
+1936,30,Montana,10
+1936,31,Nebraska,4
+1936,32,Nevada,2
+1936,33,New Hampshire,1
+1936,34,New Jersey,18
+1936,36,New York,73
+1936,39,Ohio,51
+1936,40,Oklahoma,3
+1936,41,Oregon,5
+1936,42,Pennsylvania,104
+1936,44,Rhode Island,6
+1936,46,South Dakota,1
+1936,47,Tennessee,3
+1936,48,Texas,10
+1936,49,Utah,2
+1936,51,Virginia,3
+1936,53,Washington,16
+1936,54,West Virginia,4
+1936,55,Wisconsin,89
+1936,56,Wyoming,2
+1937,02,Alaska,2
+1937,04,Arizona,1
+1937,06,California,34
+1937,08,Colorado,5
+1937,09,Connecticut,10
+1937,10,Delaware,1
+1937,12,Florida,2
+1937,13,Georgia,7
+1937,15,Hawaii,1
+1937,16,Idaho,2
+1937,17,Illinois,4
+1937,18,Indiana,58
+1937,19,Iowa,17
+1937,20,Kansas,4
+1937,22,Louisiana,7
+1937,23,Maine,7
+1937,25,Massachusetts,11
+1937,26,Michigan,15
+1937,27,Minnesota,54
+1937,28,Mississippi,25
+1937,29,Missouri,19
+1937,30,Montana,10
+1937,31,Nebraska,4
+1937,32,Nevada,2
+1937,33,New Hampshire,1
+1937,34,New Jersey,18
+1937,35,New Mexico,1
+1937,36,New York,75
+1937,39,Ohio,54
+1937,40,Oklahoma,3
+1937,41,Oregon,5
+1937,42,Pennsylvania,103
+1937,44,Rhode Island,6
+1937,46,South Dakota,1
+1937,47,Tennessee,2
+1937,48,Texas,10
+1937,49,Utah,2
+1937,51,Virginia,3
+1937,53,Washington,15
+1937,54,West Virginia,4
+1937,55,Wisconsin,87
+1937,56,Wyoming,2
+1938,02,Alaska,2
+1938,04,Arizona,1
+1938,06,California,30
+1938,08,Colorado,5
+1938,09,Connecticut,9
+1938,10,Delaware,2
+1938,12,Florida,2
+1938,13,Georgia,7
+1938,15,Hawaii,1
+1938,16,Idaho,2
+1938,17,Illinois,4
+1938,18,Indiana,57
+1938,19,Iowa,17
+1938,20,Kansas,4
+1938,22,Louisiana,8
+1938,23,Maine,6
+1938,25,Massachusetts,9
+1938,26,Michigan,14
+1938,27,Minnesota,46
+1938,28,Mississippi,24
+1938,29,Missouri,18
+1938,30,Montana,10
+1938,31,Nebraska,4
+1938,32,Nevada,2
+1938,33,New Hampshire,1
+1938,34,New Jersey,15
+1938,35,New Mexico,1
+1938,36,New York,64
+1938,39,Ohio,52
+1938,40,Oklahoma,3
+1938,41,Oregon,5
+1938,42,Pennsylvania,95
+1938,44,Rhode Island,5
+1938,46,South Dakota,1
+1938,47,Tennessee,2
+1938,48,Texas,10
+1938,49,Utah,2
+1938,51,Virginia,3
+1938,53,Washington,14
+1938,54,West Virginia,4
+1938,55,Wisconsin,78
+1938,56,Wyoming,2
+1939,02,Alaska,2
+1939,04,Arizona,1
+1939,06,California,28
+1939,08,Colorado,4
+1939,09,Connecticut,9
+1939,10,Delaware,2
+1939,12,Florida,1
+1939,13,Georgia,5
+1939,15,Hawaii,1
+1939,16,Idaho,2
+1939,17,Illinois,4
+1939,18,Indiana,54
+1939,19,Iowa,16
+1939,20,Kansas,4
+1939,22,Louisiana,8
+1939,23,Maine,6
+1939,25,Massachusetts,8
+1939,26,Michigan,14
+1939,27,Minnesota,41
+1939,28,Mississippi,24
+1939,29,Missouri,15
+1939,30,Montana,9
+1939,31,Nebraska,3
+1939,32,Nevada,2
+1939,33,New Hampshire,1
+1939,34,New Jersey,13
+1939,35,New Mexico,1
+1939,36,New York,62
+1939,39,Ohio,52
+1939,40,Oklahoma,3
+1939,41,Oregon,5
+1939,42,Pennsylvania,87
+1939,44,Rhode Island,4
+1939,46,South Dakota,1
+1939,47,Tennessee,2
+1939,48,Texas,10
+1939,49,Utah,2
+1939,51,Virginia,3
+1939,53,Washington,13
+1939,54,West Virginia,2
+1939,55,Wisconsin,77
+1939,56,Wyoming,2
+1940,02,Alaska,2
+1940,04,Arizona,1
+1940,06,California,25
+1940,08,Colorado,4
+1940,09,Connecticut,8
+1940,10,Delaware,2
+1940,12,Florida,1
+1940,13,Georgia,4
+1940,15,Hawaii,1
+1940,16,Idaho,2
+1940,17,Illinois,3
+1940,18,Indiana,48
+1940,19,Iowa,15
+1940,20,Kansas,4
+1940,22,Louisiana,7
+1940,23,Maine,5
+1940,25,Massachusetts,8
+1940,26,Michigan,14
+1940,27,Minnesota,37
+1940,28,Mississippi,22
+1940,29,Missouri,13
+1940,30,Montana,8
+1940,31,Nebraska,3
+1940,32,Nevada,2
+1940,33,New Hampshire,1
+1940,34,New Jersey,13
+1940,36,New York,59
+1940,39,Ohio,48
+1940,40,Oklahoma,3
+1940,41,Oregon,5
+1940,42,Pennsylvania,78
+1940,44,Rhode Island,3
+1940,46,South Dakota,1
+1940,47,Tennessee,2
+1940,48,Texas,8
+1940,49,Utah,2
+1940,51,Virginia,3
+1940,53,Washington,13
+1940,54,West Virginia,2
+1940,55,Wisconsin,75
+1940,56,Wyoming,2
+1941,02,Alaska,2
+1941,04,Arizona,1
+1941,06,California,21
+1941,08,Colorado,4
+1941,09,Connecticut,8
+1941,10,Delaware,2
+1941,12,Florida,1
+1941,13,Georgia,4
+1941,15,Hawaii,1
+1941,16,Idaho,2
+1941,17,Illinois,3
+1941,18,Indiana,45
+1941,19,Iowa,14
+1941,20,Kansas,4
+1941,22,Louisiana,6
+1941,23,Maine,5
+1941,25,Massachusetts,7
+1941,26,Michigan,13
+1941,27,Minnesota,32
+1941,28,Mississippi,22
+1941,29,Missouri,11
+1941,30,Montana,8
+1941,31,Nebraska,3
+1941,32,Nevada,2
+1941,33,New Hampshire,1
+1941,34,New Jersey,13
+1941,36,New York,53
+1941,39,Ohio,44
+1941,40,Oklahoma,2
+1941,41,Oregon,4
+1941,42,Pennsylvania,72
+1941,44,Rhode Island,2
+1941,46,South Dakota,1
+1941,47,Tennessee,2
+1941,48,Texas,6
+1941,49,Utah,2
+1941,51,Virginia,3
+1941,53,Washington,11
+1941,54,West Virginia,2
+1941,55,Wisconsin,75
+1941,56,Wyoming,2
+1942,02,Alaska,2
+1942,04,Arizona,1
+1942,06,California,21
+1942,08,Colorado,3
+1942,09,Connecticut,6
+1942,10,Delaware,2
+1942,12,Florida,1
+1942,13,Georgia,4
+1942,15,Hawaii,1
+1942,16,Idaho,2
+1942,17,Illinois,3
+1942,18,Indiana,41
+1942,19,Iowa,13
+1942,20,Kansas,3
+1942,22,Louisiana,6
+1942,23,Maine,5
+1942,25,Massachusetts,7
+1942,26,Michigan,13
+1942,27,Minnesota,30
+1942,28,Mississippi,22
+1942,29,Missouri,11
+1942,30,Montana,8
+1942,31,Nebraska,3
+1942,32,Nevada,2
+1942,33,New Hampshire,1
+1942,34,New Jersey,12
+1942,36,New York,49
+1942,39,Ohio,41
+1942,40,Oklahoma,2
+1942,41,Oregon,4
+1942,42,Pennsylvania,64
+1942,44,Rhode Island,2
+1942,46,South Dakota,1
+1942,47,Tennessee,2
+1942,48,Texas,6
+1942,49,Utah,2
+1942,51,Virginia,3
+1942,53,Washington,11
+1942,54,West Virginia,1
+1942,55,Wisconsin,70
+1942,56,Wyoming,2
+1943,04,Arizona,1
+1943,06,California,15
+1943,08,Colorado,3
+1943,09,Connecticut,6
+1943,10,Delaware,2
+1943,12,Florida,1
+1943,13,Georgia,4
+1943,15,Hawaii,1
+1943,16,Idaho,2
+1943,17,Illinois,3
+1943,18,Indiana,41
+1943,19,Iowa,12
+1943,20,Kansas,3
+1943,22,Louisiana,6
+1943,23,Maine,5
+1943,25,Massachusetts,7
+1943,26,Michigan,13
+1943,27,Minnesota,26
+1943,28,Mississippi,19
+1943,29,Missouri,11
+1943,30,Montana,8
+1943,31,Nebraska,2
+1943,32,Nevada,2
+1943,33,New Hampshire,1
+1943,34,New Jersey,12
+1943,36,New York,45
+1943,39,Ohio,40
+1943,40,Oklahoma,2
+1943,41,Oregon,4
+1943,42,Pennsylvania,60
+1943,44,Rhode Island,2
+1943,47,Tennessee,2
+1943,48,Texas,6
+1943,49,Utah,2
+1943,51,Virginia,2
+1943,53,Washington,11
+1943,54,West Virginia,1
+1943,55,Wisconsin,62
+1943,56,Wyoming,2
+1944,04,Arizona,1
+1944,06,California,15
+1944,08,Colorado,3
+1944,09,Connecticut,4
+1944,10,Delaware,2
+1944,12,Florida,1
+1944,13,Georgia,4
+1944,15,Hawaii,1
+1944,16,Idaho,2
+1944,17,Illinois,2
+1944,18,Indiana,38
+1944,19,Iowa,12
+1944,20,Kansas,3
+1944,22,Louisiana,6
+1944,23,Maine,5
+1944,25,Massachusetts,7
+1944,26,Michigan,13
+1944,27,Minnesota,21
+1944,28,Mississippi,19
+1944,29,Missouri,11
+1944,30,Montana,8
+1944,31,Nebraska,2
+1944,32,Nevada,2
+1944,33,New Hampshire,1
+1944,34,New Jersey,11
+1944,36,New York,43
+1944,39,Ohio,39
+1944,40,Oklahoma,2
+1944,41,Oregon,3
+1944,42,Pennsylvania,57
+1944,44,Rhode Island,2
+1944,47,Tennessee,2
+1944,48,Texas,6
+1944,49,Utah,2
+1944,51,Virginia,2
+1944,53,Washington,10
+1944,54,West Virginia,1
+1944,55,Wisconsin,60
+1944,56,Wyoming,2
+1945,04,Arizona,1
+1945,06,California,15
+1945,08,Colorado,3
+1945,09,Connecticut,4
+1945,10,Delaware,1
+1945,12,Florida,1
+1945,13,Georgia,4
+1945,15,Hawaii,1
+1945,16,Idaho,2
+1945,17,Illinois,3
+1945,18,Indiana,37
+1945,19,Iowa,12
+1945,20,Kansas,3
+1945,22,Louisiana,6
+1945,23,Maine,5
+1945,25,Massachusetts,7
+1945,26,Michigan,13
+1945,27,Minnesota,21
+1945,28,Mississippi,19
+1945,29,Missouri,11
+1945,30,Montana,8
+1945,31,Nebraska,2
+1945,32,Nevada,2
+1945,33,New Hampshire,1
+1945,34,New Jersey,11
+1945,36,New York,44
+1945,39,Ohio,36
+1945,40,Oklahoma,2
+1945,41,Oregon,3
+1945,42,Pennsylvania,57
+1945,44,Rhode Island,2
+1945,47,Tennessee,2
+1945,48,Texas,6
+1945,49,Utah,2
+1945,51,Virginia,2
+1945,53,Washington,8
+1945,54,West Virginia,1
+1945,55,Wisconsin,60
+1945,56,Wyoming,2
+1946,04,Arizona,1
+1946,06,California,15
+1946,08,Colorado,3
+1946,09,Connecticut,4
+1946,10,Delaware,1
+1946,12,Florida,1
+1946,13,Georgia,4
+1946,15,Hawaii,1
+1946,16,Idaho,2
+1946,17,Illinois,3
+1946,18,Indiana,37
+1946,19,Iowa,12
+1946,20,Kansas,3
+1946,22,Louisiana,6
+1946,23,Maine,5
+1946,25,Massachusetts,7
+1946,26,Michigan,13
+1946,27,Minnesota,22
+1946,28,Mississippi,19
+1946,29,Missouri,11
+1946,30,Montana,8
+1946,31,Nebraska,2
+1946,32,Nevada,2
+1946,33,New Hampshire,1
+1946,34,New Jersey,11
+1946,36,New York,44
+1946,39,Ohio,36
+1946,40,Oklahoma,2
+1946,41,Oregon,3
+1946,42,Pennsylvania,57
+1946,44,Rhode Island,2
+1946,47,Tennessee,2
+1946,48,Texas,6
+1946,49,Utah,2
+1946,51,Virginia,2
+1946,53,Washington,9
+1946,54,West Virginia,1
+1946,55,Wisconsin,60
+1946,56,Wyoming,2
+1947,04,Arizona,1
+1947,06,California,15
+1947,08,Colorado,3
+1947,09,Connecticut,4
+1947,10,Delaware,1
+1947,12,Florida,1
+1947,13,Georgia,4
+1947,15,Hawaii,1
+1947,16,Idaho,2
+1947,17,Illinois,3
+1947,18,Indiana,37
+1947,19,Iowa,12
+1947,20,Kansas,3
+1947,22,Louisiana,6
+1947,23,Maine,6
+1947,25,Massachusetts,7
+1947,26,Michigan,13
+1947,27,Minnesota,21
+1947,28,Mississippi,18
+1947,29,Missouri,11
+1947,30,Montana,8
+1947,31,Nebraska,2
+1947,32,Nevada,2
+1947,33,New Hampshire,1
+1947,34,New Jersey,10
+1947,36,New York,44
+1947,39,Ohio,36
+1947,40,Oklahoma,1
+1947,41,Oregon,3
+1947,42,Pennsylvania,57
+1947,44,Rhode Island,2
+1947,47,Tennessee,2
+1947,48,Texas,6
+1947,49,Utah,2
+1947,51,Virginia,2
+1947,53,Washington,9
+1947,54,West Virginia,1
+1947,55,Wisconsin,59
+1947,56,Wyoming,2
+1948,04,Arizona,1
+1948,06,California,15
+1948,08,Colorado,3
+1948,09,Connecticut,3
+1948,10,Delaware,1
+1948,12,Florida,1
+1948,13,Georgia,4
+1948,15,Hawaii,1
+1948,16,Idaho,2
+1948,17,Illinois,3
+1948,18,Indiana,34
+1948,19,Iowa,12
+1948,20,Kansas,3
+1948,22,Louisiana,6
+1948,23,Maine,4
+1948,25,Massachusetts,7
+1948,26,Michigan,13
+1948,27,Minnesota,18
+1948,28,Mississippi,18
+1948,29,Missouri,9
+1948,30,Montana,8
+1948,31,Nebraska,2
+1948,32,Nevada,2
+1948,33,New Hampshire,1
+1948,34,New Jersey,10
+1948,36,New York,40
+1948,39,Ohio,35
+1948,40,Oklahoma,1
+1948,41,Oregon,1
+1948,42,Pennsylvania,57
+1948,44,Rhode Island,2
+1948,47,Tennessee,2
+1948,48,Texas,6
+1948,49,Utah,2
+1948,51,Virginia,2
+1948,53,Washington,8
+1948,54,West Virginia,1
+1948,55,Wisconsin,54
+1948,56,Wyoming,2
+1949,04,Arizona,1
+1949,06,California,13
+1949,08,Colorado,3
+1949,09,Connecticut,2
+1949,10,Delaware,1
+1949,12,Florida,1
+1949,13,Georgia,4
+1949,15,Hawaii,1
+1949,16,Idaho,2
+1949,17,Illinois,3
+1949,18,Indiana,30
+1949,19,Iowa,11
+1949,20,Kansas,3
+1949,22,Louisiana,6
+1949,23,Maine,4
+1949,25,Massachusetts,7
+1949,26,Michigan,12
+1949,27,Minnesota,17
+1949,28,Mississippi,18
+1949,29,Missouri,6
+1949,30,Montana,8
+1949,31,Nebraska,2
+1949,32,Nevada,1
+1949,33,New Hampshire,1
+1949,34,New Jersey,9
+1949,36,New York,35
+1949,39,Ohio,33
+1949,40,Oklahoma,1
+1949,41,Oregon,1
+1949,42,Pennsylvania,53
+1949,44,Rhode Island,2
+1949,47,Tennessee,2
+1949,48,Texas,7
+1949,49,Utah,2
+1949,51,Virginia,3
+1949,53,Washington,7
+1949,54,West Virginia,1
+1949,55,Wisconsin,51
+1949,56,Wyoming,1
+1950,04,Arizona,1
+1950,06,California,12
+1950,08,Colorado,3
+1950,09,Connecticut,2
+1950,10,Delaware,1
+1950,12,Florida,1
+1950,13,Georgia,4
+1950,15,Hawaii,1
+1950,16,Idaho,2
+1950,17,Illinois,2
+1950,18,Indiana,29
+1950,19,Iowa,11
+1950,20,Kansas,3
+1950,22,Louisiana,5
+1950,23,Maine,3
+1950,25,Massachusetts,7
+1950,26,Michigan,12
+1950,27,Minnesota,15
+1950,28,Mississippi,18
+1950,29,Missouri,6
+1950,30,Montana,8
+1950,31,Nebraska,3
+1950,32,Nevada,1
+1950,33,New Hampshire,1
+1950,34,New Jersey,7
+1950,36,New York,34
+1950,39,Ohio,31
+1950,40,Oklahoma,1
+1950,41,Oregon,1
+1950,42,Pennsylvania,51
+1950,44,Rhode Island,2
+1950,47,Tennessee,2
+1950,48,Texas,7
+1950,49,Utah,2
+1950,51,Virginia,3
+1950,53,Washington,7
+1950,54,West Virginia,1
+1950,55,Wisconsin,48
+1950,56,Wyoming,1
+1951,04,Arizona,1
+1951,06,California,11
+1951,08,Colorado,4
+1951,09,Connecticut,2
+1951,10,Delaware,1
+1951,12,Florida,1
+1951,13,Georgia,4
+1951,15,Hawaii,1
+1951,16,Idaho,2
+1951,17,Illinois,1
+1951,18,Indiana,26
+1951,19,Iowa,10
+1951,20,Kansas,3
+1951,22,Louisiana,5
+1951,23,Maine,3
+1951,25,Massachusetts,7
+1951,26,Michigan,12
+1951,27,Minnesota,14
+1951,28,Mississippi,18
+1951,29,Missouri,6
+1951,30,Montana,7
+1951,31,Nebraska,3
+1951,32,Nevada,1
+1951,34,New Jersey,7
+1951,36,New York,25
+1951,39,Ohio,28
+1951,40,Oklahoma,1
+1951,41,Oregon,1
+1951,42,Pennsylvania,48
+1951,44,Rhode Island,2
+1951,47,Tennessee,2
+1951,48,Texas,7
+1951,49,Utah,2
+1951,51,Virginia,3
+1951,53,Washington,6
+1951,54,West Virginia,1
+1951,55,Wisconsin,47
+1951,56,Wyoming,1
+1952,04,Arizona,1
+1952,06,California,11
+1952,08,Colorado,4
+1952,09,Connecticut,2
+1952,10,Delaware,1
+1952,12,Florida,1
+1952,13,Georgia,4
+1952,15,Hawaii,1
+1952,16,Idaho,2
+1952,17,Illinois,1
+1952,18,Indiana,22
+1952,19,Iowa,7
+1952,20,Kansas,3
+1952,22,Louisiana,5
+1952,23,Maine,3
+1952,25,Massachusetts,7
+1952,26,Michigan,11
+1952,27,Minnesota,14
+1952,28,Mississippi,16
+1952,29,Missouri,6
+1952,30,Montana,7
+1952,31,Nebraska,3
+1952,32,Nevada,1
+1952,34,New Jersey,6
+1952,36,New York,23
+1952,39,Ohio,24
+1952,40,Oklahoma,1
+1952,41,Oregon,1
+1952,42,Pennsylvania,41
+1952,44,Rhode Island,2
+1952,47,Tennessee,2
+1952,48,Texas,6
+1952,49,Utah,2
+1952,51,Virginia,2
+1952,53,Washington,6
+1952,54,West Virginia,1
+1952,55,Wisconsin,46
+1952,56,Wyoming,1
+1953,04,Arizona,1
+1953,06,California,9
+1953,08,Colorado,4
+1953,09,Connecticut,2
+1953,10,Delaware,1
+1953,12,Florida,1
+1953,13,Georgia,4
+1953,15,Hawaii,1
+1953,16,Idaho,2
+1953,17,Illinois,1
+1953,18,Indiana,21
+1953,19,Iowa,6
+1953,20,Kansas,3
+1953,22,Louisiana,5
+1953,23,Maine,3
+1953,25,Massachusetts,6
+1953,26,Michigan,8
+1953,27,Minnesota,11
+1953,28,Mississippi,14
+1953,29,Missouri,6
+1953,30,Montana,6
+1953,31,Nebraska,3
+1953,32,Nevada,1
+1953,34,New Jersey,6
+1953,36,New York,22
+1953,39,Ohio,21
+1953,40,Oklahoma,1
+1953,41,Oregon,1
+1953,42,Pennsylvania,41
+1953,44,Rhode Island,2
+1953,47,Tennessee,2
+1953,48,Texas,6
+1953,49,Utah,2
+1953,51,Virginia,2
+1953,53,Washington,5
+1953,54,West Virginia,1
+1953,55,Wisconsin,46
+1953,56,Wyoming,1
+1954,04,Arizona,1
+1954,05,Arkansas,1
+1954,06,California,8
+1954,08,Colorado,4
+1954,09,Connecticut,2
+1954,10,Delaware,1
+1954,12,Florida,1
+1954,13,Georgia,5
+1954,15,Hawaii,1
+1954,16,Idaho,2
+1954,17,Illinois,1
+1954,18,Indiana,19
+1954,19,Iowa,6
+1954,20,Kansas,3
+1954,22,Louisiana,5
+1954,23,Maine,3
+1954,25,Massachusetts,6
+1954,26,Michigan,8
+1954,27,Minnesota,11
+1954,28,Mississippi,15
+1954,29,Missouri,6
+1954,30,Montana,5
+1954,31,Nebraska,3
+1954,32,Nevada,1
+1954,34,New Jersey,6
+1954,36,New York,21
+1954,39,Ohio,18
+1954,40,Oklahoma,1
+1954,41,Oregon,1
+1954,42,Pennsylvania,35
+1954,44,Rhode Island,2
+1954,47,Tennessee,2
+1954,48,Texas,6
+1954,49,Utah,2
+1954,51,Virginia,2
+1954,53,Washington,5
+1954,54,West Virginia,1
+1954,55,Wisconsin,43
+1955,04,Arizona,1
+1955,06,California,7
+1955,08,Colorado,4
+1955,09,Connecticut,2
+1955,12,Florida,1
+1955,13,Georgia,5
+1955,15,Hawaii,1
+1955,16,Idaho,2
+1955,17,Illinois,1
+1955,18,Indiana,17
+1955,19,Iowa,5
+1955,20,Kansas,3
+1955,22,Louisiana,5
+1955,23,Maine,3
+1955,25,Massachusetts,6
+1955,26,Michigan,8
+1955,27,Minnesota,10
+1955,28,Mississippi,15
+1955,29,Missouri,6
+1955,30,Montana,5
+1955,31,Nebraska,2
+1955,32,Nevada,1
+1955,34,New Jersey,6
+1955,36,New York,20
+1955,39,Ohio,15
+1955,40,Oklahoma,1
+1955,41,Oregon,1
+1955,42,Pennsylvania,31
+1955,44,Rhode Island,2
+1955,47,Tennessee,1
+1955,48,Texas,6
+1955,49,Utah,2
+1955,51,Virginia,2
+1955,53,Washington,4
+1955,54,West Virginia,1
+1955,55,Wisconsin,42
+1956,04,Arizona,1
+1956,06,California,6
+1956,08,Colorado,3
+1956,09,Connecticut,1
+1956,12,Florida,1
+1956,13,Georgia,5
+1956,15,Hawaii,1
+1956,16,Idaho,2
+1956,17,Illinois,1
+1956,18,Indiana,14
+1956,19,Iowa,4
+1956,20,Kansas,2
+1956,22,Louisiana,5
+1956,23,Maine,3
+1956,25,Massachusetts,6
+1956,26,Michigan,8
+1956,27,Minnesota,9
+1956,28,Mississippi,13
+1956,29,Missouri,6
+1956,30,Montana,5
+1956,31,Nebraska,2
+1956,32,Nevada,1
+1956,34,New Jersey,6
+1956,36,New York,18
+1956,39,Ohio,14
+1956,40,Oklahoma,1
+1956,41,Oregon,1
+1956,42,Pennsylvania,29
+1956,44,Rhode Island,2
+1956,48,Texas,6
+1956,49,Utah,2
+1956,51,Virginia,2
+1956,53,Washington,4
+1956,54,West Virginia,1
+1956,55,Wisconsin,41
+1957,04,Arizona,1
+1957,06,California,6
+1957,08,Colorado,3
+1957,09,Connecticut,1
+1957,13,Georgia,3
+1957,16,Idaho,2
+1957,18,Indiana,14
+1957,19,Iowa,4
+1957,20,Kansas,2
+1957,22,Louisiana,5
+1957,23,Maine,3
+1957,25,Massachusetts,6
+1957,26,Michigan,6
+1957,27,Minnesota,9
+1957,28,Mississippi,13
+1957,29,Missouri,5
+1957,30,Montana,5
+1957,31,Nebraska,2
+1957,34,New Jersey,6
+1957,36,New York,17
+1957,39,Ohio,11
+1957,40,Oklahoma,1
+1957,41,Oregon,1
+1957,42,Pennsylvania,27
+1957,44,Rhode Island,2
+1957,48,Texas,4
+1957,49,Utah,2
+1957,51,Virginia,2
+1957,53,Washington,4
+1957,54,West Virginia,1
+1957,55,Wisconsin,38
+1958,04,Arizona,1
+1958,06,California,7
+1958,08,Colorado,3
+1958,09,Connecticut,1
+1958,13,Georgia,2
+1958,16,Idaho,2
+1958,18,Indiana,14
+1958,19,Iowa,4
+1958,20,Kansas,2
+1958,22,Louisiana,5
+1958,23,Maine,3
+1958,25,Massachusetts,6
+1958,26,Michigan,6
+1958,27,Minnesota,9
+1958,28,Mississippi,12
+1958,29,Missouri,4
+1958,30,Montana,5
+1958,31,Nebraska,2
+1958,34,New Jersey,6
+1958,36,New York,16
+1958,39,Ohio,11
+1958,40,Oklahoma,1
+1958,41,Oregon,1
+1958,42,Pennsylvania,26
+1958,44,Rhode Island,1
+1958,48,Texas,4
+1958,49,Utah,1
+1958,51,Virginia,2
+1958,53,Washington,4
+1958,54,West Virginia,1
+1958,55,Wisconsin,38
+1959,04,Arizona,1
+1959,06,California,6
+1959,08,Colorado,3
+1959,09,Connecticut,1
+1959,13,Georgia,2
+1959,16,Idaho,2
+1959,18,Indiana,12
+1959,19,Iowa,3
+1959,20,Kansas,2
+1959,22,Louisiana,5
+1959,23,Maine,3
+1959,25,Massachusetts,6
+1959,26,Michigan,6
+1959,27,Minnesota,9
+1959,28,Mississippi,12
+1959,29,Missouri,4
+1959,30,Montana,3
+1959,31,Nebraska,2
+1959,34,New Jersey,5
+1959,36,New York,15
+1959,39,Ohio,11
+1959,40,Oklahoma,1
+1959,41,Oregon,1
+1959,42,Pennsylvania,26
+1959,44,Rhode Island,1
+1959,48,Texas,4
+1959,49,Utah,1
+1959,51,Virginia,2
+1959,53,Washington,4
+1959,54,West Virginia,1
+1959,55,Wisconsin,33
+1960,04,Arizona,1
+1960,06,California,5
+1960,08,Colorado,3
+1960,09,Connecticut,1
+1960,13,Georgia,2
+1960,16,Idaho,2
+1960,18,Indiana,11
+1960,19,Iowa,3
+1960,20,Kansas,1
+1960,22,Louisiana,4
+1960,23,Maine,3
+1960,25,Massachusetts,6
+1960,26,Michigan,6
+1960,27,Minnesota,9
+1960,28,Mississippi,11
+1960,29,Missouri,4
+1960,30,Montana,3
+1960,31,Nebraska,2
+1960,34,New Jersey,5
+1960,36,New York,13
+1960,39,Ohio,11
+1960,41,Oregon,1
+1960,42,Pennsylvania,25
+1960,44,Rhode Island,1
+1960,48,Texas,4
+1960,49,Utah,1
+1960,51,Virginia,1
+1960,53,Washington,3
+1960,54,West Virginia,1
+1960,55,Wisconsin,32
+1961,04,Arizona,1
+1961,06,California,6
+1961,08,Colorado,3
+1961,09,Connecticut,1
+1961,13,Georgia,1
+1961,16,Idaho,2
+1961,18,Indiana,11
+1961,19,Iowa,3
+1961,20,Kansas,1
+1961,22,Louisiana,4
+1961,23,Maine,3
+1961,25,Massachusetts,5
+1961,26,Michigan,6
+1961,27,Minnesota,9
+1961,28,Mississippi,11
+1961,29,Missouri,4
+1961,30,Montana,3
+1961,31,Nebraska,2
+1961,34,New Jersey,5
+1961,36,New York,12
+1961,38,North Dakota,1
+1961,39,Ohio,10
+1961,41,Oregon,1
+1961,42,Pennsylvania,24
+1961,44,Rhode Island,1
+1961,48,Texas,5
+1961,49,Utah,1
+1961,51,Virginia,1
+1961,53,Washington,3
+1961,54,West Virginia,1
+1961,55,Wisconsin,32
+1962,04,Arizona,1
+1962,06,California,6
+1962,08,Colorado,3
+1962,09,Connecticut,1
+1962,16,Idaho,2
+1962,18,Indiana,10
+1962,19,Iowa,3
+1962,20,Kansas,1
+1962,22,Louisiana,4
+1962,23,Maine,3
+1962,25,Massachusetts,5
+1962,26,Michigan,5
+1962,27,Minnesota,8
+1962,28,Mississippi,11
+1962,29,Missouri,3
+1962,30,Montana,3
+1962,31,Nebraska,1
+1962,34,New Jersey,4
+1962,36,New York,12
+1962,38,North Dakota,1
+1962,39,Ohio,9
+1962,41,Oregon,1
+1962,42,Pennsylvania,24
+1962,44,Rhode Island,1
+1962,48,Texas,5
+1962,49,Utah,1
+1962,51,Virginia,1
+1962,53,Washington,3
+1962,54,West Virginia,1
+1962,55,Wisconsin,28
+1963,04,Arizona,1
+1963,06,California,4
+1963,08,Colorado,3
+1963,09,Connecticut,1
+1963,16,Idaho,1
+1963,18,Indiana,9
+1963,19,Iowa,3
+1963,20,Kansas,1
+1963,22,Louisiana,4
+1963,23,Maine,2
+1963,25,Massachusetts,5
+1963,26,Michigan,4
+1963,27,Minnesota,7
+1963,28,Mississippi,11
+1963,29,Missouri,3
+1963,30,Montana,3
+1963,31,Nebraska,1
+1963,34,New Jersey,4
+1963,36,New York,9
+1963,38,North Dakota,1
+1963,39,Ohio,7
+1963,41,Oregon,1
+1963,42,Pennsylvania,24
+1963,44,Rhode Island,1
+1963,48,Texas,4
+1963,49,Utah,1
+1963,51,Virginia,1
+1963,53,Washington,3
+1963,54,West Virginia,1
+1963,55,Wisconsin,27
+1964,04,Arizona,1
+1964,06,California,4
+1964,08,Colorado,3
+1964,09,Connecticut,1
+1964,16,Idaho,1
+1964,18,Indiana,8
+1964,19,Iowa,3
+1964,20,Kansas,1
+1964,22,Louisiana,4
+1964,23,Maine,2
+1964,25,Massachusetts,4
+1964,26,Michigan,3
+1964,27,Minnesota,7
+1964,28,Mississippi,11
+1964,29,Missouri,3
+1964,30,Montana,2
+1964,31,Nebraska,1
+1964,34,New Jersey,3
+1964,36,New York,9
+1964,38,North Dakota,1
+1964,39,Ohio,6
+1964,41,Oregon,1
+1964,42,Pennsylvania,24
+1964,44,Rhode Island,1
+1964,48,Texas,3
+1964,49,Utah,1
+1964,51,Virginia,1
+1964,53,Washington,3
+1964,54,West Virginia,1
+1964,55,Wisconsin,26
+1965,06,California,4
+1965,08,Colorado,3
+1965,09,Connecticut,1
+1965,18,Indiana,7
+1965,19,Iowa,2
+1965,20,Kansas,1
+1965,22,Louisiana,3
+1965,23,Maine,2
+1965,25,Massachusetts,4
+1965,26,Michigan,2
+1965,27,Minnesota,6
+1965,28,Mississippi,9
+1965,29,Missouri,3
+1965,30,Montana,1
+1965,31,Nebraska,1
+1965,34,New Jersey,3
+1965,36,New York,9
+1965,38,North Dakota,1
+1965,39,Ohio,6
+1965,41,Oregon,1
+1965,42,Pennsylvania,22
+1965,44,Rhode Island,1
+1965,48,Texas,3
+1965,49,Utah,1
+1965,51,Virginia,1
+1965,53,Washington,3
+1965,54,West Virginia,1
+1965,55,Wisconsin,24
+1966,06,California,4
+1966,08,Colorado,3
+1966,09,Connecticut,1
+1966,18,Indiana,6
+1966,19,Iowa,1
+1966,20,Kansas,1
+1966,22,Louisiana,3
+1966,23,Maine,2
+1966,25,Massachusetts,4
+1966,26,Michigan,2
+1966,27,Minnesota,6
+1966,28,Mississippi,9
+1966,29,Missouri,3
+1966,30,Montana,1
+1966,31,Nebraska,1
+1966,34,New Jersey,3
+1966,36,New York,7
+1966,38,North Dakota,1
+1966,39,Ohio,6
+1966,41,Oregon,1
+1966,42,Pennsylvania,22
+1966,48,Texas,3
+1966,51,Virginia,1
+1966,53,Washington,3
+1966,54,West Virginia,1
+1966,55,Wisconsin,23
+1967,06,California,4
+1967,08,Colorado,3
+1967,09,Connecticut,1
+1967,18,Indiana,5
+1967,19,Iowa,1
+1967,20,Kansas,1
+1967,22,Louisiana,3
+1967,23,Maine,2
+1967,25,Massachusetts,4
+1967,26,Michigan,2
+1967,27,Minnesota,5
+1967,28,Mississippi,7
+1967,29,Missouri,3
+1967,31,Nebraska,1
+1967,34,New Jersey,3
+1967,36,New York,7
+1967,39,Ohio,5
+1967,41,Oregon,1
+1967,42,Pennsylvania,20
+1967,48,Texas,3
+1967,51,Virginia,1
+1967,53,Washington,3
+1967,54,West Virginia,1
+1967,55,Wisconsin,17
+1968,06,California,3
+1968,08,Colorado,3
+1968,09,Connecticut,1
+1968,18,Indiana,3
+1968,19,Iowa,1
+1968,20,Kansas,1
+1968,22,Louisiana,1
+1968,23,Maine,2
+1968,25,Massachusetts,4
+1968,26,Michigan,1
+1968,27,Minnesota,5
+1968,28,Mississippi,7
+1968,29,Missouri,3
+1968,34,New Jersey,3
+1968,36,New York,7
+1968,39,Ohio,5
+1968,41,Oregon,1
+1968,42,Pennsylvania,18
+1968,48,Texas,3
+1968,51,Virginia,1
+1968,53,Washington,2
+1968,54,West Virginia,1
+1968,55,Wisconsin,14
+1969,06,California,3
+1969,08,Colorado,3
+1969,09,Connecticut,1
+1969,18,Indiana,2
+1969,19,Iowa,1
+1969,20,Kansas,1
+1969,22,Louisiana,1
+1969,23,Maine,2
+1969,25,Massachusetts,4
+1969,26,Michigan,1
+1969,27,Minnesota,5
+1969,28,Mississippi,7
+1969,29,Missouri,3
+1969,34,New Jersey,3
+1969,36,New York,7
+1969,39,Ohio,5
+1969,41,Oregon,1
+1969,42,Pennsylvania,16
+1969,48,Texas,3
+1969,51,Virginia,1
+1969,53,Washington,2
+1969,54,West Virginia,1
+1969,55,Wisconsin,14
+1970,06,California,3
+1970,08,Colorado,2
+1970,09,Connecticut,1
+1970,18,Indiana,2
+1970,19,Iowa,1
+1970,20,Kansas,1
+1970,22,Louisiana,1
+1970,23,Maine,2
+1970,25,Massachusetts,3
+1970,26,Michigan,1
+1970,27,Minnesota,5
+1970,28,Mississippi,5
+1970,29,Missouri,3
+1970,34,New Jersey,3
+1970,36,New York,7
+1970,39,Ohio,5
+1970,41,Oregon,1
+1970,42,Pennsylvania,16
+1970,48,Texas,3
+1970,53,Washington,2
+1970,54,West Virginia,1
+1970,55,Wisconsin,14
+1971,06,California,3
+1971,08,Colorado,2
+1971,09,Connecticut,1
+1971,18,Indiana,2
+1971,19,Iowa,1
+1971,20,Kansas,1
+1971,22,Louisiana,1
+1971,23,Maine,1
+1971,25,Massachusetts,3
+1971,27,Minnesota,5
+1971,28,Mississippi,5
+1971,29,Missouri,2
+1971,34,New Jersey,3
+1971,36,New York,6
+1971,39,Ohio,5
+1971,41,Oregon,1
+1971,42,Pennsylvania,15
+1971,48,Texas,3
+1971,53,Washington,2
+1971,55,Wisconsin,14
+1972,06,California,2
+1972,08,Colorado,1
+1972,09,Connecticut,1
+1972,13,Georgia,1
+1972,18,Indiana,2
+1972,19,Iowa,1
+1972,20,Kansas,1
+1972,22,Louisiana,1
+1972,23,Maine,1
+1972,25,Massachusetts,3
+1972,27,Minnesota,4
+1972,28,Mississippi,5
+1972,29,Missouri,2
+1972,34,New Jersey,3
+1972,36,New York,5
+1972,39,Ohio,5
+1972,41,Oregon,1
+1972,42,Pennsylvania,15
+1972,48,Texas,3
+1972,53,Washington,2
+1972,55,Wisconsin,13
+1973,06,California,2
+1973,08,Colorado,1
+1973,09,Connecticut,1
+1973,13,Georgia,2
+1973,18,Indiana,1
+1973,19,Iowa,1
+1973,20,Kansas,1
+1973,22,Louisiana,1
+1973,23,Maine,1
+1973,25,Massachusetts,3
+1973,27,Minnesota,3
+1973,28,Mississippi,5
+1973,29,Missouri,2
+1973,34,New Jersey,2
+1973,36,New York,5
+1973,39,Ohio,5
+1973,41,Oregon,1
+1973,42,Pennsylvania,14
+1973,48,Texas,3
+1973,53,Washington,2
+1973,55,Wisconsin,9
+1974,06,California,2
+1974,08,Colorado,1
+1974,09,Connecticut,1
+1974,13,Georgia,2
+1974,18,Indiana,1
+1974,20,Kansas,1
+1974,22,Louisiana,1
+1974,23,Maine,1
+1974,25,Massachusetts,2
+1974,27,Minnesota,2
+1974,28,Mississippi,4
+1974,29,Missouri,2
+1974,34,New Jersey,2
+1974,36,New York,5
+1974,39,Ohio,4
+1974,41,Oregon,1
+1974,42,Pennsylvania,14
+1974,48,Texas,3
+1974,53,Washington,2
+1974,55,Wisconsin,8
+1975,06,California,2
+1975,08,Colorado,1
+1975,09,Connecticut,1
+1975,13,Georgia,1
+1975,18,Indiana,1
+1975,20,Kansas,1
+1975,22,Louisiana,1
+1975,23,Maine,1
+1975,25,Massachusetts,1
+1975,27,Minnesota,2
+1975,28,Mississippi,4
+1975,29,Missouri,2
+1975,34,New Jersey,2
+1975,36,New York,5
+1975,39,Ohio,3
+1975,41,Oregon,1
+1975,42,Pennsylvania,12
+1975,48,Texas,3
+1975,53,Washington,2
+1975,55,Wisconsin,8
+1976,02,Alaska,1
+1976,06,California,3
+1976,08,Colorado,1
+1976,09,Connecticut,1
+1976,13,Georgia,1
+1976,18,Indiana,1
+1976,20,Kansas,1
+1976,22,Louisiana,1
+1976,23,Maine,1
+1976,27,Minnesota,2
+1976,28,Mississippi,2
+1976,29,Missouri,1
+1976,34,New Jersey,2
+1976,36,New York,5
+1976,39,Ohio,3
+1976,41,Oregon,1
+1976,42,Pennsylvania,12
+1976,48,Texas,3
+1976,53,Washington,2
+1976,55,Wisconsin,8
+1977,02,Alaska,1
+1977,06,California,3
+1977,08,Colorado,1
+1977,09,Connecticut,1
+1977,13,Georgia,1
+1977,18,Indiana,1
+1977,20,Kansas,1
+1977,22,Louisiana,1
+1977,23,Maine,1
+1977,27,Minnesota,2
+1977,28,Mississippi,2
+1977,29,Missouri,1
+1977,34,New Jersey,2
+1977,36,New York,4
+1977,39,Ohio,3
+1977,41,Oregon,1
+1977,42,Pennsylvania,11
+1977,48,Texas,2
+1977,53,Washington,2
+1977,55,Wisconsin,8
+1978,02,Alaska,1
+1978,06,California,4
+1978,08,Colorado,1
+1978,13,Georgia,1
+1978,18,Indiana,1
+1978,20,Kansas,1
+1978,22,Louisiana,1
+1978,23,Maine,1
+1978,27,Minnesota,2
+1978,28,Mississippi,2
+1978,29,Missouri,1
+1978,34,New Jersey,2
+1978,36,New York,4
+1978,39,Ohio,3
+1978,41,Oregon,1
+1978,42,Pennsylvania,10
+1978,48,Texas,2
+1978,53,Washington,1
+1978,55,Wisconsin,8
+1979,02,Alaska,1
+1979,06,California,6
+1979,08,Colorado,1
+1979,13,Georgia,1
+1979,18,Indiana,1
+1979,20,Kansas,1
+1979,22,Louisiana,1
+1979,23,Maine,1
+1979,27,Minnesota,2
+1979,28,Mississippi,2
+1979,29,Missouri,1
+1979,34,New Jersey,2
+1979,36,New York,4
+1979,39,Ohio,3
+1979,41,Oregon,1
+1979,42,Pennsylvania,8
+1979,48,Texas,1
+1979,53,Washington,1
+1979,55,Wisconsin,8
+1980,06,California,7
+1980,08,Colorado,2
+1980,13,Georgia,1
+1980,18,Indiana,1
+1980,20,Kansas,1
+1980,23,Maine,1
+1980,27,Minnesota,2
+1980,28,Mississippi,2
+1980,29,Missouri,1
+1980,34,New Jersey,2
+1980,36,New York,4
+1980,39,Ohio,2
+1980,41,Oregon,1
+1980,42,Pennsylvania,8
+1980,48,Texas,1
+1980,53,Washington,1
+1980,55,Wisconsin,8
+1981,06,California,8
+1981,08,Colorado,2
+1981,20,Kansas,1
+1981,23,Maine,1
+1981,27,Minnesota,2
+1981,28,Mississippi,2
+1981,29,Missouri,1
+1981,34,New Jersey,2
+1981,36,New York,3
+1981,39,Ohio,2
+1981,41,Oregon,1
+1981,42,Pennsylvania,8
+1981,48,Texas,1
+1981,53,Washington,1
+1981,55,Wisconsin,8
+1982,06,California,6
+1982,08,Colorado,2
+1982,20,Kansas,1
+1982,23,Maine,1
+1982,27,Minnesota,3
+1982,28,Mississippi,2
+1982,29,Missouri,1
+1982,34,New Jersey,2
+1982,36,New York,4
+1982,39,Ohio,2
+1982,41,Oregon,1
+1982,42,Pennsylvania,7
+1982,48,Texas,1
+1982,53,Washington,3
+1982,55,Wisconsin,8
+1983,06,California,6
+1983,08,Colorado,2
+1983,13,Georgia,1
+1983,20,Kansas,1
+1983,23,Maine,1
+1983,27,Minnesota,2
+1983,28,Mississippi,2
+1983,29,Missouri,1
+1983,34,New Jersey,2
+1983,36,New York,5
+1983,39,Ohio,2
+1983,42,Pennsylvania,7
+1983,48,Texas,1
+1983,53,Washington,3
+1983,55,Wisconsin,7
+1984,05,Arkansas,1
+1984,06,California,9
+1984,08,Colorado,2
+1984,13,Georgia,1
+1984,17,Illinois,1
+1984,20,Kansas,1
+1984,23,Maine,1
+1984,27,Minnesota,2
+1984,28,Mississippi,2
+1984,29,Missouri,1
+1984,30,Montana,1
+1984,34,New Jersey,2
+1984,36,New York,6
+1984,39,Ohio,2
+1984,41,Oregon,1
+1984,42,Pennsylvania,7
+1984,48,Texas,2
+1984,51,Virginia,1
+1984,53,Washington,6
+1984,55,Wisconsin,7
+1985,05,Arkansas,1
+1985,06,California,12
+1985,08,Colorado,2
+1985,13,Georgia,1
+1985,17,Illinois,1
+1985,20,Kansas,2
+1985,23,Maine,1
+1985,24,Maryland,1
+1985,26,Michigan,1
+1985,27,Minnesota,3
+1985,28,Mississippi,2
+1985,29,Missouri,1
+1985,30,Montana,1
+1985,34,New Jersey,3
+1985,36,New York,6
+1985,39,Ohio,2
+1985,41,Oregon,3
+1985,42,Pennsylvania,7
+1985,48,Texas,2
+1985,51,Virginia,1
+1985,53,Washington,6
+1985,55,Wisconsin,8
+1986,02,Alaska,1
+1986,05,Arkansas,1
+1986,06,California,20
+1986,08,Colorado,3
+1986,12,Florida,1
+1986,13,Georgia,1
+1986,15,Hawaii,1
+1986,16,Idaho,1
+1986,17,Illinois,2
+1986,20,Kansas,2
+1986,23,Maine,2
+1986,24,Maryland,2
+1986,26,Michigan,2
+1986,27,Minnesota,3
+1986,28,Mississippi,4
+1986,29,Missouri,1
+1986,30,Montana,1
+1986,34,New Jersey,3
+1986,36,New York,6
+1986,37,North Carolina,2
+1986,39,Ohio,2
+1986,41,Oregon,6
+1986,42,Pennsylvania,9
+1986,48,Texas,2
+1986,49,Utah,1
+1986,50,Vermont,1
+1986,51,Virginia,1
+1986,53,Washington,6
+1986,55,Wisconsin,9
+1987,02,Alaska,1
+1987,06,California,23
+1987,08,Colorado,4
+1987,12,Florida,1
+1987,13,Georgia,1
+1987,15,Hawaii,1
+1987,16,Idaho,2
+1987,17,Illinois,3
+1987,18,Indiana,2
+1987,20,Kansas,2
+1987,22,Louisiana,1
+1987,23,Maine,2
+1987,24,Maryland,2
+1987,26,Michigan,4
+1987,27,Minnesota,3
+1987,28,Mississippi,4
+1987,29,Missouri,1
+1987,30,Montana,2
+1987,32,Nevada,1
+1987,34,New Jersey,2
+1987,36,New York,6
+1987,37,North Carolina,2
+1987,39,Ohio,1
+1987,41,Oregon,9
+1987,42,Pennsylvania,11
+1987,48,Texas,2
+1987,49,Utah,1
+1987,50,Vermont,1
+1987,51,Virginia,2
+1987,53,Washington,7
+1987,55,Wisconsin,12
+1988,01,Alabama,1
+1988,02,Alaska,1
+1988,04,Arizona,1
+1988,06,California,51
+1988,08,Colorado,7
+1988,12,Florida,1
+1988,13,Georgia,2
+1988,16,Idaho,2
+1988,17,Illinois,3
+1988,18,Indiana,4
+1988,20,Kansas,2
+1988,22,Louisiana,1
+1988,23,Maine,2
+1988,24,Maryland,3
+1988,25,Massachusetts,1
+1988,26,Michigan,4
+1988,27,Minnesota,3
+1988,28,Mississippi,5
+1988,29,Missouri,1
+1988,30,Montana,3
+1988,32,Nevada,1
+1988,34,New Jersey,3
+1988,35,New Mexico,3
+1988,36,New York,8
+1988,37,North Carolina,2
+1988,39,Ohio,3
+1988,41,Oregon,13
+1988,42,Pennsylvania,9
+1988,44,Rhode Island,1
+1988,48,Texas,3
+1988,49,Utah,1
+1988,50,Vermont,2
+1988,51,Virginia,2
+1988,53,Washington,9
+1988,55,Wisconsin,12
+1989,04,Arizona,6
+1989,06,California,50
+1989,08,Colorado,7
+1989,12,Florida,6
+1989,16,Idaho,3
+1989,17,Illinois,5
+1989,18,Indiana,4
+1989,24,Maryland,3
+1989,25,Massachusetts,5
+1989,26,Michigan,3
+1989,27,Minnesota,7
+1989,36,New York,6
+1989,37,North Carolina,6
+1989,39,Ohio,5
+1989,41,Oregon,15
+1989,42,Pennsylvania,8
+1989,48,Texas,7
+1989,50,Vermont,3
+1989,53,Washington,8
+1989,55,Wisconsin,14
+1990,04,Arizona,8
+1990,06,California,67
+1990,08,Colorado,11
+1990,12,Florida,7
+1990,16,Idaho,3
+1990,17,Illinois,6
+1990,18,Indiana,4
+1990,24,Maryland,3
+1990,25,Massachusetts,5
+1990,26,Michigan,3
+1990,27,Minnesota,7
+1990,30,Montana,3
+1990,36,New York,8
+1990,37,North Carolina,8
+1990,39,Ohio,6
+1990,41,Oregon,21
+1990,42,Pennsylvania,11
+1990,48,Texas,8
+1990,50,Vermont,4
+1990,51,Virginia,4
+1990,53,Washington,10
+1990,55,Wisconsin,17
+1991,02,Alaska,3
+1991,04,Arizona,8
+1991,06,California,76
+1991,08,Colorado,22
+1991,12,Florida,13
+1991,16,Idaho,5
+1991,17,Illinois,9
+1991,18,Indiana,5
+1991,19,Iowa,4
+1991,22,Louisiana,3
+1991,23,Maine,3
+1991,24,Maryland,4
+1991,25,Massachusetts,6
+1991,26,Michigan,3
+1991,27,Minnesota,8
+1991,29,Missouri,3
+1991,30,Montana,5
+1991,35,New Mexico,3
+1991,36,New York,13
+1991,37,North Carolina,11
+1991,39,Ohio,9
+1991,41,Oregon,26
+1991,42,Pennsylvania,12
+1991,48,Texas,7
+1991,49,Utah,3
+1991,50,Vermont,6
+1991,51,Virginia,5
+1991,53,Washington,13
+1991,55,Wisconsin,18
+1992,02,Alaska,4
+1992,04,Arizona,7
+1992,06,California,93
+1992,08,Colorado,27
+1992,12,Florida,17
+1992,16,Idaho,8
+1992,17,Illinois,12
+1992,18,Indiana,6
+1992,19,Iowa,5
+1992,22,Louisiana,3
+1992,23,Maine,5
+1992,24,Maryland,5
+1992,25,Massachusetts,9
+1992,26,Michigan,4
+1992,27,Minnesota,8
+1992,29,Missouri,4
+1992,30,Montana,7
+1992,31,Nebraska,5
+1992,33,New Hampshire,3
+1992,35,New Mexico,5
+1992,36,New York,16
+1992,37,North Carolina,12
+1992,39,Ohio,12
+1992,41,Oregon,30
+1992,42,Pennsylvania,12
+1992,47,Tennessee,3
+1992,48,Texas,8
+1992,49,Utah,4
+1992,50,Vermont,6
+1992,51,Virginia,7
+1992,53,Washington,15
+1992,55,Wisconsin,19
+1993,02,Alaska,3
+1993,04,Arizona,7
+1993,06,California,115
+1993,08,Colorado,38
+1993,12,Florida,22
+1993,16,Idaho,10
+1993,17,Illinois,16
+1993,18,Indiana,7
+1993,19,Iowa,6
+1993,20,Kansas,5
+1993,21,Kentucky,3
+1993,22,Louisiana,4
+1993,23,Maine,8
+1993,24,Maryland,7
+1993,25,Massachusetts,9
+1993,26,Michigan,6
+1993,27,Minnesota,9
+1993,29,Missouri,5
+1993,30,Montana,10
+1993,31,Nebraska,6
+1993,32,Nevada,3
+1993,33,New Hampshire,4
+1993,35,New Mexico,8
+1993,36,New York,20
+1993,37,North Carolina,14
+1993,39,Ohio,15
+1993,40,Oklahoma,4
+1993,41,Oregon,37
+1993,42,Pennsylvania,12
+1993,47,Tennessee,5
+1993,48,Texas,11
+1993,49,Utah,4
+1993,50,Vermont,7
+1993,51,Virginia,12
+1993,53,Washington,21
+1993,55,Wisconsin,23
+1994,02,Alaska,3
+1994,04,Arizona,11
+1994,05,Arkansas,3
+1994,06,California,127
+1994,08,Colorado,51
+1994,12,Florida,27
+1994,13,Georgia,3
+1994,16,Idaho,11
+1994,17,Illinois,22
+1994,18,Indiana,9
+1994,19,Iowa,6
+1994,20,Kansas,7
+1994,21,Kentucky,3
+1994,22,Louisiana,3
+1994,23,Maine,12
+1994,24,Maryland,10
+1994,25,Massachusetts,17
+1994,26,Michigan,12
+1994,27,Minnesota,13
+1994,29,Missouri,12
+1994,30,Montana,12
+1994,31,Nebraska,6
+1994,32,Nevada,3
+1994,33,New Hampshire,9
+1994,34,New Jersey,5
+1994,35,New Mexico,10
+1994,36,New York,27
+1994,37,North Carolina,20
+1994,39,Ohio,20
+1994,40,Oklahoma,6
+1994,41,Oregon,48
+1994,42,Pennsylvania,15
+1994,44,Rhode Island,3
+1994,47,Tennessee,9
+1994,48,Texas,27
+1994,49,Utah,8
+1994,50,Vermont,10
+1994,51,Virginia,9
+1994,53,Washington,28
+1994,54,West Virginia,3
+1994,55,Wisconsin,29
+1995,01,Alabama,5
+1995,02,Alaska,5
+1995,04,Arizona,11
+1995,05,Arkansas,3
+1995,06,California,167
+1995,08,Colorado,74
+1995,10,Delaware,4
+1995,12,Florida,36
+1995,13,Georgia,6
+1995,15,Hawaii,4
+1995,16,Idaho,15
+1995,17,Illinois,26
+1995,18,Indiana,10
+1995,19,Iowa,6
+1995,20,Kansas,13
+1995,21,Kentucky,7
+1995,22,Louisiana,4
+1995,23,Maine,21
+1995,24,Maryland,12
+1995,25,Massachusetts,27
+1995,26,Michigan,24
+1995,27,Minnesota,18
+1995,29,Missouri,13
+1995,30,Montana,13
+1995,31,Nebraska,8
+1995,32,Nevada,5
+1995,33,New Hampshire,14
+1995,34,New Jersey,7
+1995,35,New Mexico,12
+1995,36,New York,44
+1995,37,North Carolina,25
+1995,38,North Dakota,3
+1995,39,Ohio,28
+1995,40,Oklahoma,8
+1995,41,Oregon,54
+1995,42,Pennsylvania,27
+1995,44,Rhode Island,6
+1995,45,South Carolina,11
+1995,47,Tennessee,13
+1995,48,Texas,48
+1995,49,Utah,13
+1995,50,Vermont,12
+1995,51,Virginia,12
+1995,53,Washington,48
+1995,55,Wisconsin,35
+1995,56,Wyoming,8
+1996,01,Alabama,8
+1996,02,Alaska,11
+1996,04,Arizona,17
+1996,05,Arkansas,3
+1996,06,California,218
+1996,08,Colorado,92
+1996,09,Connecticut,12
+1996,10,Delaware,5
+1996,12,Florida,62
+1996,13,Georgia,18
+1996,15,Hawaii,6
+1996,16,Idaho,24
+1996,17,Illinois,35
+1996,18,Indiana,21
+1996,19,Iowa,9
+1996,20,Kansas,14
+1996,21,Kentucky,11
+1996,22,Louisiana,8
+1996,23,Maine,27
+1996,24,Maryland,22
+1996,25,Massachusetts,42
+1996,26,Michigan,36
+1996,27,Minnesota,26
+1996,29,Missouri,14
+1996,30,Montana,16
+1996,31,Nebraska,8
+1996,32,Nevada,10
+1996,33,New Hampshire,18
+1996,34,New Jersey,20
+1996,35,New Mexico,20
+1996,36,New York,70
+1996,37,North Carolina,36
+1996,38,North Dakota,3
+1996,39,Ohio,40
+1996,40,Oklahoma,9
+1996,41,Oregon,73
+1996,42,Pennsylvania,42
+1996,44,Rhode Island,5
+1996,45,South Carolina,19
+1996,46,South Dakota,5
+1996,47,Tennessee,15
+1996,48,Texas,63
+1996,49,Utah,15
+1996,50,Vermont,20
+1996,51,Virginia,17
+1996,53,Washington,79
+1996,54,West Virginia,4
+1996,55,Wisconsin,50
+1996,56,Wyoming,10
+1997,01,Alabama,8
+1997,02,Alaska,16
+1997,04,Arizona,34
+1997,05,Arkansas,4
+1997,06,California,259
+1997,08,Colorado,112
+1997,09,Connecticut,22
+1997,10,Delaware,6
+1997,12,Florida,86
+1997,13,Georgia,24
+1997,15,Hawaii,8
+1997,16,Idaho,28
+1997,17,Illinois,39
+1997,18,Indiana,26
+1997,19,Iowa,12
+1997,20,Kansas,17
+1997,21,Kentucky,14
+1997,22,Louisiana,11
+1997,23,Maine,28
+1997,24,Maryland,27
+1997,25,Massachusetts,44
+1997,26,Michigan,60
+1997,27,Minnesota,37
+1997,29,Missouri,22
+1997,30,Montana,20
+1997,31,Nebraska,9
+1997,32,Nevada,18
+1997,33,New Hampshire,19
+1997,34,New Jersey,23
+1997,35,New Mexico,26
+1997,36,New York,84
+1997,37,North Carolina,40
+1997,38,North Dakota,4
+1997,39,Ohio,55
+1997,40,Oklahoma,9
+1997,41,Oregon,86
+1997,42,Pennsylvania,56
+1997,44,Rhode Island,6
+1997,45,South Carolina,21
+1997,46,South Dakota,5
+1997,47,Tennessee,21
+1997,48,Texas,71
+1997,49,Utah,17
+1997,50,Vermont,24
+1997,51,Virginia,23
+1997,53,Washington,109
+1997,54,West Virginia,4
+1997,55,Wisconsin,57
+1997,56,Wyoming,14
+1998,01,Alabama,9
+1998,02,Alaska,14
+1998,04,Arizona,40
+1998,05,Arkansas,5
+1998,06,California,273
+1998,08,Colorado,105
+1998,09,Connecticut,25
+1998,10,Delaware,8
+1998,12,Florida,96
+1998,13,Georgia,26
+1998,15,Hawaii,13
+1998,16,Idaho,29
+1998,17,Illinois,44
+1998,18,Indiana,25
+1998,19,Iowa,13
+1998,20,Kansas,17
+1998,21,Kentucky,15
+1998,22,Louisiana,14
+1998,23,Maine,33
+1998,24,Maryland,27
+1998,25,Massachusetts,48
+1998,26,Michigan,71
+1998,27,Minnesota,35
+1998,29,Missouri,26
+1998,30,Montana,24
+1998,31,Nebraska,8
+1998,32,Nevada,20
+1998,33,New Hampshire,19
+1998,34,New Jersey,27
+1998,35,New Mexico,27
+1998,36,New York,88
+1998,37,North Carolina,50
+1998,38,North Dakota,6
+1998,39,Ohio,68
+1998,40,Oklahoma,10
+1998,41,Oregon,88
+1998,42,Pennsylvania,63
+1998,44,Rhode Island,5
+1998,45,South Carolina,23
+1998,46,South Dakota,5
+1998,47,Tennessee,25
+1998,48,Texas,65
+1998,49,Utah,17
+1998,50,Vermont,27
+1998,51,Virginia,27
+1998,53,Washington,115
+1998,54,West Virginia,5
+1998,55,Wisconsin,65
+1998,56,Wyoming,15
+1999,01,Alabama,9
+1999,02,Alaska,19
+1999,04,Arizona,48
+1999,05,Arkansas,4
+1999,06,California,289
+1999,08,Colorado,102
+1999,09,Connecticut,26
+1999,10,Delaware,9
+1999,12,Florida,97
+1999,13,Georgia,30
+1999,15,Hawaii,16
+1999,16,Idaho,25
+1999,17,Illinois,47
+1999,18,Indiana,24
+1999,19,Iowa,14
+1999,20,Kansas,15
+1999,21,Kentucky,12
+1999,22,Louisiana,11
+1999,23,Maine,37
+1999,24,Maryland,30
+1999,25,Massachusetts,50
+1999,26,Michigan,79
+1999,27,Minnesota,36
+1999,28,Mississippi,3
+1999,29,Missouri,30
+1999,30,Montana,24
+1999,31,Nebraska,9
+1999,32,Nevada,24
+1999,33,New Hampshire,19
+1999,34,New Jersey,28
+1999,35,New Mexico,26
+1999,36,New York,81
+1999,37,North Carolina,52
+1999,38,North Dakota,3
+1999,39,Ohio,77
+1999,40,Oklahoma,10
+1999,41,Oregon,88
+1999,42,Pennsylvania,74
+1999,44,Rhode Island,6
+1999,45,South Carolina,22
+1999,46,South Dakota,7
+1999,47,Tennessee,23
+1999,48,Texas,66
+1999,49,Utah,20
+1999,50,Vermont,24
+1999,51,Virginia,29
+1999,53,Washington,118
+1999,54,West Virginia,5
+1999,55,Wisconsin,77
+1999,56,Wyoming,13
+2000,01,Alabama,7
+2000,02,Alaska,17
+2000,04,Arizona,45
+2000,05,Arkansas,5
+2000,06,California,281
+2000,08,Colorado,102
+2000,09,Connecticut,27
+2000,10,Delaware,8
+2000,12,Florida,92
+2000,13,Georgia,29
+2000,15,Hawaii,15
+2000,16,Idaho,24
+2000,17,Illinois,45
+2000,18,Indiana,26
+2000,19,Iowa,13
+2000,20,Kansas,10
+2000,21,Kentucky,15
+2000,22,Louisiana,12
+2000,23,Maine,42
+2000,24,Maryland,25
+2000,25,Massachusetts,45
+2000,26,Michigan,77
+2000,27,Minnesota,41
+2000,28,Mississippi,4
+2000,29,Missouri,32
+2000,30,Montana,25
+2000,31,Nebraska,9
+2000,32,Nevada,22
+2000,33,New Hampshire,19
+2000,34,New Jersey,24
+2000,35,New Mexico,26
+2000,36,New York,78
+2000,37,North Carolina,51
+2000,38,North Dakota,3
+2000,39,Ohio,87
+2000,40,Oklahoma,9
+2000,41,Oregon,82
+2000,42,Pennsylvania,73
+2000,44,Rhode Island,8
+2000,45,South Carolina,19
+2000,46,South Dakota,7
+2000,47,Tennessee,23
+2000,48,Texas,59
+2000,49,Utah,20
+2000,50,Vermont,23
+2000,51,Virginia,31
+2000,53,Washington,113
+2000,54,West Virginia,6
+2000,55,Wisconsin,91
+2000,56,Wyoming,13
+2001,01,Alabama,4
+2001,02,Alaska,17
+2001,04,Arizona,45
+2001,05,Arkansas,5
+2001,06,California,266
+2001,08,Colorado,102
+2001,09,Connecticut,22
+2001,10,Delaware,8
+2001,12,Florida,84
+2001,13,Georgia,30
+2001,15,Hawaii,14
+2001,16,Idaho,20
+2001,17,Illinois,41
+2001,18,Indiana,23
+2001,19,Iowa,16
+2001,20,Kansas,8
+2001,21,Kentucky,10
+2001,22,Louisiana,9
+2001,23,Maine,39
+2001,24,Maryland,26
+2001,25,Massachusetts,46
+2001,26,Michigan,71
+2001,27,Minnesota,37
+2001,28,Mississippi,4
+2001,29,Missouri,26
+2001,30,Montana,26
+2001,31,Nebraska,11
+2001,32,Nevada,16
+2001,33,New Hampshire,17
+2001,34,New Jersey,22
+2001,35,New Mexico,23
+2001,36,New York,83
+2001,37,North Carolina,38
+2001,38,North Dakota,3
+2001,39,Ohio,74
+2001,40,Oklahoma,6
+2001,41,Oregon,82
+2001,42,Pennsylvania,81
+2001,44,Rhode Island,7
+2001,45,South Carolina,19
+2001,46,South Dakota,6
+2001,47,Tennessee,23
+2001,48,Texas,47
+2001,49,Utah,16
+2001,50,Vermont,19
+2001,51,Virginia,29
+2001,53,Washington,94
+2001,54,West Virginia,4
+2001,55,Wisconsin,82
+2001,56,Wyoming,11
+2002,01,Alabama,3
+2002,02,Alaska,19
+2002,04,Arizona,39
+2002,05,Arkansas,4
+2002,06,California,270
+2002,08,Colorado,102
+2002,09,Connecticut,17
+2002,10,Delaware,8
+2002,12,Florida,83
+2002,13,Georgia,25
+2002,15,Hawaii,13
+2002,16,Idaho,19
+2002,17,Illinois,43
+2002,18,Indiana,23
+2002,19,Iowa,15
+2002,20,Kansas,8
+2002,21,Kentucky,10
+2002,22,Louisiana,7
+2002,23,Maine,38
+2002,24,Maryland,26
+2002,25,Massachusetts,43
+2002,26,Michigan,69
+2002,27,Minnesota,37
+2002,28,Mississippi,4
+2002,29,Missouri,28
+2002,30,Montana,28
+2002,31,Nebraska,10
+2002,32,Nevada,17
+2002,33,New Hampshire,17
+2002,34,New Jersey,20
+2002,35,New Mexico,23
+2002,36,New York,84
+2002,37,North Carolina,38
+2002,38,North Dakota,3
+2002,39,Ohio,64
+2002,40,Oklahoma,6
+2002,41,Oregon,81
+2002,42,Pennsylvania,76
+2002,44,Rhode Island,7
+2002,45,South Carolina,19
+2002,46,South Dakota,7
+2002,47,Tennessee,22
+2002,48,Texas,42
+2002,49,Utah,17
+2002,50,Vermont,25
+2002,51,Virginia,30
+2002,53,Washington,94
+2002,54,West Virginia,5
+2002,55,Wisconsin,90
+2002,56,Wyoming,11
+2003,01,Alabama,3
+2003,02,Alaska,15
+2003,04,Arizona,36
+2003,05,Arkansas,4
+2003,06,California,278
+2003,08,Colorado,99
+2003,09,Connecticut,17
+2003,10,Delaware,9
+2003,12,Florida,78
+2003,13,Georgia,29
+2003,15,Hawaii,13
+2003,16,Idaho,20
+2003,17,Illinois,43
+2003,18,Indiana,23
+2003,19,Iowa,17
+2003,20,Kansas,7
+2003,21,Kentucky,10
+2003,22,Louisiana,6
+2003,23,Maine,37
+2003,24,Maryland,27
+2003,25,Massachusetts,44
+2003,26,Michigan,76
+2003,27,Minnesota,31
+2003,28,Mississippi,3
+2003,29,Missouri,28
+2003,30,Montana,24
+2003,31,Nebraska,12
+2003,32,Nevada,16
+2003,33,New Hampshire,16
+2003,34,New Jersey,22
+2003,35,New Mexico,20
+2003,36,New York,86
+2003,37,North Carolina,41
+2003,38,North Dakota,3
+2003,39,Ohio,59
+2003,40,Oklahoma,6
+2003,41,Oregon,87
+2003,42,Pennsylvania,78
+2003,44,Rhode Island,6
+2003,45,South Carolina,21
+2003,46,South Dakota,7
+2003,47,Tennessee,22
+2003,48,Texas,41
+2003,49,Utah,15
+2003,50,Vermont,25
+2003,51,Virginia,30
+2003,53,Washington,91
+2003,54,West Virginia,5
+2003,55,Wisconsin,90
+2003,56,Wyoming,11
+2004,01,Alabama,5
+2004,02,Alaska,13
+2004,04,Arizona,31
+2004,05,Arkansas,4
+2004,06,California,282
+2004,08,Colorado,99
+2004,09,Connecticut,20
+2004,10,Delaware,9
+2004,12,Florida,74
+2004,13,Georgia,29
+2004,15,Hawaii,13
+2004,16,Idaho,19
+2004,17,Illinois,45
+2004,18,Indiana,23
+2004,19,Iowa,21
+2004,20,Kansas,10
+2004,21,Kentucky,10
+2004,22,Louisiana,9
+2004,23,Maine,43
+2004,24,Maryland,29
+2004,25,Massachusetts,46
+2004,26,Michigan,78
+2004,27,Minnesota,30
+2004,28,Mississippi,3
+2004,29,Missouri,28
+2004,30,Montana,22
+2004,31,Nebraska,12
+2004,32,Nevada,17
+2004,33,New Hampshire,16
+2004,34,New Jersey,21
+2004,35,New Mexico,22
+2004,36,New York,80
+2004,37,North Carolina,43
+2004,38,North Dakota,4
+2004,39,Ohio,55
+2004,40,Oklahoma,7
+2004,41,Oregon,92
+2004,42,Pennsylvania,86
+2004,44,Rhode Island,6
+2004,45,South Carolina,21
+2004,46,South Dakota,6
+2004,47,Tennessee,24
+2004,48,Texas,40
+2004,49,Utah,16
+2004,50,Vermont,26
+2004,51,Virginia,31
+2004,53,Washington,93
+2004,54,West Virginia,4
+2004,55,Wisconsin,97
+2004,56,Wyoming,13
+2005,01,Alabama,5
+2005,02,Alaska,15
+2005,04,Arizona,31
+2005,05,Arkansas,4
+2005,06,California,278
+2005,08,Colorado,104
+2005,09,Connecticut,19
+2005,10,Delaware,8
+2005,12,Florida,69
+2005,13,Georgia,25
+2005,15,Hawaii,12
+2005,16,Idaho,20
+2005,17,Illinois,43
+2005,18,Indiana,27
+2005,19,Iowa,18
+2005,20,Kansas,11
+2005,21,Kentucky,10
+2005,22,Louisiana,10
+2005,23,Maine,43
+2005,24,Maryland,25
+2005,25,Massachusetts,38
+2005,26,Michigan,84
+2005,27,Minnesota,31
+2005,28,Mississippi,3
+2005,29,Missouri,33
+2005,30,Montana,21
+2005,31,Nebraska,16
+2005,32,Nevada,16
+2005,33,New Hampshire,14
+2005,34,New Jersey,21
+2005,35,New Mexico,22
+2005,36,New York,82
+2005,37,North Carolina,45
+2005,38,North Dakota,4
+2005,39,Ohio,53
+2005,40,Oklahoma,8
+2005,41,Oregon,88
+2005,42,Pennsylvania,78
+2005,44,Rhode Island,5
+2005,45,South Carolina,19
+2005,46,South Dakota,6
+2005,47,Tennessee,19
+2005,48,Texas,45
+2005,49,Utah,15
+2005,50,Vermont,24
+2005,51,Virginia,34
+2005,53,Washington,100
+2005,54,West Virginia,4
+2005,55,Wisconsin,98
+2005,56,Wyoming,14
+2006,01,Alabama,4
+2006,02,Alaska,14
+2006,04,Arizona,33
+2006,05,Arkansas,4
+2006,06,California,293
+2006,08,Colorado,102
+2006,09,Connecticut,18
+2006,10,Delaware,9
+2006,12,Florida,51
+2006,13,Georgia,22
+2006,15,Hawaii,12
+2006,16,Idaho,20
+2006,17,Illinois,45
+2006,18,Indiana,25
+2006,19,Iowa,19
+2006,20,Kansas,17
+2006,21,Kentucky,10
+2006,22,Louisiana,10
+2006,23,Maine,43
+2006,24,Maryland,26
+2006,25,Massachusetts,40
+2006,26,Michigan,91
+2006,27,Minnesota,35
+2006,29,Missouri,34
+2006,30,Montana,22
+2006,31,Nebraska,16
+2006,32,Nevada,16
+2006,33,New Hampshire,14
+2006,34,New Jersey,21
+2006,35,New Mexico,23
+2006,36,New York,82
+2006,37,North Carolina,46
+2006,38,North Dakota,3
+2006,39,Ohio,57
+2006,40,Oklahoma,7
+2006,41,Oregon,95
+2006,42,Pennsylvania,81
+2006,44,Rhode Island,5
+2006,45,South Carolina,16
+2006,46,South Dakota,7
+2006,47,Tennessee,19
+2006,48,Texas,47
+2006,49,Utah,17
+2006,50,Vermont,24
+2006,51,Virginia,35
+2006,53,Washington,108
+2006,54,West Virginia,6
+2006,55,Wisconsin,103
+2006,56,Wyoming,14
+2007,01,Alabama,5
+2007,02,Alaska,15
+2007,04,Arizona,33
+2007,05,Arkansas,4
+2007,06,California,310
+2007,08,Colorado,112
+2007,09,Connecticut,19
+2007,10,Delaware,10
+2007,12,Florida,50
+2007,13,Georgia,23
+2007,15,Hawaii,12
+2007,16,Idaho,20
+2007,17,Illinois,52
+2007,18,Indiana,30
+2007,19,Iowa,20
+2007,20,Kansas,18
+2007,21,Kentucky,12
+2007,22,Louisiana,10
+2007,23,Maine,43
+2007,24,Maryland,24
+2007,25,Massachusetts,43
+2007,26,Michigan,94
+2007,27,Minnesota,34
+2007,29,Missouri,38
+2007,30,Montana,26
+2007,31,Nebraska,17
+2007,32,Nevada,16
+2007,33,New Hampshire,15
+2007,34,New Jersey,21
+2007,35,New Mexico,21
+2007,36,New York,77
+2007,37,North Carolina,45
+2007,38,North Dakota,3
+2007,39,Ohio,58
+2007,40,Oklahoma,6
+2007,41,Oregon,96
+2007,42,Pennsylvania,94
+2007,44,Rhode Island,5
+2007,45,South Carolina,17
+2007,46,South Dakota,8
+2007,47,Tennessee,22
+2007,48,Texas,45
+2007,49,Utah,15
+2007,50,Vermont,22
+2007,51,Virginia,35
+2007,53,Washington,110
+2007,54,West Virginia,6
+2007,55,Wisconsin,105
+2007,56,Wyoming,14
+2008,01,Alabama,5
+2008,02,Alaska,16
+2008,04,Arizona,33
+2008,05,Arkansas,4
+2008,06,California,333
+2008,08,Colorado,117
+2008,09,Connecticut,21
+2008,10,Delaware,9
+2008,12,Florida,61
+2008,13,Georgia,20
+2008,15,Hawaii,11
+2008,16,Idaho,24
+2008,17,Illinois,51
+2008,18,Indiana,30
+2008,19,Iowa,21
+2008,20,Kansas,17
+2008,21,Kentucky,12
+2008,22,Louisiana,10
+2008,23,Maine,43
+2008,24,Maryland,24
+2008,25,Massachusetts,45
+2008,26,Michigan,96
+2008,27,Minnesota,36
+2008,29,Missouri,38
+2008,30,Montana,31
+2008,31,Nebraska,16
+2008,32,Nevada,17
+2008,33,New Hampshire,16
+2008,34,New Jersey,20
+2008,35,New Mexico,20
+2008,36,New York,81
+2008,37,North Carolina,50
+2008,38,North Dakota,3
+2008,39,Ohio,66
+2008,40,Oklahoma,9
+2008,41,Oregon,108
+2008,42,Pennsylvania,97
+2008,44,Rhode Island,5
+2008,45,South Carolina,16
+2008,46,South Dakota,7
+2008,47,Tennessee,23
+2008,48,Texas,47
+2008,49,Utah,15
+2008,50,Vermont,24
+2008,51,Virginia,43
+2008,53,Washington,121
+2008,54,West Virginia,6
+2008,55,Wisconsin,110
+2008,56,Wyoming,14
+2009,01,Alabama,5
+2009,02,Alaska,18
+2009,04,Arizona,34
+2009,05,Arkansas,5
+2009,06,California,340
+2009,08,Colorado,116
+2009,09,Connecticut,19
+2009,10,Delaware,11
+2009,12,Florida,52
+2009,13,Georgia,22
+2009,15,Hawaii,11
+2009,16,Idaho,25
+2009,17,Illinois,60
+2009,18,Indiana,39
+2009,19,Iowa,28
+2009,20,Kansas,17
+2009,21,Kentucky,15
+2009,22,Louisiana,11
+2009,23,Maine,42
+2009,24,Maryland,26
+2009,25,Massachusetts,44
+2009,26,Michigan,104
+2009,27,Minnesota,39
+2009,29,Missouri,47
+2009,30,Montana,31
+2009,31,Nebraska,17
+2009,32,Nevada,18
+2009,33,New Hampshire,17
+2009,34,New Jersey,22
+2009,35,New Mexico,21
+2009,36,New York,84
+2009,37,North Carolina,52
+2009,38,North Dakota,3
+2009,39,Ohio,66
+2009,40,Oklahoma,10
+2009,41,Oregon,108
+2009,42,Pennsylvania,96
+2009,44,Rhode Island,5
+2009,45,South Carolina,15
+2009,46,South Dakota,7
+2009,47,Tennessee,23
+2009,48,Texas,47
+2009,49,Utah,18
+2009,50,Vermont,27
+2009,51,Virginia,42
+2009,53,Washington,138
+2009,54,West Virginia,8
+2009,55,Wisconsin,108
+2009,56,Wyoming,13
+2010,01,Alabama,7
+2010,02,Alaska,20
+2010,04,Arizona,37
+2010,05,Arkansas,5
+2010,06,California,358
+2010,08,Colorado,129
+2010,09,Connecticut,21
+2010,10,Delaware,11
+2010,12,Florida,60
+2010,13,Georgia,26
+2010,15,Hawaii,11
+2010,16,Idaho,25
+2010,17,Illinois,62
+2010,18,Indiana,43
+2010,19,Iowa,27
+2010,20,Kansas,17
+2010,21,Kentucky,14
+2010,22,Louisiana,12
+2010,23,Maine,44
+2010,24,Maryland,24
+2010,25,Massachusetts,48
+2010,26,Michigan,111
+2010,27,Minnesota,42
+2010,28,Mississippi,3
+2010,29,Missouri,51
+2010,30,Montana,31
+2010,31,Nebraska,16
+2010,32,Nevada,20
+2010,33,New Hampshire,19
+2010,34,New Jersey,24
+2010,35,New Mexico,26
+2010,36,New York,100
+2010,37,North Carolina,61
+2010,38,North Dakota,3
+2010,39,Ohio,75
+2010,40,Oklahoma,10
+2010,41,Oregon,120
+2010,42,Pennsylvania,118
+2010,44,Rhode Island,5
+2010,45,South Carolina,16
+2010,46,South Dakota,8
+2010,47,Tennessee,26
+2010,48,Texas,59
+2010,49,Utah,18
+2010,50,Vermont,32
+2010,51,Virginia,44
+2010,53,Washington,157
+2010,54,West Virginia,8
+2010,55,Wisconsin,119
+2010,56,Wyoming,16
+2011,01,Alabama,9
+2011,02,Alaska,23
+2011,04,Arizona,45
+2011,05,Arkansas,7
+2011,06,California,401
+2011,08,Colorado,149
+2011,09,Connecticut,20
+2011,10,Delaware,12
+2011,12,Florida,71
+2011,13,Georgia,25
+2011,15,Hawaii,12
+2011,16,Idaho,33
+2011,17,Illinois,68
+2011,18,Indiana,59
+2011,19,Iowa,35
+2011,20,Kansas,21
+2011,21,Kentucky,21
+2011,22,Louisiana,12
+2011,23,Maine,49
+2011,24,Maryland,26
+2011,25,Massachusetts,52
+2011,26,Michigan,131
+2011,27,Minnesota,56
+2011,29,Missouri,55
+2011,30,Montana,35
+2011,31,Nebraska,18
+2011,32,Nevada,20
+2011,33,New Hampshire,21
+2011,34,New Jersey,31
+2011,35,New Mexico,30
+2011,36,New York,123
+2011,37,North Carolina,71
+2011,38,North Dakota,3
+2011,39,Ohio,81
+2011,40,Oklahoma,10
+2011,41,Oregon,148
+2011,42,Pennsylvania,146
+2011,44,Rhode Island,6
+2011,45,South Carolina,17
+2011,46,South Dakota,9
+2011,47,Tennessee,31
+2011,48,Texas,84
+2011,49,Utah,18
+2011,50,Vermont,34
+2011,51,Virginia,54
+2011,53,Washington,188
+2011,54,West Virginia,8
+2011,55,Wisconsin,126
+2011,56,Wyoming,15
+2012,01,Alabama,15
+2012,02,Alaska,25
+2012,04,Arizona,55
+2012,05,Arkansas,13
+2012,06,California,472
+2012,08,Colorado,185
+2012,09,Connecticut,24
+2012,10,Delaware,13
+2012,12,Florida,89
+2012,13,Georgia,31
+2012,15,Hawaii,15
+2012,16,Idaho,39
+2012,17,Illinois,95
+2012,18,Indiana,72
+2012,19,Iowa,46
+2012,20,Kansas,21
+2012,21,Kentucky,25
+2012,22,Louisiana,12
+2012,23,Maine,53
+2012,24,Maryland,40
+2012,25,Massachusetts,65
+2012,26,Michigan,160
+2012,27,Minnesota,70
+2012,28,Mississippi,4
+2012,29,Missouri,60
+2012,30,Montana,41
+2012,31,Nebraska,20
+2012,32,Nevada,23
+2012,33,New Hampshire,25
+2012,34,New Jersey,29
+2012,35,New Mexico,38
+2012,36,New York,150
+2012,37,North Carolina,94
+2012,38,North Dakota,7
+2012,39,Ohio,99
+2012,40,Oklahoma,13
+2012,41,Oregon,180
+2012,42,Pennsylvania,162
+2012,44,Rhode Island,9
+2012,45,South Carolina,23
+2012,46,South Dakota,12
+2012,47,Tennessee,45
+2012,48,Texas,107
+2012,49,Utah,22
+2012,50,Vermont,39
+2012,51,Virginia,67
+2012,53,Washington,230
+2012,54,West Virginia,8
+2012,55,Wisconsin,146
+2012,56,Wyoming,19
+2013,01,Alabama,23
+2013,02,Alaska,25
+2013,04,Arizona,59
+2013,05,Arkansas,18
+2013,06,California,528
+2013,08,Colorado,234
+2013,09,Connecticut,39
+2013,10,Delaware,13
+2013,12,Florida,113
+2013,13,Georgia,37
+2013,15,Hawaii,17
+2013,16,Idaho,42
+2013,17,Illinois,123
+2013,18,Indiana,95
+2013,19,Iowa,54
+2013,20,Kansas,25
+2013,21,Kentucky,25
+2013,22,Louisiana,15
+2013,23,Maine,60
+2013,24,Maryland,43
+2013,25,Massachusetts,82
+2013,26,Michigan,195
+2013,27,Minnesota,75
+2013,28,Mississippi,7
+2013,29,Missouri,63
+2013,30,Montana,49
+2013,31,Nebraska,25
+2013,32,Nevada,26
+2013,33,New Hampshire,35
+2013,34,New Jersey,37
+2013,35,New Mexico,48
+2013,36,New York,193
+2013,37,North Carolina,125
+2013,38,North Dakota,8
+2013,39,Ohio,114
+2013,40,Oklahoma,17
+2013,41,Oregon,220
+2013,42,Pennsylvania,183
+2013,44,Rhode Island,12
+2013,45,South Carolina,30
+2013,46,South Dakota,12
+2013,47,Tennessee,51
+2013,48,Texas,128
+2013,49,Utah,24
+2013,50,Vermont,45
+2013,51,Virginia,85
+2013,53,Washington,266
+2013,54,West Virginia,9
+2013,55,Wisconsin,146
+2013,56,Wyoming,25
+2014,01,Alabama,25
+2014,02,Alaska,28
+2014,04,Arizona,77
+2014,05,Arkansas,23
+2014,06,California,654
+2014,08,Colorado,300
+2014,09,Connecticut,50
+2014,10,Delaware,15
+2014,12,Florida,158
+2014,13,Georgia,48
+2014,15,Hawaii,20
+2014,16,Idaho,51
+2014,17,Illinois,164
+2014,18,Indiana,116
+2014,19,Iowa,60
+2014,20,Kansas,27
+2014,21,Kentucky,38
+2014,22,Louisiana,17
+2014,23,Maine,71
+2014,24,Maryland,55
+2014,25,Massachusetts,98
+2014,26,Michigan,256
+2014,27,Minnesota,113
+2014,28,Mississippi,10
+2014,29,Missouri,77
+2014,30,Montana,62
+2014,31,Nebraska,35
+2014,32,Nevada,34
+2014,33,New Hampshire,46
+2014,34,New Jersey,49
+2014,35,New Mexico,60
+2014,36,New York,255
+2014,37,North Carolina,155
+2014,38,North Dakota,10
+2014,39,Ohio,151
+2014,40,Oklahoma,18
+2014,41,Oregon,244
+2014,42,Pennsylvania,233
+2014,44,Rhode Island,14
+2014,45,South Carolina,37
+2014,46,South Dakota,15
+2014,47,Tennessee,69
+2014,48,Texas,170
+2014,49,Utah,27
+2014,50,Vermont,51
+2014,51,Virginia,117
+2014,53,Washington,314
+2014,54,West Virginia,13
+2014,55,Wisconsin,168
+2014,56,Wyoming,28
+2015,01,Alabama,30
+2015,02,Alaska,35
+2015,04,Arizona,91
+2015,05,Arkansas,29
+2015,06,California,788
+2015,08,Colorado,352
+2015,09,Connecticut,59
+2015,10,Delaware,21
+2015,12,Florida,205
+2015,13,Georgia,54
+2015,15,Hawaii,26
+2015,16,Idaho,57
+2015,17,Illinois,210
+2015,18,Indiana,151
+2015,19,Iowa,71
+2015,20,Kansas,37
+2015,21,Kentucky,48
+2015,22,Louisiana,25
+2015,23,Maine,84
+2015,24,Maryland,73
+2015,25,Massachusetts,124
+2015,26,Michigan,316
+2015,27,Minnesota,142
+2015,28,Mississippi,14
+2015,29,Missouri,90
+2015,30,Montana,74
+2015,31,Nebraska,39
+2015,32,Nevada,39
+2015,33,New Hampshire,63
+2015,34,New Jersey,71
+2015,35,New Mexico,71
+2015,36,New York,329
+2015,37,North Carolina,207
+2015,38,North Dakota,11
+2015,39,Ohio,187
+2015,40,Oklahoma,21
+2015,41,Oregon,281
+2015,42,Pennsylvania,278
+2015,44,Rhode Island,15
+2015,45,South Carolina,51
+2015,46,South Dakota,19
+2015,47,Tennessee,88
+2015,48,Texas,220
+2015,49,Utah,29
+2015,50,Vermont,66
+2015,51,Virginia,155
+2015,53,Washington,383
+2015,54,West Virginia,17
+2015,55,Wisconsin,189
+2015,56,Wyoming,32
+2016,01,Alabama,37
+2016,02,Alaska,36
+2016,04,Arizona,110
+2016,05,Arkansas,34
+2016,06,California,927
+2016,08,Colorado,386
+2016,09,Connecticut,76
+2016,10,Delaware,25
+2016,12,Florida,264
+2016,13,Georgia,69
+2016,15,Hawaii,23
+2016,16,Idaho,67
+2016,17,Illinois,244
+2016,18,Indiana,163
+2016,19,Iowa,94
+2016,20,Kansas,47
+2016,21,Kentucky,60
+2016,22,Louisiana,34
+2016,23,Maine,102
+2016,24,Maryland,88
+2016,25,Massachusetts,146
+2016,26,Michigan,379
+2016,27,Minnesota,165
+2016,28,Mississippi,14
+2016,29,Missouri,116
+2016,30,Montana,79
+2016,31,Nebraska,47
+2016,32,Nevada,44
+2016,33,New Hampshire,73
+2016,34,New Jersey,96
+2016,35,New Mexico,86
+2016,36,New York,394
+2016,37,North Carolina,260
+2016,38,North Dakota,15
+2016,39,Ohio,236
+2016,40,Oklahoma,26
+2016,41,Oregon,304
+2016,42,Pennsylvania,333
+2016,44,Rhode Island,17
+2016,45,South Carolina,59
+2016,46,South Dakota,21
+2016,47,Tennessee,101
+2016,48,Texas,266
+2016,49,Utah,34
+2016,50,Vermont,73
+2016,51,Virginia,209
+2016,53,Washington,424
+2016,54,West Virginia,24
+2016,55,Wisconsin,217
+2016,56,Wyoming,33
+2017,01,Alabama,37
+2017,02,Alaska,40
+2017,04,Arizona,120
+2017,05,Arkansas,36
+2017,06,California,981
+2017,08,Colorado,408
+2017,09,Connecticut,83
+2017,10,Delaware,27
+2017,12,Florida,287
+2017,13,Georgia,78
+2017,15,Hawaii,25
+2017,16,Idaho,68
+2017,17,Illinois,259
+2017,18,Indiana,171
+2017,19,Iowa,98
+2017,20,Kansas,49
+2017,21,Kentucky,63
+2017,22,Louisiana,37
+2017,23,Maine,109
+2017,24,Maryland,94
+2017,25,Massachusetts,161
+2017,26,Michigan,402
+2017,27,Minnesota,183
+2017,28,Mississippi,16
+2017,29,Missouri,131
+2017,30,Montana,86
+2017,31,Nebraska,49
+2017,32,Nevada,43
+2017,33,New Hampshire,77
+2017,34,New Jersey,102
+2017,35,New Mexico,91
+2017,36,New York,420
+2017,37,North Carolina,287
+2017,38,North Dakota,17
+2017,39,Ohio,269
+2017,40,Oklahoma,28
+2017,41,Oregon,323
+2017,42,Pennsylvania,352
+2017,44,Rhode Island,19
+2017,45,South Carolina,70
+2017,46,South Dakota,23
+2017,47,Tennessee,108
+2017,48,Texas,279
+2017,49,Utah,36
+2017,50,Vermont,76
+2017,51,Virginia,238
+2017,53,Washington,448
+2017,54,West Virginia,24
+2017,55,Wisconsin,237
+2017,56,Wyoming,36
